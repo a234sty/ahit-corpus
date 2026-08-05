@@ -1,0 +1,917 @@
+{
+  "metadata": {
+    "book": "Galatians",
+    "osis": "Gal",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "Gal.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "İnsanlarca ya da insan aracılığıyla değil, Yeşua Mesih ve O’nu ölümden dirilten Baba Tanrı aracılığıyla elçi olan ben Pavlus,"
+      },
+      {
+        "osis": "Gal.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "benimle birlikte olan bütün kardeşler, Galatya topluluklarına:"
+      },
+      {
+        "osis": "Gal.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Baba Tanrı’dan ve Efendimiz Yeşua Mesih’ten sizlere lütuf ve esenlik olsun."
+      },
+      {
+        "osis": "Gal.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "Tanrımız’ın ve Babamız’ın isteği uyarınca, bizi şimdiki kötü çağdan kurtarmak için Mesih günahlarımız için kendisini sundu."
+      },
+      {
+        "osis": "Gal.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Tanrı’ya sonsuzlara dek yücelik olsun! Amin."
+      },
+      {
+        "osis": "Gal.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Sizi Mesih’in lütfuyla çağıranı bırakıp farklı bir “müjde” ye bu kadar çabuk dönmenize şaşıyorum."
+      },
+      {
+        "osis": "Gal.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Oysa başka bir “müjde” yoktur. Yalnızca sizi tedirgin edip Mesih’in Müjdesi’ni çarpıtmak isteyenler vardır."
+      },
+      {
+        "osis": "Gal.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Ama eğer biz ya da gökten bir melek, size bildirdiğimizden başka bir “müjde” bildirirse, lanet olsun ona!"
+      },
+      {
+        "osis": "Gal.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Daha önce söylediğimizi şimdi yeniden söylüyorum: Eğer bir kimse size kabul ettiğinizden başka bir “müjde” bildirirse, lanet olsun ona!"
+      },
+      {
+        "osis": "Gal.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Şimdi ben insanların mı, yoksa Tanrı’nın mı beğenisini arıyorum? Yoksa insanları mı memnun etmeye çalışıyorum? Eğer hâlâ insanları memnun ediyor olsaydım, Mesih’in hizmetkârı olmazdım."
+      },
+      {
+        "osis": "Gal.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Kardeşlerim, benim tarafımdan duyurulan Müjde’nin insana göre olmadığını size bildiririm."
+      },
+      {
+        "osis": "Gal.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Çünkü onu insandan almadım ve bana öğretilmedi, ama bu bana Yeşua Mesih’in vahyiyle geldi."
+      },
+      {
+        "osis": "Gal.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "Geçmiş zamanlarda Yahudi dinini nasıl yaşadığımı, Tanrı’nın topluluğuna aşırı zulmedip, kırıp geçirdiğimi duydunuz."
+      },
+      {
+        "osis": "Gal.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "Atalarımın geleneklerine sıkı sıkıya bağlı olarak, soydaşlarımın arasında Yahudilik inancında yaşıtlarımın birçoğundan daha ilerideydim."
+      },
+      {
+        "osis": "Gal.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Ne var ki, beni daha annemin rahmindeyken ayırıp lütfuyla beni çağıran Tanrı hoşnut olunca,"
+      },
+      {
+        "osis": "Gal.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "öteki ulusların arasında müjdelemem için bende kendi Oğlu’nu açıkladı. Bunun için hemen ete ya da kana danışmadım."
+      },
+      {
+        "osis": "Gal.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Ne de Yeruşalem’e, benden önceki elçilerin yanına çıktım, ama Arabistan’a gittim. Sonra Damaskus'a döndüm."
+      },
+      {
+        "osis": "Gal.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "Aradan üç yıl geçtikten sonra Petrus’u ziyaret etmek üzere Yeruşalem’e çıktım ve on beş gün onun yanında kaldım."
+      },
+      {
+        "osis": "Gal.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "Ama öbür elçilerden Efendi’nin kardeşi Yakov dışında başka kimseyi görmedim."
+      },
+      {
+        "osis": "Gal.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Şimdi size yazdığım şeyler, işte, Tanrı önünde yalan söylemiyorum."
+      },
+      {
+        "osis": "Gal.1.21",
+        "chapter": 1,
+        "verse": 21,
+        "text": "Sonra Suriye ve Kilikya bölgelerine geldim."
+      },
+      {
+        "osis": "Gal.1.22",
+        "chapter": 1,
+        "verse": 22,
+        "text": "Yahudiye’de Mesih’e ait olan topluluklar beni şahsen tanımıyorlardı."
+      },
+      {
+        "osis": "Gal.1.23",
+        "chapter": 1,
+        "verse": 23,
+        "text": "Onlar ise yalnızca, “Bir zamanlar bize zulmeden, bir zamanlar yıkmaya çalıştığı imanı şimdi duyuruyor” diyorlardı."
+      },
+      {
+        "osis": "Gal.1.24",
+        "chapter": 1,
+        "verse": 24,
+        "text": "Böylece bende Tanrı’yı yüceltiyorlardı."
+      }
+    ],
+    "2": [
+      {
+        "osis": "Gal.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "On dört yıl sonra Titus’u da yanıma alarak Barnabas’la birlikte yeniden Yeruşalem’e çıktım."
+      },
+      {
+        "osis": "Gal.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Vahiy yoluyla gittim. Boşuna koşmayayım ya da koşmuş olmayayım diye, öteki uluslar arasında duyurduğum Müjde’yi özel olarak ileri gelenlere sundum."
+      },
+      {
+        "osis": "Gal.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Ama benimle birlikte olan Titus bile Grek olduğu halde sünnet olmaya zorlanmadı."
+      },
+      {
+        "osis": "Gal.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Bu, aramızda gizlice sokulan sahte kardeşler yüzündendi. Bunlar Mesih Yeşua’da sahip olduğumuz özgürlüğü el altından araştırmak ve böylece bizi köleleştirmek istediler."
+      },
+      {
+        "osis": "Gal.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Müjde gerçeği sizinle devam etsin diye bir saat için bile onlara boyun eğmedik."
+      },
+      {
+        "osis": "Gal.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Ama önemli sayılanlar -ne oldukları bence önemli değil, Tanrı insanlar arasında ayrım yapmaz- bu saygı duyulanlar bana bir şey katmadılar."
+      },
+      {
+        "osis": "Gal.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Tam tersine, sünnetliler için Müjde nasıl Petrus’a emanet edildiyse, sünnetsizler için de Müjde'nin bana emanet edildiğini gördüler."
+      },
+      {
+        "osis": "Gal.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Çünkü sünnetlilere elçilik etmesi için Petrus’da çalışan Tanrı, öteki uluslara elçilik etmem için bende de çalıştı."
+      },
+      {
+        "osis": "Gal.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Bana verilen lütfu farkedince topluluğun direkleri sayılan Yakov, Kefas ve Yuhanna Barnabas’a ve bana paydaşlık sağ ellerini verdiler. Öyle ki, öteki uluslara biz gidelim, Yahudiler’e kendileri gitsinler."
+      },
+      {
+        "osis": "Gal.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Bizden sadece yoksulları hatırlamamızı istediler. Zaten ben de bunu yapmanın gayreti içindeydim."
+      },
+      {
+        "osis": "Gal.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Ne var ki, Petrus Antakya’ya geldiğinde, suçlu olduğu için yüzüne karşı ona direndim."
+      },
+      {
+        "osis": "Gal.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Çünkü Yakov’un yanından bazı kişiler gelmeden önce öteki uluslardan olanlarla birlikte yemek yerdi. Ama o kişiler gelince sünnetlilerden korktuğu için geri çekildi ve kendini sünnetsizlerden ayırdı."
+      },
+      {
+        "osis": "Gal.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Öbür Yahudiler de onun ikiyüzlülüğüne ortak oldular. Barnabas bile onların ikiyüzlülüğüne kapıldı."
+      },
+      {
+        "osis": "Gal.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Ama Müjde’nin gerçeğine göre doğru davranmadıklarını görünce hepsinin önünde Petrus’a şöyle dedim: “Eğer bir Yahudi’yken, Yahudi gibi değil, öteki uluslar gibi yaşıyorsan, Yahudi olmayanları neden Yahudi gibi yaşamaya zorluyorsun?"
+      },
+      {
+        "osis": "Gal.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Doğuştan Yahudi olan bizler öteki uluslardan olan günahkârlar değiliz."
+      },
+      {
+        "osis": "Gal.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Yine de insanın Kutsal Yasa’nın işleriyle değil, Yeşua Mesih’teki iman aracılığıyla aklandığını bildiğimizden, biz de Yeşua’ya iman ettik. Öyle ki, Kutsal Yasa’nın işleriyle değil, Mesih’e iman ederek aklanalım. Çünkü hiçbir insan Yasa’nın işleriyle aklanmayacaktır."
+      },
+      {
+        "osis": "Gal.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Ama Mesih’te aklanmak isterken biz kendimiz günahlı bulunduysak, Mesih günahın hizmetkârı mı olur? Kesinlikle hayır!"
+      },
+      {
+        "osis": "Gal.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Yıktığım şeyleri yeniden kurarsam, yasayı çiğnediğimi kanıtlamış olurum."
+      },
+      {
+        "osis": "Gal.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Çünkü ben, Tanrı için yaşayabilmek için Yasa aracılığıyla Yasa karşısında öldüm."
+      },
+      {
+        "osis": "Gal.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Mesih’le birlikte çarmıha gerildim. Artık ben yaşamıyorum, Mesih bende yaşıyor. Şimdi bedende yaşadığım bu hayatı, beni seven ve benim için kendini feda eden Tanrı Oğlu’ndaki imanla yaşıyorum."
+      },
+      {
+        "osis": "Gal.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "Tanrı’nın lütfunu reddetmiyorum. Çünkü doğruluk Yasa aracılığıyla ise, o zaman Mesih boş yere ölmüştür!”"
+      }
+    ],
+    "3": [
+      {
+        "osis": "Gal.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Ey akılsız Galatyalılar! Gerçeğe itaat etmemeniz için sizi kim büyüledi? Yeşua Mesih, aranızda çarmıha gerilmiş olarak açıkça sizin gözlerinizin önünde tasvir edilmedi mi?"
+      },
+      {
+        "osis": "Gal.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Sizden yalnızca şunu öğrenmek istiyorum: Kutsal Ruh’u Yasa’nın işleriyle mi, yoksa imanın duyurusuyla mı aldınız?"
+      },
+      {
+        "osis": "Gal.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Bu kadar akılsız mısınız? Ruh’la başladıktan sonra şimdi bedenle mi tamamlayacaksınız?"
+      },
+      {
+        "osis": "Gal.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Bunca şeyi boşuna mı çektiniz? Gerçekten de boşuna mıydı?"
+      },
+      {
+        "osis": "Gal.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Öyleyse, size Ruh’u veren ve aranızda mucizeler yapan Tanrı, bunu Yasa’nın işleriyle mi, yoksa imanın duyurusuyla mı yapıyor?"
+      },
+      {
+        "osis": "Gal.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Bunun gibi, Avraham “Tanrı’ya iman etti ve bu ona doğruluk sayıldı.”"
+      },
+      {
+        "osis": "Gal.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Bu nedenle bilin ki, imandan olanlar Avraham’ın çocukları onlardır."
+      },
+      {
+        "osis": "Gal.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Kutsal Yazı, Tanrı’nın öteki ulusları imanla aklayacağını önceden görerek, “Bütün uluslar sende kutsanacak” diyerek Müjde’yi önceden Avraham’a duyurdu."
+      },
+      {
+        "osis": "Gal.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Öyleyse, imandan olanlar sadık Avraham ile birlikte kutsanırlar."
+      },
+      {
+        "osis": "Gal.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Yasa’nın işlerinden olanların hepsi lanet altındadır. Çünkü şöyle yazılmıştır: “Yasa Kitabı’nda yazılmış olan her şeyi yapmak üzere sürekli yerine getirmeyen herkes lanetlidir.”"
+      },
+      {
+        "osis": "Gal.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Artık hiç kimsenin Tanrı önünde Yasa’yla aklanmadığı açıktır. Çünkü, “Doğru kişi imanla yaşayacaktır.”"
+      },
+      {
+        "osis": "Gal.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Yasa imandan değildir. Ama, “Onları yapan kişi onlar aracılığıyla yaşayacaktır.”"
+      },
+      {
+        "osis": "Gal.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Mesih bizim uğrumuza lanet haline gelerek bizi Yasa’nın lanetinden kurtardı. Yazılmış olduğu gibi, “Ağaç üzerine asılan herkes lanetlidir.”"
+      },
+      {
+        "osis": "Gal.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Böylece Avraham’ın kutsaması Mesih Yeşua aracılığıyla ulusların üzerine gelsin ve bizler iman aracılığıyla Ruh’un vaadini alalım."
+      },
+      {
+        "osis": "Gal.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "Kardeşlerim, insani ölçülerle konuşuyorum. İnsanlar arasında yapılmış bile olsa, onaylanmış bir antlaşmayı kimse geçersiz kılmaz, ona bir şey eklemez."
+      },
+      {
+        "osis": "Gal.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Vaatler Avraham’a ve onun soyuna söylendi. Birçok kişiyi kapsıyormuş gibi soyundan olanlara demiyor, ancak bir kişi için, “Soyundan olana” diyor, ki bu Mesih’tir."
+      },
+      {
+        "osis": "Gal.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "Şunu söylüyorum: Dört yüz otuz yıl sonra gelen Yasa, Tanrı tarafından önceden Mesih’te onaylanan antlaşmayı iptal etmez, vaadi hükümsüz kılmaz."
+      },
+      {
+        "osis": "Gal.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "Çünkü miras eğer Yasa’dan ise, artık vaatten değildir. Ama Tanrı onu vaatle Avraham’a vermiştir."
+      },
+      {
+        "osis": "Gal.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "Öyleyse Yasa neden vardı? Kendisine vaat edilen soy gelinceye dek, suçlar yüzünden eklendi. Bir aracı eliyle, melekler yoluyla düzenlendi."
+      },
+      {
+        "osis": "Gal.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Aracı tek bir taraftan değildir, oysa Tanrı birdir."
+      },
+      {
+        "osis": "Gal.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "Öyleyse Yasa Tanrı’nın vaatlerine aykırı mı? Kesinlikle hayır! Çünkü hayat sağlayabilen bir yasa verilmiş olsaydı, kesinlikle doğruluk yasayla olurdu."
+      },
+      {
+        "osis": "Gal.3.22",
+        "chapter": 3,
+        "verse": 22,
+        "text": "Ama Yeşua Mesih’e olan imanla vaat iman edenlere verilsin diye, Kutsal Yazı her şeyi günah altında hapsetti."
+      },
+      {
+        "osis": "Gal.3.23",
+        "chapter": 3,
+        "verse": 23,
+        "text": "Ama iman gelmeden önce, Yasa altında hapsolmuştuk, sonradan açıklanacak iman için tutukluyduk."
+      },
+      {
+        "osis": "Gal.3.24",
+        "chapter": 3,
+        "verse": 24,
+        "text": "Öyle ki, imanla aklanmamız için Yasa bizi Mesih’e götürmek üzere bizim eğitmenimiz oldu."
+      },
+      {
+        "osis": "Gal.3.25",
+        "chapter": 3,
+        "verse": 25,
+        "text": "Ama şimdi iman geldiğinden, artık bir eğitmen altında değiliz."
+      },
+      {
+        "osis": "Gal.3.26",
+        "chapter": 3,
+        "verse": 26,
+        "text": "Çünkü Mesih Yeşua’ya olan imanınız aracılığıyla hepiniz Tanrı’nın çocuklarısınız."
+      },
+      {
+        "osis": "Gal.3.27",
+        "chapter": 3,
+        "verse": 27,
+        "text": "Çünkü Mesih’e vaftiz edilenlerinizin hepsi Mesih’i giyindi."
+      },
+      {
+        "osis": "Gal.3.28",
+        "chapter": 3,
+        "verse": 28,
+        "text": "Artık ne Yahudi ne de Grek, ne köle ne de özgür, ne erkek ne de kadın ayrımı vardır. Çünkü hepiniz Mesih Yeşua’da birsiniz."
+      },
+      {
+        "osis": "Gal.3.29",
+        "chapter": 3,
+        "verse": 29,
+        "text": "Eğer Mesih’e aitseniz, Avraham’ın soyundansınız ve vaade göre mirasçısınız."
+      }
+    ],
+    "4": [
+      {
+        "osis": "Gal.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Ama şunu diyorum, mirasçı çocuk olduğu sürece her şeyin efendisi olsa da, köleden farkı yoktur."
+      },
+      {
+        "osis": "Gal.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Babasının belirlediği vakte dek vasilerin ve vekillerin altındadır."
+      },
+      {
+        "osis": "Gal.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Böylece, biz de çocukken dünyanın temel ilkeleri altında esirdik."
+      },
+      {
+        "osis": "Gal.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Ama vakit dolunca Tanrı, Yasa altında olanları kurtarmak için Yasa altında kadından doğan Oğlu’nu gönderdi. Öyle ki, bizler evlatlık hakkını alalım."
+      },
+      {
+        "osis": "Gal.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "",
+        "combined_with": "Gal.4.4"
+      },
+      {
+        "osis": "Gal.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Çocuklar olduğunuz için Tanrı Oğlu’nun, “Abba, Baba!” diye seslenen Ruhu’nu yüreklerinize gönderdi."
+      },
+      {
+        "osis": "Gal.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Demek artık köle değil, oğulsun ve oğul isen, o zaman Mesih aracılığıyla Tanrı’nın mirasçısısın."
+      },
+      {
+        "osis": "Gal.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Ancak Tanrı’yı tanımadığınız zamanlarda, geçmişte gerçek olmayan ilâhlara kölelik ettiniz."
+      },
+      {
+        "osis": "Gal.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Ama şimdi Tanrı’yı tanıdınız, daha doğrusu Tanrı tarafından tanındınız. Neden yine sizi köle eden bu zayıf ve sefil, temel ilkelere yeniden dönmeyi arzuluyorsunuz?"
+      },
+      {
+        "osis": "Gal.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "Günleri, ayları, mevsimleri, yılları tutuyorsunuz!"
+      },
+      {
+        "osis": "Gal.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Sizin için korkuyorum. Yoksa size harcadığım emek boşuna mıydı?"
+      },
+      {
+        "osis": "Gal.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Kardeşlerim, size yalvarırım, benim gibi olun. Çünkü ben de sizin gibi oldum. Bana hiç haksızlık etmediniz."
+      },
+      {
+        "osis": "Gal.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Ama biliyorsunuz ki, Müjde’yi size ilk kez bedensel zayıflığımdan ötürü bildirdim."
+      },
+      {
+        "osis": "Gal.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Bedensel yanım sizin için bir sınanma olmasına karşın beni hor görüp reddetmediniz. Beni Tanrı’nın bir meleğini, hatta Mesih Yeşua’yı kabul eder gibi kabul ettiniz."
+      },
+      {
+        "osis": "Gal.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "O mutluluğunuza ne oldu? Sizin için tanıklık ederim ki, mümkün olsa gözlerinizi oyar ve bana verirdiniz."
+      },
+      {
+        "osis": "Gal.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "Öyleyse, size gerçeği söylemekle düşmanınız mı oldum?"
+      },
+      {
+        "osis": "Gal.4.17",
+        "chapter": 4,
+        "verse": 17,
+        "text": "Onlar sizi gayretle istiyorlar, ama iyi yolda değil! Kendileri için gayretli olasınız diye sizi bizden ayırmak istiyorlar."
+      },
+      {
+        "osis": "Gal.4.18",
+        "chapter": 4,
+        "verse": 18,
+        "text": "Ama iyi bir amaç için gayretli olmak her zaman iyidir, üstelik yalnızca aranızdayken değil."
+      },
+      {
+        "osis": "Gal.4.19",
+        "chapter": 4,
+        "verse": 19,
+        "text": "Sevgili çocuklarım, Mesih sizde biçimleninceye dek sizin için yeniden doğum sancıları çekiyorum."
+      },
+      {
+        "osis": "Gal.4.20",
+        "chapter": 4,
+        "verse": 20,
+        "text": "Ama şimdi yanınızda olmayı ve sesimin tonunu değiştirmeyi isterdim! Çünkü size şaşıyorum!"
+      },
+      {
+        "osis": "Gal.4.21",
+        "chapter": 4,
+        "verse": 21,
+        "text": "Ey Yasa altında olmayı dileyen sizler, söyleyin bana, Yasa’yı duymuyor musunuz?"
+      },
+      {
+        "osis": "Gal.4.22",
+        "chapter": 4,
+        "verse": 22,
+        "text": "Avraham’ın biri köleden, diğeri de özgür kadından olmak üzere iki oğlu olduğu yazılmıştır."
+      },
+      {
+        "osis": "Gal.4.23",
+        "chapter": 4,
+        "verse": 23,
+        "text": "Köleden doğan bedene göre, özgür kadından doğansa vaade göre doğmuştur."
+      },
+      {
+        "osis": "Gal.4.24",
+        "chapter": 4,
+        "verse": 24,
+        "text": "Bunlarda bir benzetme vardır. Bu iki kadın iki antlaşmadır. Biri Sina Dağı’ndan, köle çocuklar doğuran Hagar’dır."
+      },
+      {
+        "osis": "Gal.4.25",
+        "chapter": 4,
+        "verse": 25,
+        "text": "Hagar, Arabistan’daki Sina Dağı’dır. Bugünkü Yeruşalem’e karşılık gelir. Çünkü Hagar, çocuklarıyla birlikte kölelik etmektedir."
+      },
+      {
+        "osis": "Gal.4.26",
+        "chapter": 4,
+        "verse": 26,
+        "text": "Oysa yukarıdan olan Yeruşalem özgürdür ve hepimizin annesi odur."
+      },
+      {
+        "osis": "Gal.4.27",
+        "chapter": 4,
+        "verse": 27,
+        "text": "Çünkü şöyle yazılmıştır: “Sevin, doğurmayan ey kısır kadın. Doğum sancısı çekmeyen sen, coş ve haykır! Çünkü terk edilmiş kadının, kocası olandan daha çok çocuğu var.”"
+      },
+      {
+        "osis": "Gal.4.28",
+        "chapter": 4,
+        "verse": 28,
+        "text": "Şimdi kardeşler, İshak gibi bizler de vaat çocuklarıyız."
+      },
+      {
+        "osis": "Gal.4.29",
+        "chapter": 4,
+        "verse": 29,
+        "text": "Ama bedene göre doğmuş olan, Ruh’a göre doğmuş olana o zaman nasıl zulmettiyse, şimdi de öyledir."
+      },
+      {
+        "osis": "Gal.4.30",
+        "chapter": 4,
+        "verse": 30,
+        "text": "Ancak Kutsal Yazı ne diyor? “Köleyi ve oğlunu dışarı atın. Çünkü kölenin oğlu özgür kadının oğluyla birlikte miras almayacaktır.”"
+      },
+      {
+        "osis": "Gal.4.31",
+        "chapter": 4,
+        "verse": 31,
+        "text": "Bunun gibi, kardeşler, bizler kölenin değil, özgür kadının çocuklarıyız."
+      }
+    ],
+    "5": [
+      {
+        "osis": "Gal.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Mesih bizi özgür kıldı. Bu nedenle bu özgürlük içinde sağlam durun ve bir daha kölelik boyunduruğuna girmeyin."
+      },
+      {
+        "osis": "Gal.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Bakın, ben Pavlus size söylüyorum, eğer sünnet olursanız Mesih’in size hiçbir faydası olmaz."
+      },
+      {
+        "osis": "Gal.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Evet, sünnet olan her adama, bütün yasayı yerine getirmekle yükümlü olduğunu bir kez daha bildiriyorum."
+      },
+      {
+        "osis": "Gal.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Yasa aracılığıyla aklanmak isteyen sizler Mesih’ten uzaklaştınız. Lütuftan ayrı düştünüz."
+      },
+      {
+        "osis": "Gal.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Çünkü biz doğruluk umudunu Ruh aracılığıyla, imanla bekliyoruz."
+      },
+      {
+        "osis": "Gal.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Çünkü Mesih Yeşua’da ne sünnetliliğin ne de sünnetsizliğin değeri vardır, ancak değerli olan sevgiyle işleyen imandır."
+      },
+      {
+        "osis": "Gal.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "İyi koşuyordunuz! Gerçeğe itaat etmekten sizi kim alıkoydu?"
+      },
+      {
+        "osis": "Gal.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Bu ikna çabası sizi çağırandan değildir."
+      },
+      {
+        "osis": "Gal.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Azıcık maya bütün hamuru kabartır."
+      },
+      {
+        "osis": "Gal.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "Başka türlü düşünmeyeceğiniz konusunda Efendi’de size güveniyorum. Ama sizi tedirgin eden, kim olursa olsun, cezasını çekecektir."
+      },
+      {
+        "osis": "Gal.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Ama ben, kardeşler, eğer hâlâ sünneti vaaz ediyor olsaydım, neden hâlâ zulüm görüyorum? Öyle olsaydı, çarmıh tökezi ortadan kalkmış olurdu."
+      },
+      {
+        "osis": "Gal.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Keşke sizi rahatsız edenler kendilerini hadım etseler!"
+      },
+      {
+        "osis": "Gal.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Kardeşler, sizler özgürlüğe çağrıldınız. Ancak özgürlüğünüz benlik için fırsat olmasın, ama birbirinize sevgiyle hizmet edin."
+      },
+      {
+        "osis": "Gal.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Bütün Yasa tek bir sözde, şunda tamamlanır: ‘‘Komşunu kendin gibi seveceksin.’’"
+      },
+      {
+        "osis": "Gal.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "Ama birbirinizi ısırıp yerseniz, dikkat edin, birbirinizi yok etmeyin."
+      },
+      {
+        "osis": "Gal.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Ama şunu diyorum, Ruh’a göre yürüyün. Böylece benliğin tutkularını yerine getirmezsiniz."
+      },
+      {
+        "osis": "Gal.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Çünkü benlik Ruh’a, Ruh da benliğe karşı olanı arzu eder. İstediğiniz şeyleri yapamayasınız diye bunlar birbirine zıttır."
+      },
+      {
+        "osis": "Gal.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Ama Ruh’un yönetimindeyseniz, Yasa altında değilsiniz."
+      },
+      {
+        "osis": "Gal.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "Benliğin işleri bellidir: Zina, cinsel ahlaksızlık, pislik, sefahat,"
+      },
+      {
+        "osis": "Gal.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "putperestlik, büyücülük, düşmanlık, çekişme, kıskançlık, öfke, sürtüşme, ayrılıklar, aykırı düşünceler,"
+      },
+      {
+        "osis": "Gal.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "çekememezlik, adam öldürme, sarhoşluk, çılgın eğlenceler ve buna benzer şeylerdir. Daha önceden uyardığım gibi sizi yeniden uyarıyorum: Bunları yapanlar Tanrı Krallığı’nı miras alamayacaklar."
+      },
+      {
+        "osis": "Gal.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Ama Ruh’un ürünüyse sevgi, sevinç, esenlik, sabır, nezaket, iyilik, iman,"
+      },
+      {
+        "osis": "Gal.5.23",
+        "chapter": 5,
+        "verse": 23,
+        "text": "yumuşak huyluluk ve özdenetimdir. Bunlara karşı yasa yoktur."
+      },
+      {
+        "osis": "Gal.5.24",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Mesih’e ait olanlar, tutku ve arzularıyla birlikte benliği çarmıha germişlerdir."
+      },
+      {
+        "osis": "Gal.5.25",
+        "chapter": 5,
+        "verse": 25,
+        "text": "Eğer Ruh ile yaşıyorsak, Ruh ile yürüyelim."
+      },
+      {
+        "osis": "Gal.5.26",
+        "chapter": 5,
+        "verse": 26,
+        "text": "Böbürlenmeyelim, birbirimizi kışkırtmayalım, birbirimizi kıskanmayalım."
+      }
+    ],
+    "6": [
+      {
+        "osis": "Gal.6.1",
+        "chapter": 6,
+        "verse": 1,
+        "text": "Kardeşler, eğer biri suç işlerken yakalanırsa, ruhsal olan sizler, böyle birini yumuşak bir ruhla yola getirin. Siz de ayartılmamak için kendinize dikkat edin."
+      },
+      {
+        "osis": "Gal.6.2",
+        "chapter": 6,
+        "verse": 2,
+        "text": "Birbirinizin yüklerini taşıyın, böylece Mesih’in Yasası’nı yerine getirirsiniz."
+      },
+      {
+        "osis": "Gal.6.3",
+        "chapter": 6,
+        "verse": 3,
+        "text": "Bir hiçken kendini bir şey sanan insan kendini kandırmış olur."
+      },
+      {
+        "osis": "Gal.6.4",
+        "chapter": 6,
+        "verse": 4,
+        "text": "Herkes kendi işini denetlesin. O zaman başkasıyla değil, yalnız kendi yaptıklarıyla övünebilir."
+      },
+      {
+        "osis": "Gal.6.5",
+        "chapter": 6,
+        "verse": 5,
+        "text": "Herkes kendi yükünü taşıyacaktır."
+      },
+      {
+        "osis": "Gal.6.6",
+        "chapter": 6,
+        "verse": 6,
+        "text": "Tanrı sözünde eğitilen, kendisini eğitenle bütün iyi şeyleri paylaşsın."
+      },
+      {
+        "osis": "Gal.6.7",
+        "chapter": 6,
+        "verse": 7,
+        "text": "Aldanmayın, Tanrı’yla alay edilmez. İnsan ne ekerse onu biçer."
+      },
+      {
+        "osis": "Gal.6.8",
+        "chapter": 6,
+        "verse": 8,
+        "text": "Çünkü kendi benliğine eken, benliğinden çürüme biçecektir. Ama Ruh’a eken, Ruh’tan sonsuz hayat biçecektir."
+      },
+      {
+        "osis": "Gal.6.9",
+        "chapter": 6,
+        "verse": 9,
+        "text": "İyilik yapmaktan usanmayalım. Çünkü vazgeçmezsek mevsiminde biçeceğiz."
+      },
+      {
+        "osis": "Gal.6.10",
+        "chapter": 6,
+        "verse": 10,
+        "text": "Öyleyse fırsatımız varken bütün insanlara, özellikle de iman ev halkına iyilik yapalım."
+      },
+      {
+        "osis": "Gal.6.11",
+        "chapter": 6,
+        "verse": 11,
+        "text": "Bakın, size kendi elimle ne denli büyük harflerle yazıyorum."
+      },
+      {
+        "osis": "Gal.6.12",
+        "chapter": 6,
+        "verse": 12,
+        "text": "Bedende gösteriş yapmak isteyenler, Mesih’in çarmıhından ötürü zulüm görmemek için sizi sünnet olmaya zorluyorlar."
+      },
+      {
+        "osis": "Gal.6.13",
+        "chapter": 6,
+        "verse": 13,
+        "text": "Sünnetlilerin kendileri bile Yasa’yı tutmuyorlar, ancak bedenlerinizle övünebilmek için sizi sünnet ettirmek istiyorlar."
+      },
+      {
+        "osis": "Gal.6.14",
+        "chapter": 6,
+        "verse": 14,
+        "text": "Efendimiz Yeşua Mesih’in çarmıhından başka bir şeyle övünmek benden uzak olsun. O’nun çarmıhı aracılığıyla dünya benim için çarmıha gerildi, ben de dünya için."
+      },
+      {
+        "osis": "Gal.6.15",
+        "chapter": 6,
+        "verse": 15,
+        "text": "Çünkü Mesih Yeşua’da sünnetli olup olmamanın bir önemi yoktur, önemli olan yeni yaratılıştır."
+      },
+      {
+        "osis": "Gal.6.16",
+        "chapter": 6,
+        "verse": 16,
+        "text": "Bu kurala göre yürüyenlerin hepsine ve Tanrı’nın İsraeli’ne esenlik ve merhamet olsun."
+      },
+      {
+        "osis": "Gal.6.17",
+        "chapter": 6,
+        "verse": 17,
+        "text": "Bundan böyle kimse bana sıkıntı vermesin. Çünkü ben Efendi Yeşua’nın işaretlerini bedenimde taşıyorum."
+      },
+      {
+        "osis": "Gal.6.18",
+        "chapter": 6,
+        "verse": 18,
+        "text": "Kardeşler, Efendimiz Yeşua Mesih’in lütfu ruhunuzla birlikte olsun! Amin."
+      }
+    ]
+  }
+}

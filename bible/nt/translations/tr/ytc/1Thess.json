@@ -1,0 +1,555 @@
+{
+  "metadata": {
+    "book": "1 Thessalonians",
+    "osis": "1Thess",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "1Thess.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Pavlus, Silvanus ve Timoteos, Baba Tanrı’da ve Efendi Yeşua Mesih’te olan Selanik kilisesine: Babamız Tanrı’dan ve Efendi Yeşua Mesih’ten sizlere lütuf ve esenlik olsun."
+      },
+      {
+        "osis": "1Thess.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "Dualarımızda sizleri anıyor, hepiniz için Tanrı’ya her zaman şükrediyoruz."
+      },
+      {
+        "osis": "1Thess.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Tanrımız ve Babamız’ın önünde, iman işinizi, sevgiyle verdiğiniz emeğinizi ve Efendimiz Yeşua Mesih’e olan dayanıklı umudunuzu hiç durmadan hatırlıyoruz."
+      },
+      {
+        "osis": "1Thess.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "Tanrı’nın sevdiği kardeşlerim, sizin seçilmiş olduğunuzu biliyoruz."
+      },
+      {
+        "osis": "1Thess.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Çünkü duyurduğumuz Müjde size yalnız sözde değil, güçte, Kutsal Ruh’ta ve büyük güvenceyle ulaştı. Aranızda bulunduğumuz sırada sizin yararınıza nasıl bir hayat sergilediğimizi bilirsiniz."
+      },
+      {
+        "osis": "1Thess.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Siz de bizi ve Efendi’yi örnek aldınız. Karşılaştığınız büyük sıkıntılara karşın, Kutsal Ruh’un sevinciyle sözü kabul ettiniz."
+      },
+      {
+        "osis": "1Thess.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Böylece Makedonya ve Ahaya’daki iman eden herkese örnek oldunuz."
+      },
+      {
+        "osis": "1Thess.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Çünkü Efendi’nin sözü yalnız Makedonya ve Ahaya’dakilere sizden yayılmakla kalmadı, Tanrı’ya olan imanınız da her yere yayıldı. Artık bizim bir söz söylememize gerek kalmadı."
+      },
+      {
+        "osis": "1Thess.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Çünkü onların hepsi bizi nasıl karşıladığınızı anlatıp duruyorlar. Diri ve gerçek Tanrı’ya hizmet etmek, O’nun ölümden dirilttiği ve bizleri gelecek gazaptan kurtaran Oğlu Yeşua’nın göklerden gelişini beklemek üzere putlardan Tanrı’ya nasıl döndüğünüzü anlatıyorlar."
+      },
+      {
+        "osis": "1Thess.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "",
+        "combined_with": "1Thess.1.9"
+      }
+    ],
+    "2": [
+      {
+        "osis": "1Thess.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Kardeşler, size yaptığımız ziyaretin boşuna olmadığını siz kendiniz biliyorsunuz."
+      },
+      {
+        "osis": "1Thess.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Bildiğiniz gibi, önceden Filipi Kenti’nde zulüm görmüş ve aşağılanmıştık. Yine de sıkıntıların içinde, Tanrı’dan aldığımız cesaretle Müjde’yi size duyurduk."
+      },
+      {
+        "osis": "1Thess.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Çünkü öğüdümüz yalandan, kötü niyetten ya da aldatmacadan değildir."
+      },
+      {
+        "osis": "1Thess.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Tam tersine, Tanrı tarafından Müjde’yi emanet almaya layık görülen kişiler olarak insanları değil, yüreklerimizi sınayan Tanrı’yı hoşnut edecek şekilde konuşuyoruz."
+      },
+      {
+        "osis": "1Thess.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Bildiğiniz gibi, hiçbir zaman ne pohpohlayıcı sözlerle ne de açgözlülüğü gizleyen bir maskeyle gelmedik. Tanrı tanığımızdır."
+      },
+      {
+        "osis": "1Thess.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "İnsanların -ne sizin ne de başkalarının- övgüsünü aramadık. Mesih’in elçileri olarak yetkimizi kullanabilirdik."
+      },
+      {
+        "osis": "1Thess.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Ama biz emziren bir annenin kendi çocuklarına değer verdiği gibi aranızda uysal olduk."
+      },
+      {
+        "osis": "1Thess.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Size öylesine bir sevgiyle bağlanmıştık ki, sizinle yalnız Tanrı’nın Müjdesi’ni değil, kendi canlarımızı da vermeye razıydık. Çünkü sizi çok sevdik!"
+      },
+      {
+        "osis": "1Thess.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Kardeşler, emeğimizi ve çabamızı hatırlayın. Hiçbirinize yük olmamak için gece gündüz çalıştık, size Tanrı’nın Müjdesi’ni duyurduk."
+      },
+      {
+        "osis": "1Thess.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Siz iman edenlere nasıl kutsal, doğru ve kusursuz davrandığımıza, sizler de Tanrı da tanıksınız."
+      },
+      {
+        "osis": "1Thess.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Bildiğiniz gibi, bir babanın kendi çocuklarına yaptığı gibi, hepinizi teşvik ettik, teselli ettik ve öğüt verdik."
+      },
+      {
+        "osis": "1Thess.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Sonuna dek Krallığı'na ve yüceliğine çağıran Tanrı’ya layık bir biçimde yürüyün."
+      },
+      {
+        "osis": "1Thess.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Bundan ötürü Tanrı’ya durmadan şükrediyoruz. Çünkü bizden duyduğunuz Tanrı’nın bildirisi olan sözü insan sözü olarak değil, gerçekte olduğu gibi, Tanrı sözü olarak kabul ettiniz. İman eden sizlerde işleyen de bu sözdür."
+      },
+      {
+        "osis": "1Thess.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Çünkü kardeşler, siz, Yahudiye’de Mesih Yeşua’da olan Tanrı’nın kiliselerini örnek aldınız. Siz de onların Yahudiler’den çekmiş olduğu sıkıntıların aynısını kendi yurttaşlarınızdan çektiniz."
+      },
+      {
+        "osis": "1Thess.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Hem Efendi Yeşua’yı hem de kendi peygamberlerini öldüren, bizi kovan Yahudiler’dir. Tanrı’yı hoşnut etmiyorlar ve bütün insanlara karşıtdırlar."
+      },
+      {
+        "osis": "1Thess.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Kurtulmaları için öteki uluslardan olanlarla konuşmamızı yasaklıyorlar ve günahlarını durmadan çoğaltıyorlar. Ama artık gazap onların üzerine sonuna kadar geldi."
+      },
+      {
+        "osis": "1Thess.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Ama biz kardeşler, sizden kısa bir süreliğine gönülde değil, bedende ayrı düştük, büyük bir arzuyla yüzünüzü görmek için daha da çok çabaladık."
+      },
+      {
+        "osis": "1Thess.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Bundan ötürü size gelmek istedik. Gerçekten de ben Pavlus, kaç kez gelmek istedim. Ama Şeytan bize engel oldu."
+      },
+      {
+        "osis": "1Thess.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Efendimiz Yeşua’nın gelişinde, O’nun önünde umudumuz, sevincimiz, sevinç tacımız nedir? Siz değil misiniz?"
+      },
+      {
+        "osis": "1Thess.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Yüceliğimiz ve sevincimiz sizsiniz."
+      }
+    ],
+    "3": [
+      {
+        "osis": "1Thess.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Böylece artık daha fazla dayanamayınca, Atina’da yalnız kalmayı uygun gördük."
+      },
+      {
+        "osis": "1Thess.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Mesih’in Müjdesi’nde Tanrı hizmetkârı olan kardeşimiz Timoteos’u imanınızı güçlendirip sizi teselli etmesi için yanınıza gönderdik."
+      },
+      {
+        "osis": "1Thess.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Öyle ki, bu sıkıntılar nedeniyle hiçbiriniz sarsılmasın. Bu görev için atandığımızı biliyorsunuz."
+      },
+      {
+        "osis": "1Thess.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Sizinle birlikteyken, kesin bir dille sıkıntı çekeceğinize ilişkin sizi önceden uyarmıştık. Bildiğiniz gibi, öyle oldu da."
+      },
+      {
+        "osis": "1Thess.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Bu nedenle, ayartıcının sizi herhangi bir şekilde ayartmasından ve emeğimizin boşa gitmesinden korktuğum için, daha fazla dayanamadım. İmanınızın durumunu öğrenmek için Timoteos’u gönderdim."
+      },
+      {
+        "osis": "1Thess.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Ama yanınızdan yeni dönen Timoteos, imanınız ve sevginiz hakkında bize müjde getirdi. Bizi her zaman iyi anılarla hatırladığınızı, tıpkı bizim sizi özlediğimiz gibi, sizin de bizi özlediğinizi bildirdi."
+      },
+      {
+        "osis": "1Thess.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Bundan ötürü, kardeşlerim, imanınız sayesinde bütün sıkıntı ve acılarımızın içinde sizinle teselli bulduk."
+      },
+      {
+        "osis": "1Thess.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Çünkü siz Efendi’de dimdik durursanız, biz o zaman yaşarız."
+      },
+      {
+        "osis": "1Thess.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Tanrımız’ın önünde sizden ötürü duyduğumuz bütün sevinç için, Tanrı’ya sizin için nasıl şükran sunabiliriz?"
+      },
+      {
+        "osis": "1Thess.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Yüzünüzü görebilmek ve imanınızın eksiklerini tamamlayabilmek için gece gündüz gayretle dua ediyoruz."
+      },
+      {
+        "osis": "1Thess.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Babamız Tanrı’nın kendisi ve Efendimiz Yeşua Mesih yolumuzu size yöneltsin."
+      },
+      {
+        "osis": "1Thess.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Bizim sizi sevdiğimiz gibi, birbirinize ve bütün insanlara karşı Efendi sizi sevgide artırıp çoğaltsın."
+      },
+      {
+        "osis": "1Thess.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Öyle ki, Efendimiz Yeşua bütün kutsallarıyla birlikte gelişinde, Babamız Tanrı’nın önünde kutsallıkta kusursuz olmanız için yüreklerinizi sonuna dek pekiştirsin."
+      }
+    ],
+    "4": [
+      {
+        "osis": "1Thess.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Sonuç olarak, kardeşler, Tanrı’yı hoşnut etmek için nasıl yürümeniz gerektiğini bizden öğrendiniz. Bunda daha da artmanız için Efendi Yeşua adıyla size yalvarıyor, öğütlüyoruz."
+      },
+      {
+        "osis": "1Thess.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Çünkü Efendi Yeşua aracılığıyla size hangi talimatları verdiğimizi biliyorsunuz."
+      },
+      {
+        "osis": "1Thess.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Çünkü Tanrı’nın isteği şudur: Kutsal olmanız, cinsel ahlaksızlıktan kaçınmanız."
+      },
+      {
+        "osis": "1Thess.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Öyle ki, her biriniz kendi bedenini kutsallık ve saygınlık içinde nasıl denetleyeceğini bilsin."
+      },
+      {
+        "osis": "1Thess.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Tanrı’yı tanımayan öteki uluslar gibi şehvet tutkusuyla değil,"
+      },
+      {
+        "osis": "1Thess.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "bu konuda hiç kimse kardeşine ya da kız kardeşine kötülük etmesin, faydalanmaya kalkışmasın. Önceden size tanıklık ettiğimiz, sizi uyardığımız gibi, Efendi bütün bu şeylerden ötürü öç alıcıdır."
+      },
+      {
+        "osis": "1Thess.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Çünkü Tanrı bizi ahlaksızlığa değil, kutsallaşmaya çağırdı."
+      },
+      {
+        "osis": "1Thess.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Bu nedenle, bunu reddeden kişi insanı değil, size Kutsal Ruhu’nu da vermiş olan Tanrı’yı reddetmiş olur."
+      },
+      {
+        "osis": "1Thess.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Kardeşlik sevgisine gelince, bu konuda birinin size yazmasına gerek yoktur. Çünkü Tanrı size birbirinizi sevmeyi öğretti."
+      },
+      {
+        "osis": "1Thess.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "Gerçekten, bütün Makedonya’daki kardeşlere karşı aynısını yapıyorsunuz. Ama kardeşler, bunda daha da çok artmanızı size öğütlüyoruz."
+      },
+      {
+        "osis": "1Thess.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Size verdiğimiz talimat gibi, sakin bir hayat sürmeyi, kendi işinize bakmayı ve kendi ellerinizle çalışmayı amaç edinin."
+      },
+      {
+        "osis": "1Thess.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Öyle ki, dışarıda olanlar önünde hiçbir şeye ihtiyaç duymadan doğru bir şekilde yürüyebilesiniz."
+      },
+      {
+        "osis": "1Thess.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Kardeşler, uyumuş olanlar hakkında bilgisiz kalmanızı istemiyoruz. Öyle ki, umudu olmayan diğerleri gibi kederlenmeyesiniz."
+      },
+      {
+        "osis": "1Thess.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Yeşua’nın ölüp dirildiğine inandığımız gibi, Tanrı aynı biçimde Yeşua'da uyumuş olanları da O’nunla birlikte geri getirecektir."
+      },
+      {
+        "osis": "1Thess.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "Bunun için Efendi’nin sözüyle size diyoruz ki, hayatta olan bizler, Efendi’nin gelişine dek bırakılmış olanlar, uyumuş olanların önüne kesinlikle geçmeyeceğiz."
+      },
+      {
+        "osis": "1Thess.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "Çünkü Efendi’nin kendisi yüksek sesle, başmeleğin sesiyle, Tanrı’nın borusuyla gökten inecek. Önce Mesih’e ait ölüler dirilecek."
+      },
+      {
+        "osis": "1Thess.4.17",
+        "chapter": 4,
+        "verse": 17,
+        "text": "Sonra biz yaşamakta olanlar, bırakılmış olanlar, Efendi’yi havada karşılamak üzere onlarla birlikte alınıp bulutlarla götürüleceğiz. Böylece sonsuza dek Efendi’yle birlikte olacağız."
+      },
+      {
+        "osis": "1Thess.4.18",
+        "chapter": 4,
+        "verse": 18,
+        "text": "Onun için birbirinizi bu sözlerle teselli edin."
+      }
+    ],
+    "5": [
+      {
+        "osis": "1Thess.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Kardeşler, zamanlar ve dönemler konusunda size bir şey yazmamıza gerek yok."
+      },
+      {
+        "osis": "1Thess.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Çünkü siz kendiniz de çok iyi biliyorsunuz ki, Efendi’nin günü geceleyin hırsız gibi gelecek."
+      },
+      {
+        "osis": "1Thess.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Onlar, “Esenlikte ve güvenlikteyiz” dedikleri zaman, gebe kadının doğum sancısı gibi, üzerlerine ani bir yıkım gelecek. Bundan hiçbir şekilde kaçıp kurtulamayacaklar."
+      },
+      {
+        "osis": "1Thess.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Ama kardeşler, siz karanlıkta değilsiniz ki, o gün sizi hırsız gibi yakalasın."
+      },
+      {
+        "osis": "1Thess.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Hepiniz ışığın çocukları, gündüzün çocuklarısınız. Geceye ya da karanlığa ait değiliz."
+      },
+      {
+        "osis": "1Thess.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Öyleyse ötekiler gibi uyumayalım, ayık ve uyanık olalım."
+      },
+      {
+        "osis": "1Thess.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Çünkü uyuyanlar gece uyur, sarhoş olanlar da gece sarhoş olur."
+      },
+      {
+        "osis": "1Thess.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Madem gündüze aitiz, iman ve sevgi zırhını kuşanalım, başımıza miğfer olarak kurtuluş umudunu takalım ve ayık duralım."
+      },
+      {
+        "osis": "1Thess.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Çünkü Tanrı bizi gazaba uğramak için değil, Efendimiz Yeşua Mesih aracılığıyla kurtuluşa kavuşmak için belirledi."
+      },
+      {
+        "osis": "1Thess.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "O bizim için öldü. Öyle ki, ister uyanık ister uykuda olalım, O’nunla birlikte yaşayalım."
+      },
+      {
+        "osis": "1Thess.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Bu nedenle şimdi yaptığınız gibi, birbirinizi teşvik edin ve birbirinizi geliştirin."
+      },
+      {
+        "osis": "1Thess.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Kardeşler, aranızda emek verenlerin, Efendi’de size öğüt veren önderlerinizin kıymetini bilmenizi rica ederiz."
+      },
+      {
+        "osis": "1Thess.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Yaptıkları işten ötürü onlara sevgiyle büyük saygı gösterin. Kendi aranızda barış içinde olun."
+      },
+      {
+        "osis": "1Thess.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Kardeşler, öğüdümüz şudur: Düzensizlere öğüt verin, yüreksizleri cesaretlendirin, güçsüzleri destekleyin, herkese karşı sabırlı olun."
+      },
+      {
+        "osis": "1Thess.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "Bakın, kimse kötülüğe kötülükle karşılık vermesin. Birbirinize ve herkese karşı her zaman iyiliği amaçlayın."
+      },
+      {
+        "osis": "1Thess.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Her zaman sevinin."
+      },
+      {
+        "osis": "1Thess.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Sürekli dua edin."
+      },
+      {
+        "osis": "1Thess.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Her şeyde şükredin. Çünkü Tanrı’nın Mesih Yeşua’da sizin için olan isteği budur."
+      },
+      {
+        "osis": "1Thess.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "Ruh’u söndürmeyin."
+      },
+      {
+        "osis": "1Thess.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "Peygamberlik sözlerini hor görmeyin."
+      },
+      {
+        "osis": "1Thess.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "Her şeyi sınayın ve iyi olana sıkıca sarılın."
+      },
+      {
+        "osis": "1Thess.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Kötülüğün her türünden sakının."
+      },
+      {
+        "osis": "1Thess.5.23",
+        "chapter": 5,
+        "verse": 23,
+        "text": "Esenlik kaynağı olan Tanrı sizi tümüyle kutsasın. Efendimiz Yeşua Mesih’in gelişinde bütün ruhunuz, canınız ve bedeniniz kusursuz bir şekilde korunsun."
+      },
+      {
+        "osis": "1Thess.5.24",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Sizi çağıran Tanrı sadıktır ve bunu yapacaktır."
+      },
+      {
+        "osis": "1Thess.5.25",
+        "chapter": 5,
+        "verse": 25,
+        "text": "Kardeşler, bizim için dua edin."
+      },
+      {
+        "osis": "1Thess.5.26",
+        "chapter": 5,
+        "verse": 26,
+        "text": "Bütün kardeşleri kutsal öpüşle selamlayın."
+      },
+      {
+        "osis": "1Thess.5.27",
+        "chapter": 5,
+        "verse": 27,
+        "text": "Bu mektubun tüm kutsal kardeşlere okunmasını Efendi adına ciddiyetle size buyuruyorum."
+      },
+      {
+        "osis": "1Thess.5.28",
+        "chapter": 5,
+        "verse": 28,
+        "text": "Efendimiz Yeşua Mesih’in lütfu sizinle olsun! Amin."
+      }
+    ]
+  }
+}

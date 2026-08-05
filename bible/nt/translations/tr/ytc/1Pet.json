@@ -1,0 +1,654 @@
+{
+  "metadata": {
+    "book": "1 Peter",
+    "osis": "1Pet",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "1Pet.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Yeşua Mesih’in elçisi Petrus, Baba Tanrı’nın ön bilgisi uyarınca,"
+      },
+      {
+        "osis": "1Pet.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "Ruh’un kutsal kılmasıyla, Yeşua Mesih’e itaat etmeniz ve O’nun kanının üzerinize serpilmesi için seçilmiş olup Pontus, Galatya, Kapadokya, Asya İli ve Bitinya’ya dağılmış olan yabancılara: Size lütuf ve esenlik çoğaltılsın."
+      },
+      {
+        "osis": "1Pet.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Efendimiz Yeşua Mesih’in Tanrısı ve Babası’na övgüler olsun! O büyük merhametiyle yeniden doğmamızı sağladı. Yeşua Mesih’i ölümden diriltmekle bizi yaşayan bir umuda, bozulmaz, lekesiz bir mirasa kavuşturdu. Bu miras göklerde sizin için ayrılmıştır."
+      },
+      {
+        "osis": "1Pet.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "",
+        "combined_with": "1Pet.1.3"
+      },
+      {
+        "osis": "1Pet.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Zamanın sonunda açığa çıkmaya hazır kurtuluş için iman aracılığıyla Tanrı’nın gücüyle korunuyorsunuz."
+      },
+      {
+        "osis": "1Pet.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Bundan büyük sevinç duyuyorsunuz. Gerçi şimdi çeşitli denenmelerle kısa bir süre üzüntü çekmeniz gerekiyor."
+      },
+      {
+        "osis": "1Pet.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Böylelikle ateşle arıtılmış saf altından daha değerli olan imanınızın kanıtlanması, Yeşua Mesih göründüğünde size övgü, yücelik, saygınlık kazandıracak."
+      },
+      {
+        "osis": "1Pet.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "O’nu görmemiş olduğunuz halde seviyorsunuz. Şu anda O’nu görmediğiniz halde iman ediyorsunuz. Sözle anlatılamaz yücelik dolu bir sevinçle coşuyorsunuz."
+      },
+      {
+        "osis": "1Pet.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "İmanınızın sonucu olarak canlarınızın kurtuluşunu alıyorsunuz."
+      },
+      {
+        "osis": "1Pet.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Size gelecek lütuftan söz etmiş olan peygamberler, bu kurtuluşu gayretle arayıp soruşturdular."
+      },
+      {
+        "osis": "1Pet.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "İçlerinde bulunan Mesih’in Ruhu, Mesih’in çekeceği acıları ve bu acıları izleyecek olan yücelikleri önceden bildirirken, Ruh’un kime ya da ne tür bir zamana işaret ettiğini araştırdılar."
+      },
+      {
+        "osis": "1Pet.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Bu şeylerde kendilerine değil, size hizmet ettikleri onlara gösterildi. Bunları gökten gönderilen Kutsal Ruh aracılığıyla size Müjde’yi iletenler şimdi bildirdi. Melekler bu şeylere yakından bakmak isterler."
+      },
+      {
+        "osis": "1Pet.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "Bu nedenle düşüncelerinizi eyleme hazırlayın. Ayık kalıp umudunuzu tümüyle Yeşua Mesih’in görünmesiyle size getirilecek lütfa bağlayın."
+      },
+      {
+        "osis": "1Pet.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "İtaat çocukları gibi olun, bilgisizlik zamanındaki eski tutkularınıza uymayın."
+      },
+      {
+        "osis": "1Pet.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Sizi çağıran Tanrı kutsal olduğu gibi, siz de her davranışınızda kutsal olun."
+      },
+      {
+        "osis": "1Pet.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "Çünkü şöyle yazılmıştır: “Kutsal olacaksınız, çünkü ben kutsalım.”"
+      },
+      {
+        "osis": "1Pet.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Kimseyi kayırmadan, kişiyi yaptığı işe göre yargılayan Tanrı’yı Baba diye çağırdığınıza göre, yabancı olarak yaşadığınız buradaki zamanınızı saygıyla korku içinde geçirin."
+      },
+      {
+        "osis": "1Pet.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "Çünkü atalarınızdan kalma boş yaşayışınızdan, çürüyüp giden gümüşle ya da altınla kurtulmadığınızı biliyorsunuz."
+      },
+      {
+        "osis": "1Pet.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "Tersine, eksiksiz ve lekesiz kuzuyu andıran Mesih’in değerli kanıyla kurtuldunuz."
+      },
+      {
+        "osis": "1Pet.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Dünyanın kuruluşundan önce bilinen Mesih, bu son çağda sizin yararınıza göründü."
+      },
+      {
+        "osis": "1Pet.1.21",
+        "chapter": 1,
+        "verse": 21,
+        "text": "O’nu ölümden diriltip yücelten Tanrı’ya O’nun aracılığıyla iman ediyorsunuz. Öyle ki, imanınız ve umudunuz Tanrı’da olsun."
+      },
+      {
+        "osis": "1Pet.1.22",
+        "chapter": 1,
+        "verse": 22,
+        "text": "Ruh aracılığıyla gerçeğe itaat ederek içten kardeş sevgisinde canlarınızı temizlediğinize göre, yürekten birbirinizi hararetle sevin."
+      },
+      {
+        "osis": "1Pet.1.23",
+        "chapter": 1,
+        "verse": 23,
+        "text": "Çünkü çürüyen değil, çürümez bir tohumdan, yani Tanrı’nın diri ve ebedi sözü aracılığıyla yeniden doğdunuz."
+      },
+      {
+        "osis": "1Pet.1.24",
+        "chapter": 1,
+        "verse": 24,
+        "text": "Çünkü, “Bütün insanlar ota benzer, insanın tüm yüceliği kır çiçeği gibidir. Ot kurur, çiçeği düşer,"
+      },
+      {
+        "osis": "1Pet.1.25",
+        "chapter": 1,
+        "verse": 25,
+        "text": "ama Efendi’nin sözü sonsuza dek yerinde durur.” İşte size duyurulmuş olan Müjde sözü budur."
+      }
+    ],
+    "2": [
+      {
+        "osis": "1Pet.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Bunun için her türlü kötülüğü, hileyi, ikiyüzlülüğü, kıskançlığı ve her türden kötü konuşmayı bir yana bırakın."
+      },
+      {
+        "osis": "1Pet.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Eğer gerçekten Efendi’nin iyiliğini tattıysanız, yeni doğan bebekler gibi, saf ruhsal sütü özleyin ki, onunla büyüyesiniz."
+      },
+      {
+        "osis": "1Pet.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "",
+        "combined_with": "1Pet.2.2"
+      },
+      {
+        "osis": "1Pet.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "İnsanlar tarafından reddedilmiş, ama Tanrı’ya göre seçkin, değerli taşa, O’na gelin."
+      },
+      {
+        "osis": "1Pet.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Siz de Yeşua Mesih aracılığıyla Tanrı’yı hoşnut eden ruhsal kurbanlar sunmak ve kutsal kâhinler topluluğu olmak üzere, diri taşlar olarak ruhsal konut olmak için bina olunuyorsunuz."
+      },
+      {
+        "osis": "1Pet.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Çünkü Kutsal Yazı şunu içerir, “İşte, Siyon’a seçkin ve değerli bir köşe taşı koyuyorum. O’na iman eden düş kırıklığına uğramayacak.”"
+      },
+      {
+        "osis": "1Pet.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "İman eden sizler için bu taş saygındır. Ama itaatsizler için, “Yapıcıların reddettiği taş köşenin baş taşı,”"
+      },
+      {
+        "osis": "1Pet.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "ve, “Tökezleme taşı ve suç kayası oldu.” Çünkü onlar söze itaatsizlik ederek tökezlerler. Zaten bunun için atanmışlardır."
+      },
+      {
+        "osis": "1Pet.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Ama siz seçilmiş bir soy, Kral’ın kâhinleri, kutsal ulus, Tanrı’nın kendisine ait bir halksınız. Sizi karanlıktan şaşılası ışığına çağıran Tanrı’nın harikalarını duyurmak için seçildiniz."
+      },
+      {
+        "osis": "1Pet.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Eskiden halk değildiniz, ama şimdi Tanrı’nın halkısınız. Eskiden merhamete kavuşmamıştınız, şimdiyse merhamete kavuştunuz."
+      },
+      {
+        "osis": "1Pet.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Ey sevgililer, yabancılar ve konuklar olarak cana karşı savaşan benliğin tutkularından kaçınmanızı rica ediyorum."
+      },
+      {
+        "osis": "1Pet.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Uluslar arasında iyi davranışlar sergileyin. Öyle ki, kötülük yapanlarmışsınız gibi size karşı konuşsalar da, iyi işlerinizi görüp ziyaret gününde Tanrı’yı yüceltsinler."
+      },
+      {
+        "osis": "1Pet.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Bu nedenle, Efendi adına insanlar arasında yetkili kılınmış her kuruma, gerek her şeyin üstünde olan krala, gerekse kötülük yapanları cezalandırmak ve iyilik yapanları onurlandırmak için kralın gönderdiği valilere tabi olun."
+      },
+      {
+        "osis": "1Pet.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "",
+        "combined_with": "1Pet.2.13"
+      },
+      {
+        "osis": "1Pet.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Çünkü Tanrı’nın isteği, akılsızların bilgisizliğini iyilik yaparak susturmanızdır."
+      },
+      {
+        "osis": "1Pet.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Özgür insanlar olarak yaşayın, ancak özgürlüğünüzü kötülük perdesi olarak kullanmayın. Tanrı’nın hizmetkârları olarak yaşayın."
+      },
+      {
+        "osis": "1Pet.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Bütün insanlara saygı gösterin. Kardeşsever olun. Tanrı’dan korkun. Krala saygı duyun."
+      },
+      {
+        "osis": "1Pet.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Ey hizmetkârlar, efendilerinize tam bir saygıyla tabi olun. Yalnızca iyi ve yumuşak huylu olanlarına değil, kötü olanlarına da."
+      },
+      {
+        "osis": "1Pet.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Çünkü bir kişi haksız yere acı çeker ve Tanrı bilinciyle acıya katlanırsa, övgüye değerdir."
+      },
+      {
+        "osis": "1Pet.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Günah işleyip dövüldüğünüzde sabırla katlanırsanız, bunda ne yücelik var? Ama iyilik edip acıya sabırla katlanırsanız, bu, Tanrı katında övgüye değerdir."
+      },
+      {
+        "osis": "1Pet.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "Çünkü bunun için çağrıldınız. Mesih de bizim için acı çekti, O’nun adımlarını izleyesiniz diye size bir örnek bıraktı."
+      },
+      {
+        "osis": "1Pet.2.22",
+        "chapter": 2,
+        "verse": 22,
+        "text": "O günah işlemedi, ‘‘ağzından hileli söz çıkmadı.’’"
+      },
+      {
+        "osis": "1Pet.2.23",
+        "chapter": 2,
+        "verse": 23,
+        "text": "Kendine lanet edildiğinde lanetle karşılık vermedi. Acı çektiğinde tehdit etmedi, ancak kendisini adaletle yargılayana teslim etti."
+      },
+      {
+        "osis": "1Pet.2.24",
+        "chapter": 2,
+        "verse": 24,
+        "text": "Günah karşısında ölelim, doğruluk uğruna yaşayalım diye, günahlarımızı kendi bedeninde, ağaç üzerinde yüklendi. O’nun yaralarıyla iyileştiniz."
+      },
+      {
+        "osis": "1Pet.2.25",
+        "chapter": 2,
+        "verse": 25,
+        "text": "Çünkü yoldan sapan koyunlar gibiydiniz, şimdiyse canlarınızın Çobanı’na ve Gözetmeni’ne geri döndünüz."
+      }
+    ],
+    "3": [
+      {
+        "osis": "1Pet.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Ey kadınlar, aynı şekilde, kocalarınıza tabi olun. Öyle ki, bazıları Söz’e itaat etmeseler bile, korku içindeki pak davranışınızı görerek söze gerek kalmaksızın karılarının davranışıyla kazanılsınlar."
+      },
+      {
+        "osis": "1Pet.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "",
+        "combined_with": "1Pet.3.1"
+      },
+      {
+        "osis": "1Pet.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Güzelliğiniz örgülü saçlar, altın takılar, güzel giysiler gibi yalnızca dış görünüşle ilgili olmasın."
+      },
+      {
+        "osis": "1Pet.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Tersine yüreğin saklı kişiliğinde, sakin ve yumuşak bir ruhun solmayan güzelliği süsünüz olsun. Tanrı katında bunun değeri çoktur."
+      },
+      {
+        "osis": "1Pet.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Çünkü geçmişte Tanrı’ya umut bağlamış kutsal kadınlar da kendi kocalarına tabi olup böyle süslenirlerdi."
+      },
+      {
+        "osis": "1Pet.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Böylece Sarah Avraham’ın sözünü dinler, ona “Efendim” diye hitap ederdi. İyilik eder, hiçbir dehşetten korkmazsanız, siz de Sarah’ın çocukları olursunuz."
+      },
+      {
+        "osis": "1Pet.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Aynı şekilde, siz kocalar, daha zayıf kap olan karılarınızla anlayış içinde yaşayın. Tanrı’nın lütfettiği hayatın ortak mirasçıları oldukları için onlara saygı gösterin. Öyle ki, dualarınız engelle karşılaşmasın."
+      },
+      {
+        "osis": "1Pet.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Sonuç olarak, hepiniz aynı düşüncede olun. Birbirinize karşı şefkatli, kardeşsever, yufka yürekli, nazik olun."
+      },
+      {
+        "osis": "1Pet.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Kötülüğe kötülükle, hakarete hakaretle değil, tersine kutsamayla karşılık verin. Çünkü kutsanmayı miras almak için çağrıldınız."
+      },
+      {
+        "osis": "1Pet.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Çünkü, “Hayatı seven, güzel günler görmek isteyen, dilini kötülükten, dudaklarını yalandan korusun."
+      },
+      {
+        "osis": "1Pet.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Kötülükten sakınıp iyilik etsin. Esenliği arasın, ve onun ardınca gitsin."
+      },
+      {
+        "osis": "1Pet.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Çünkü Efendi’nin gözleri doğruların üzerindedir, kulakları onların duasına açıktır. Ama Efendi’nin yüzü kötülük edenlere karşıdır.”"
+      },
+      {
+        "osis": "1Pet.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Eğer iyilik yapmayı kendinize örnek alırsanız, size kim kötülük edecek?"
+      },
+      {
+        "osis": "1Pet.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Doğruluk uğruna acı çekseniz bile, ne mutlu size! ‘‘Onların korktuğundan korkmayın, tedirgin de olmayın.’’"
+      },
+      {
+        "osis": "1Pet.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "Ama Efendi Tanrı’yı yüreklerinizde kutsayın. İçinizdeki umudun nedenini soran herkese yanıt vermeye her zaman hazır olun."
+      },
+      {
+        "osis": "1Pet.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Yalnız bunu alçakgönüllülükle ve saygıyla yapın. Temiz bir vicdana sahip olun. Öyle ki, Mesih’teki iyi hayatınızı kötüleyenler söylediklerinden utansınlar."
+      },
+      {
+        "osis": "1Pet.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "Eğer Tanrı’nın isteği iyilik edip acı çekmekse, kötülük yapıp acı çekmekten daha iyidir."
+      },
+      {
+        "osis": "1Pet.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "Çünkü Mesih de bizleri Tanrı’ya ulaştırmak üzere doğru kişi olarak doğru olmayanlar uğruna bir kez günahlar için acı çekti. Bedende öldürüldü, ama Ruh’ta diriltildi."
+      },
+      {
+        "osis": "1Pet.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "Ruh’ta gidip bunları zindanda olan ruhlara duyurdu."
+      },
+      {
+        "osis": "1Pet.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Eskiden, Noa’nın günlerinde gemi yapılırken, Tanrı’nın sabırla beklemesine karşın bu ruhlar itaatsiz olanlardı. O gemide suyla kurtulanların sayısı az oldu, yani sekiz kişiydi."
+      },
+      {
+        "osis": "1Pet.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "Bu şimdi, Yeşua Mesih’in dirilişiyle sizi kurtaran vaftizin bir simgesidir. Bedeni kirden arındıran değil, Tanrı’ya karşı temiz bir vicdanın yanıtı olan vaftiz."
+      },
+      {
+        "osis": "1Pet.3.22",
+        "chapter": 3,
+        "verse": 22,
+        "text": "O göğe çıkmıştır ve Tanrı’nın sağındadır. Melekler, yetkiler ve güçler O’na tabi kılınmıştır."
+      }
+    ],
+    "4": [
+      {
+        "osis": "1Pet.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Bu nedenle, Mesih bizim için bedende acı çektiğine göre, siz de aynı düşünceyle silahlanın. Çünkü bedende acı çeken, günahla ilişkisini kesmiştir."
+      },
+      {
+        "osis": "1Pet.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Öyle ki, bedende kalan zamanını artık insan tutkularına göre değil, Tanrı’nın isteği doğrultusunda yaşayasınız."
+      },
+      {
+        "osis": "1Pet.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Çünkü ulusların arzularını yerine getirerek ahlaksızlık, şehvet, sarhoşluk, çılgın eğlenceler, içki alemleri, iğrenç putperestlikler içinde geçmişimizi yeterince boşa harcadık."
+      },
+      {
+        "osis": "1Pet.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Onlarla aynı aşırı isyan seli içinde koşmamanızı yadırgıyorlar ve size küfrediyorlar."
+      },
+      {
+        "osis": "1Pet.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Onlar, ölüleri ve dirileri yargılamaya hazır olan O'na hesap verecekler."
+      },
+      {
+        "osis": "1Pet.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Bunun için Müjde ölülere de duyuruldu; öyle ki, bedenen insan gibi yargılansınlar, ama ruhta Tanrı'ya göre yaşasınlar."
+      },
+      {
+        "osis": "1Pet.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Ama her şeyin sonu yakındır. Bu nedenle sağduyulu olun, kendinize hâkim olun ve duada ayık durun."
+      },
+      {
+        "osis": "1Pet.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Her şeyden önce birbirinizi içten sevin. Çünkü sevgi birçok günahı örter."
+      },
+      {
+        "osis": "1Pet.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Söylenmeden birbirinize karşı konuksever olun."
+      },
+      {
+        "osis": "1Pet.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "Her biriniz almış olduğu ruhsal armağana göre, bunu Tanrı’nın çok yönlü lütfunun iyi yöneticileri olarak birbirinize hizmet etmek için kullanın."
+      },
+      {
+        "osis": "1Pet.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Konuşan, Tanrı’nın sözlerini iletirmiş gibi konuşsun. Hizmet eden, Tanrı’nın sağladığı güçle hizmet etsin. Öyle ki, Yeşua Mesih aracılığıyla Tanrı her şeyde yüceltilsin. Yücelik ve hâkimiyet sonsuza dek O’na aittir! Amin."
+      },
+      {
+        "osis": "1Pet.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Ey sevgililer, sınanmanız için üzerinize gelen ateşli denenme karşısında, sanki başınıza garip bir şey gelmiş gibi şaşırmayın."
+      },
+      {
+        "osis": "1Pet.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Tam tersine, Mesih’in acılarına ortak olduğunuz için sevinin ki, O’nun görkemi açığa çıktığında siz de sevinçle coşasınız."
+      },
+      {
+        "osis": "1Pet.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Mesih’in adından ötürü aşağılanırsanız, ne mutlu size! Çünkü Tanrı’nın yüce Ruhu üzerinizde duruyor. Onlar açısından O'na küfrediliyor, ama sizin açınızdan O yüceltiliyor."
+      },
+      {
+        "osis": "1Pet.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "Aranızdan hiçbiri katil, hırsız, kötülük yapan ya da başkalarının işine karışan biri olarak acı çekmesin."
+      },
+      {
+        "osis": "1Pet.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "Ama biriniz Hristiyan olduğu için acı çekerse, bundan utanmasın. Tersine, bu konuda Tanrı’yı yüceltsin."
+      },
+      {
+        "osis": "1Pet.4.17",
+        "chapter": 4,
+        "verse": 17,
+        "text": "Çünkü yargının, Tanrı’nın ev halkından başlayacağı zaman geldi. Eğer yargı önce bizden başlarsa, Tanrı’nın Müjdesi’ne itaat etmeyenlere ne olacak?"
+      },
+      {
+        "osis": "1Pet.4.18",
+        "chapter": 4,
+        "verse": 18,
+        "text": "“Doğru insanın kurtulması güçse, tanrısız ve günahkâra ne olacak?”"
+      },
+      {
+        "osis": "1Pet.4.19",
+        "chapter": 4,
+        "verse": 19,
+        "text": "Öyleyse, Tanrı’nın isteği doğrultusunda acı çekenler, iyilik ederek canlarını güvenilir Yaradan’a emanet etsinler."
+      }
+    ],
+    "5": [
+      {
+        "osis": "1Pet.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Bu nedenle, aranızdaki ihtiyarlara, onlar gibi bir ihtiyar, Mesih’in çektiği acıların tanığı, açığa çıkacak yüceliğin paydaşı olarak öğütte bulunuyorum."
+      },
+      {
+        "osis": "1Pet.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Tanrı’nın aranızdaki sürüsünü güdün. Bunu zorunluymuş gibi değil, gönüllü olarak yapın. Haksız kazanç için değil, gönüllü gözetmenlik yapın."
+      },
+      {
+        "osis": "1Pet.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Size emanet edilenlerin üzerinde efendi kesilerek değil, tersine sürüye örnek olarak yapın."
+      },
+      {
+        "osis": "1Pet.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Baş Çoban ortaya çıktığında, solmayan yücelik tacını alacaksınız."
+      },
+      {
+        "osis": "1Pet.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Aynı şekilde, gençler siz de, ihtiyarlara tabi olun. Evet, hepiniz birbirinize tabi olmak için alçakgönüllülüğü giyinin. Çünkü, “Tanrı kibirlilere karşı durur, alçakgönüllülere lütfeder.’’"
+      },
+      {
+        "osis": "1Pet.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Bu nedenle, Tanrı’nın güçlü eli altında kendinizi alçaltın ki, zamanı geldiğinde sizi yüceltsin."
+      },
+      {
+        "osis": "1Pet.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Bütün kaygılarınızı O’na bırakın, çünkü O sizi kayırır."
+      },
+      {
+        "osis": "1Pet.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Ayık durun ve kendinize hâkim olun. Uyanık durun. Düşmanınız İblis kükreyen bir aslan gibi yutabileceği birini arayarak dolaşıyor."
+      },
+      {
+        "osis": "1Pet.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Dünyadaki kardeşlerinizin de aynı acıları çektiğini bilerek, imanınızda sarsılmadan ona karşı koyun."
+      },
+      {
+        "osis": "1Pet.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "Kısa bir süre acı çektikten sonra sizi Mesih Yeşua aracılığıyla sonsuz yüceliğine çağıran tüm lütfun kaynağı olan Tanrı sizi yetkinleştirip, pekiştirecek, güçlendirip temellendirecektir."
+      },
+      {
+        "osis": "1Pet.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Yücelik ve güç sonsuza dek O’nun olsun! Amin."
+      },
+      {
+        "osis": "1Pet.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Kendisini sadık bir kardeş saydığım Silvanus aracılığıyla size kısaca yazdım. Size öğütte bulunuyor ve içinde bulunduğunuz lütfun Tanrı’nın gerçek lütfu olduğuna tanıklık ediyorum."
+      },
+      {
+        "osis": "1Pet.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Sizin gibi seçilmiş olan Babil’deki kilise size selam eder. Oğlum Markos da sizi selamlıyor."
+      },
+      {
+        "osis": "1Pet.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Birbirinizi sevgiyle öperek selamlayın. Mesih Yeşua’da olan hepinize esenlik olsun! Amin."
+      }
+    ]
+  }
+}

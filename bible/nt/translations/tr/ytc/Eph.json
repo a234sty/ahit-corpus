@@ -1,0 +1,961 @@
+{
+  "metadata": {
+    "book": "Ephesians",
+    "osis": "Eph",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "Eph.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Tanrı’nın isteğiyle Mesih Yeşua’nın elçisi Pavlus, Efes’teki kutsallara, Mesih Yeşua’ya ait olan sadıklara:"
+      },
+      {
+        "osis": "Eph.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "Babamız Tanrı’dan ve Efendi Yeşua Mesih’ten size lütuf ve esenlik olsun."
+      },
+      {
+        "osis": "Eph.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Bizi Mesih’te göksel yerlerde her ruhsal kutsamayla kutsamış olan Efendimiz Yeşua Mesih’in Tanrısı ve Babası’na övgüler olsun!"
+      },
+      {
+        "osis": "Eph.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "O dünyanın kuruluşundan önce kendi önünde sevgide kutsal ve kusursuz olmamız için bizi Mesih’te seçti."
+      },
+      {
+        "osis": "Eph.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Kendi dileğinin iyi iradesine göre Yeşua Mesih aracılığıyla kendisine evlatlar olalım diye bizi önceden belirledi."
+      },
+      {
+        "osis": "Eph.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Öyle ki, sevgili Olan’da karşılıksız olarak bize bağışladığı yüce lütfu övülsün."
+      },
+      {
+        "osis": "Eph.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Tam bilgelik ve anlayışla bize bol bol sağladığı lütfunun zenginliğine göre,"
+      },
+      {
+        "osis": "Eph.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Mesih’in kanıyla Mesih’te kurtuluşa, suçlarımızın bağışına sahibiz."
+      },
+      {
+        "osis": "Eph.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Tanrı sır olan isteğini, Mesih’te amaçladığı iyi iradesine göre bize bildirdi."
+      },
+      {
+        "osis": "Eph.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Zamanların doluluğunda yerine getireceği bu amaç uyarınca, yerdeki ve gökteki her şeyi Mesih’te birleştirecek."
+      },
+      {
+        "osis": "Eph.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Her şeyi kendi isteğinin öğüdüne göre yapan Tanrı’nın amacına göre önceden belirlenip Mesih’te mirasçı atandık."
+      },
+      {
+        "osis": "Eph.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Öyle ki, Mesih’e ilk umut bağlayan bizler, sonuna dek O’nun yüceliği için övgü nedeni olalım."
+      },
+      {
+        "osis": "Eph.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "Sizler de gerçeğin sözünü, kurtuluşunuzun Müjdesi’ni işitip O’na iman ettiğinizde, vaat edilen Kutsal Ruh’la mühürlendiniz,"
+      },
+      {
+        "osis": "Eph.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "o, Tanrı’nın kendisine ait olanların kurtuluşu ve Tanrı yüceliğinin övülmesi için mirasımızın güvencesidir."
+      },
+      {
+        "osis": "Eph.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Efendi Yeşua’ya olan imanınızı ve bütün kutsallara karşı beslediğiniz aranızdaki sevgiyi duydum."
+      },
+      {
+        "osis": "Eph.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "Bu nedenle sizin için sürekli şükrediyor, sizi dualarımda anıyorum."
+      },
+      {
+        "osis": "Eph.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Öyle ki, Efendimiz Yeşua Mesih’in Tanrısı ve Yüce Babası, kendisini tanımada size bilgelik ve vahiy ruhu versin."
+      },
+      {
+        "osis": "Eph.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "Ta ki, yüreklerinizin gözleri aydınlansın, kendi çağrısının umudunun ne olduğunu, kutsallarda bulunan mirasının yüce zenginliğinin ne olduğunu,"
+      },
+      {
+        "osis": "Eph.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "iman eden bizler için O'nun kudretli gücünün işleyişine göre O'nun kudretinin aşırı büyüklüğünün ne olduğunu bilesiniz."
+      },
+      {
+        "osis": "Eph.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Bu kudretini, Mesih'i ölümden diriltip göksel yerlerde sağında oturturken, O'nda kullanmıştır."
+      },
+      {
+        "osis": "Eph.1.21",
+        "chapter": 1,
+        "verse": 21,
+        "text": "O’nu bütün yönetimlerin, yetkilerin, güç ve egemenliklerin, yalnızca bu çağda değil, gelecek çağda da anılacak her adın çok üstüne çıkardı."
+      },
+      {
+        "osis": "Eph.1.22",
+        "chapter": 1,
+        "verse": 22,
+        "text": "Her şeyi ayaklarının altında boyun eğdirdi. O’nu her şeyin başı olarak imanlılar topluluğuna verdi."
+      },
+      {
+        "osis": "Eph.1.23",
+        "chapter": 1,
+        "verse": 23,
+        "text": "Kilise O’nun bedeni, her şeyde her şeyi dolduranın doluluğudur."
+      }
+    ],
+    "2": [
+      {
+        "osis": "Eph.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Suçlarınızın ve günahlarınızın içinde ölüyken diriltildiniz."
+      },
+      {
+        "osis": "Eph.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Bir zamanlar bu dünyanın gidişine, havadaki gücün hükümdarına, şimdi itaatsizlik çocuklarında etkin olan ruha göre yürümekteydiniz."
+      },
+      {
+        "osis": "Eph.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Biz de bir zamanlar onların arasında bedenimizin tutkularına göre yaşadık, bedenin ve aklın isteklerini yaptık ve ötekiler gibi doğal olarak gazap çocuklarıydık."
+      },
+      {
+        "osis": "Eph.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Ama merhamette zengin olan Tanrı, bize duyduğu büyük sevgisinden ötürü,"
+      },
+      {
+        "osis": "Eph.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "suçlarımız yüzünden ölüyken, bizi Mesih’le birlikte diriltti, lütfuyla kurtuldunuz."
+      },
+      {
+        "osis": "Eph.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Tanrı bizi Mesih Yeşua’da, O’nunla birlikte diriltip göksel yerlerde oturttu."
+      },
+      {
+        "osis": "Eph.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Bunu, Mesih Yeşua’da bize gösterdiği iyilikle, lütfunun aşırı zenginliğini gelecek çağlarda göstermek için yaptı."
+      },
+      {
+        "osis": "Eph.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Çünkü iman yoluyla, lütufla kurtuldunuz. Bu sizden değil, Tanrı’nın armağanıdır."
+      },
+      {
+        "osis": "Eph.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Kimse övünmesin diye, işlerden değildir."
+      },
+      {
+        "osis": "Eph.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Çünkü bizler O’nun eseriyiz, Tanrı’nın önceden hazırladığı iyi işler içinde yürüyelim diye Mesih Yeşua’da yaratıldık."
+      },
+      {
+        "osis": "Eph.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Bu nedenle, öteki uluslardan olan sizler bir zamanlar ne olduğunuzu hatırlayın: Bedende elle yapılmış sünnete sahip olup “sünnetli” denilenlerin “sünnetsiz” dedikleri sizler,"
+      },
+      {
+        "osis": "Eph.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "o zamanlar Mesih’ten ayrı olduğunuzu unutmayın. İsrael’in ortak zenginliğinden yoksun, vaat antlaşmalarına yabancı, dünyada umutsuz ve tanrısızdınız."
+      },
+      {
+        "osis": "Eph.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Ama bir zamanlar uzak olan sizler, Mesih’in kanıyla şimdi Mesih Yeşua’da yakın kılındınız."
+      },
+      {
+        "osis": "Eph.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Çünkü O bizim esenliğimizdir. Yasa’yı, buyrukları ve kurallarıyla birlikte ortadan kaldırarak ikisini birleştirdi. Aradaki ayrılık duvarını, düşmanlığı kendi bedeninde yıktı. Öyle ki, kendisinde ikisinden yeni bir insan yaratsın ve esenliği sağlasın, düşmanlığı çarmıhla öldürsün ve çarmıh aracılığıyla bir bedende ikisini Tanrı’yla barıştırsın."
+      },
+      {
+        "osis": "Eph.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "",
+        "combined_with": "Eph.2.14"
+      },
+      {
+        "osis": "Eph.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "",
+        "combined_with": "Eph.2.14"
+      },
+      {
+        "osis": "Eph.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "O gelip uzaktaki sizlere ve yakındakilere esenliği müjdeledi."
+      },
+      {
+        "osis": "Eph.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Çünkü O’nun aracılığıyla bir Ruh’ta iki kesim birlikte Baba’nın huzuruna girebiliriz."
+      },
+      {
+        "osis": "Eph.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Böylece artık yabancı ve misafir değil, kutsallarla birlikte yurttaş ve Tanrı’nın ev halkısınız."
+      },
+      {
+        "osis": "Eph.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Elçiler ve peygamberlerin temeli üzerinde bina oldunuz. Mesih Yeşua’nın kendisi köşe taşıdır."
+      },
+      {
+        "osis": "Eph.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "Bütün yapı, Efendi’de kutsal bir tapınak olmak üzere O’nda kenetlenip yükseliyor."
+      },
+      {
+        "osis": "Eph.2.22",
+        "chapter": 2,
+        "verse": 22,
+        "text": "Siz de Ruh'ta Tanrı’nın konutu olmak üzere hep birlikte Mesih’te bina edilmektesiniz."
+      }
+    ],
+    "3": [
+      {
+        "osis": "Eph.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Bunun için, ben Pavlus siz uluslar uğruna Mesih Yeşua’nın tutuklusuyum."
+      },
+      {
+        "osis": "Eph.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Sizin için bana verilmiş olan Tanrı lütfunun idaresi hakkında duymuşsunuzdur."
+      },
+      {
+        "osis": "Eph.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Önceden kısaca yazdığım gibi, bu sır bana vahiy yoluyla bildirildi."
+      },
+      {
+        "osis": "Eph.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Bunu okuduğunuzda Mesih’in sırrını nasıl kavradığımı anlayabilirsiniz."
+      },
+      {
+        "osis": "Eph.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Bu sır öteki kuşaklara, insanoğullarına bildirilmemişti. Oysa şimdi Ruh aracılığıyla Mesih’in kutsal elçilerine ve peygamberlerine açıklandı."
+      },
+      {
+        "osis": "Eph.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Müjde aracılığıyla Mesih Yeşua’da öteki uluslar da mirasçı, bedenin ortak üyeleri ve vaade paydaştırlar."
+      },
+      {
+        "osis": "Eph.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Tanrı’nın gücünün işleyişine göre bana verilen lütuf armağanı uyarınca bu Müjde’nin hizmetkârı kılındım."
+      },
+      {
+        "osis": "Eph.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Kutsalların en değersiziydim. Mesih’in akıl ermez zenginliğini uluslara müjdeleme,"
+      },
+      {
+        "osis": "Eph.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "ve her şeyi Mesih Yeşua’da yaratan Tanrı’da çağlar boyunca gizlenmiş sırrın nasıl düzenlediğini herkese gösterme lütfu yine de bana verildi."
+      },
+      {
+        "osis": "Eph.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Öyle ki, Tanrı’nın çok yönlü bilgeliği, şimdi kilise aracılığıyla hükümranlıklara, göksel yerlerdeki güçlere bildirilsin."
+      },
+      {
+        "osis": "Eph.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Bu, Tanrı’nın Efendimiz Mesih Yeşua’da tamamladığı sonsuz amacına uygundu."
+      },
+      {
+        "osis": "Eph.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "O’nda sahip olduğumuz iman aracılığıyla cesaretle ve güvenle O’nun önüne gelebiliriz."
+      },
+      {
+        "osis": "Eph.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Bu nedenle, uğrunuza çektiğim sıkıntılar karşısında yılmamanızı rica ediyorum. Bunlar sizin yüceliğinizdir."
+      },
+      {
+        "osis": "Eph.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Bu nedenle, gökte ve yeryüzünde her ailenin adını kendisinden aldığı Efendimiz Yeşua Mesih’in Babası’nın önünde diz çökerim."
+      },
+      {
+        "osis": "Eph.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "",
+        "combined_with": "Eph.3.14"
+      },
+      {
+        "osis": "Eph.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Baba kendi yüceliğinin zenginliğine göre Ruhu’yla iç varlığınızı kudretle güçlendirmesini, iman aracılığıyla Mesih’in yüreklerinizde bulunmasını dilerim. Bütün kutsallarla birlikte sonuna dek sevgide köklenip temellenmiş olarak, Mesih’in sevgisinin ne kadar geniş ve uzun, yüksek ve derin olduğunu anlamaya, bilgiyi aşan bu sevgiyi bilmeye gücünüz yetsin. Öyle ki, Tanrı’nın bütün doluluğuyla dolasınız."
+      },
+      {
+        "osis": "Eph.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "",
+        "combined_with": "Eph.3.16"
+      },
+      {
+        "osis": "Eph.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "",
+        "combined_with": "Eph.3.16"
+      },
+      {
+        "osis": "Eph.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "",
+        "combined_with": "Eph.3.16"
+      },
+      {
+        "osis": "Eph.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "İçimizde işleyen kudrete göre, dilediğimiz ya da düşündüğümüz her şeyden çok daha fazlasını yapabilecek güçte olan Tanrı’ya, kilisede ve Mesih Yeşua’da bütün kuşaklar boyunca sonsuza dek yücelik olsun! Amin."
+      },
+      {
+        "osis": "Eph.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "",
+        "combined_with": "Eph.3.20"
+      }
+    ],
+    "4": [
+      {
+        "osis": "Eph.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Bu nedenle, Efendi’nin tutuklusu olan ben, aldığınız çağrıya layık bir şekilde yürümenizi rica ediyorum."
+      },
+      {
+        "osis": "Eph.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Tam bir alçakgönüllülükle, birbirinize sevgiyle ve sabırla katlanın."
+      },
+      {
+        "osis": "Eph.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Ruh’un birliğini esenlik bağıyla korumaya gayret edin."
+      },
+      {
+        "osis": "Eph.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Çağrınızın tek umuduyla çağrıldığınız gibi, beden bir ve Ruh birdir."
+      },
+      {
+        "osis": "Eph.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Efendi bir, iman bir, vaftiz birdir."
+      },
+      {
+        "osis": "Eph.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Her şeyden üstün, her şeyle ve her şeyde olan herkesin Tanrısı ve Babası birdir."
+      },
+      {
+        "osis": "Eph.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Ama lütuf her birimize Mesih’in armağanının ölçüsüne göre verildi."
+      },
+      {
+        "osis": "Eph.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Bu nedenle Tanrı şöyle diyor: “Yücelere çıktığında, esareti esir aldı, ve insanlara armağanlar verdi.”"
+      },
+      {
+        "osis": "Eph.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Şimdi bu “çıktı” sözü, Mesih ilk olarak yeryüzünün alt kısımlarına indi demek değil de nedir?"
+      },
+      {
+        "osis": "Eph.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "İnen de, her şeyi doldurmak için tüm göklerin çok üstüne çıkan da O’dur."
+      },
+      {
+        "osis": "Eph.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Bazılarını elçi, bazılarını peygamber, bazılarını müjdeci, bazılarını çoban, bazılarını da öğretmen olarak verdi."
+      },
+      {
+        "osis": "Eph.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Kutsalların hizmet işinde, Mesih'in bedeninin bina edilmesinde yetkinleşmeleri için bunu yaptı."
+      },
+      {
+        "osis": "Eph.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Öyle ki, hepimiz imanda ve Tanrı Oğlu bilgisinde birliğe, yetkinliğe, Mesih’in doluluğundaki olgunluk düzeyine erişelim."
+      },
+      {
+        "osis": "Eph.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Böylece artık insanların kurnazlığıyla, aldatıcı düzenler kurmaktaki hileleriyle, öteye beriye savrulan ve her öğretinin rüzgârıyla sürüklenen çocuklar olmayalım."
+      },
+      {
+        "osis": "Eph.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "Ama sevgide gerçeği söyleyerek baş olan Mesih’e doğru bütün şeylerde büyüyelim."
+      },
+      {
+        "osis": "Eph.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "O’nda bütün beden, her eklemin yardımıyla kenetlenip birleşerek her üyesinin işleyiş ölçüsüne göre büyüyüp sevgide bina olmaktadır."
+      },
+      {
+        "osis": "Eph.4.17",
+        "chapter": 4,
+        "verse": 17,
+        "text": "Bu nedenle şunu söylüyor ve Efendi'de tanıklık ediyorum: Artık öteki uluslar gibi boş düşüncelerle yürümeyin."
+      },
+      {
+        "osis": "Eph.4.18",
+        "chapter": 4,
+        "verse": 18,
+        "text": "Onların anlayışları karardı. Bilgisizlikleri ve katı yürekleri nedeniyle Tanrı’nın hayatına yabancılaştılar."
+      },
+      {
+        "osis": "Eph.4.19",
+        "chapter": 4,
+        "verse": 19,
+        "text": "Duyarlılıklarını yitirip açgözlülükle her türlü pisliği yapmak üzere kendilerini sefahate verdiler."
+      },
+      {
+        "osis": "Eph.4.20",
+        "chapter": 4,
+        "verse": 20,
+        "text": "Ama siz Mesih’i bu şekilde öğrenmediniz."
+      },
+      {
+        "osis": "Eph.4.21",
+        "chapter": 4,
+        "verse": 21,
+        "text": "Kuşkusuz O’nun sesini duydunuz, Yeşua’daki gerçeğe uygun olarak, O’nda eğitildiniz."
+      },
+      {
+        "osis": "Eph.4.22",
+        "chapter": 4,
+        "verse": 22,
+        "text": "Önceki yaşam biçiminize gelince, aldatıcı tutkulara göre yozlaşan eski insanı üzerinizden çıkarıp atın."
+      },
+      {
+        "osis": "Eph.4.23",
+        "chapter": 4,
+        "verse": 23,
+        "text": "Düşüncenizi ruhta yenileyin."
+      },
+      {
+        "osis": "Eph.4.24",
+        "chapter": 4,
+        "verse": 24,
+        "text": "Doğrulukta ve gerçeğin kutsallığında Tanrı’nın benzerliğinde yaratılmış olan yeni insanı giyinin."
+      },
+      {
+        "osis": "Eph.4.25",
+        "chapter": 4,
+        "verse": 25,
+        "text": "Bunun için yalanı üzerinizden atın, her biriniz komşusuyla gerçeği konuşsun. Çünkü biz birbirimizin üyeleriyiz."
+      },
+      {
+        "osis": "Eph.4.26",
+        "chapter": 4,
+        "verse": 26,
+        "text": "‘‘Öfkelenin, ama günah işlemeyin.’’ Öfkenizin üzerine güneş batmasın."
+      },
+      {
+        "osis": "Eph.4.27",
+        "chapter": 4,
+        "verse": 27,
+        "text": "İblis’e de yer vermeyin."
+      },
+      {
+        "osis": "Eph.4.28",
+        "chapter": 4,
+        "verse": 28,
+        "text": "Hırsızlık yapan artık çalmasın. Bunun yerine, ihtiyacı olana verecek bir şeyi olsun diye, elleriyle iyi bir şeyler üreterek çalışsın."
+      },
+      {
+        "osis": "Eph.4.29",
+        "chapter": 4,
+        "verse": 29,
+        "text": "Ağzınızdan hiç kötü söz çıkmasın. İşitenlere lütuf versin diye, ihtiyaca göre başkalarını bina etmeye yarayan sözler söyleyin."
+      },
+      {
+        "osis": "Eph.4.30",
+        "chapter": 4,
+        "verse": 30,
+        "text": "Kurtuluş günü için mühürlendiğiniz Tanrı’nın Kutsal Ruhu’nu üzmeyin."
+      },
+      {
+        "osis": "Eph.4.31",
+        "chapter": 4,
+        "verse": 31,
+        "text": "Her türlü kötülükle birlikte her acılık, kızgınlık, öfke, bağrışma ve iftira sizden uzak olsun."
+      },
+      {
+        "osis": "Eph.4.32",
+        "chapter": 4,
+        "verse": 32,
+        "text": "Birbirinize karşı iyi yürekli, şefkatli olun. Tıpkı Tanrı’nın sizi Mesih’te bağışladığı gibi, siz de birbirinizi bağışlayın."
+      }
+    ],
+    "5": [
+      {
+        "osis": "Eph.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Öyleyse, sevgili çocuklar olarak Tanrı’yı örnek alın."
+      },
+      {
+        "osis": "Eph.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Mesih’in de bizi sevdiği ve bizim için kendisini hoş kokulu bir sunu ve kurban olarak Tanrı’ya teslim ettiği gibi, siz de sevgide yürüyün."
+      },
+      {
+        "osis": "Eph.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Ancak kutsallara yakışır şekilde, aranızda cinsel ahlaksızlık, her türlü pislik ve açgözlülük, anılmasın bile."
+      },
+      {
+        "osis": "Eph.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Ne ahlaksızlık, ne saçma sapan konuşmalar, ne de bayağı şakalar olsun. Bunlar uygunsuzdur. Bunun yerine şükredin."
+      },
+      {
+        "osis": "Eph.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Şunu kesin olarak bilin ki, cinsel ahlaksızlık yapanın, kirli olanın, açgözlü (putperest) olan hiç kimsenin, Mesih’in ve Tanrı’nın Krallığı'nda mirası yoktur."
+      },
+      {
+        "osis": "Eph.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Kimse sizi boş sözlerle kandırmasın. Çünkü bu şeyler yüzünden Tanrı’nın gazabı itaatsizlik çocukları üzerine geliyor."
+      },
+      {
+        "osis": "Eph.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Bu nedenle onlarla ortak olmayın."
+      },
+      {
+        "osis": "Eph.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Çünkü bir zamanlar karanlıktınız, ama şimdi Efendi’de ışıksınız. Işığın çocukları olarak yürüyün."
+      },
+      {
+        "osis": "Eph.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Çünkü Ruh’un ürünü her iyilik, doğruluk ve gerçektedir."
+      },
+      {
+        "osis": "Eph.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "Efendi’yi neyin hoşnut ettiğini fark edin."
+      },
+      {
+        "osis": "Eph.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Karanlığın verimsiz işlerine ortak olmayın. Tersine onları açığa vurun."
+      },
+      {
+        "osis": "Eph.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Çünkü onların gizlice yaptıklarından söz etmek bile ayıptır."
+      },
+      {
+        "osis": "Eph.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Ama ayıplandıklarında her şey ışık tarafından açığa çıkarılır. Çünkü açığa çıkan her şey ışıktır."
+      },
+      {
+        "osis": "Eph.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Bu nedenle şöyle deniyor, “Uyan ey uyuyan! Ölümden diril! Mesih üzerinde parlayacak.”"
+      },
+      {
+        "osis": "Eph.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "Bunun için, nasıl yürüdüğünüze dikkat edin. Bilge olmayanlar gibi değil, bilgeler gibi yürüyün."
+      },
+      {
+        "osis": "Eph.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Zamanı iyi değerlendirin. Çünkü günler kötüdür."
+      },
+      {
+        "osis": "Eph.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Bu nedenle akılsız olmayın, Efendi’nin isteğinin ne olduğunu anlayın."
+      },
+      {
+        "osis": "Eph.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Şarapla sarhoş olmayın, bu sizi taşkınlığa sürükler. Bunun yerine Ruh’la dolun."
+      },
+      {
+        "osis": "Eph.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "Birbirinizle mezmurlarla, ilahilerle ve ruhsal ezgilerle konuşun; yüreğinizden Efendi’ye ilahi ve melodiler yükseltin."
+      },
+      {
+        "osis": "Eph.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "Her zaman, her şey için Efendimiz Yeşua Mesih’in adıyla Tanrı’ya, Baba’ya şükredin."
+      },
+      {
+        "osis": "Eph.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "Mesih’in korkusunda birbirinize tabi olun."
+      },
+      {
+        "osis": "Eph.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Ey kadınlar, Efendi’ye tabi olduğunuz gibi kocalarınıza tabi olun."
+      },
+      {
+        "osis": "Eph.5.23",
+        "chapter": 5,
+        "verse": 23,
+        "text": "Çünkü Mesih bedenin kurtarıcısı olarak imanlılar topluluğunun başı olduğu gibi, koca da kadının başıdır."
+      },
+      {
+        "osis": "Eph.5.24",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Kilise nasıl Mesih’e bağlıysa, kadınlar da her şeyde kocalarına tabi olsunlar."
+      },
+      {
+        "osis": "Eph.5.25",
+        "chapter": 5,
+        "verse": 25,
+        "text": "Ey kocalar, Mesih’in imanlılar topluluğunu sevip uğruna kendini feda ettiği gibi, siz de karılarınızı öyle sevin."
+      },
+      {
+        "osis": "Eph.5.26",
+        "chapter": 5,
+        "verse": 26,
+        "text": "Mesih topluluğu kutsal kılmak için sözle, suyla yıkayıp temizledi."
+      },
+      {
+        "osis": "Eph.5.27",
+        "chapter": 5,
+        "verse": 27,
+        "text": "Öyle ki, topluluk üzerinde leke, buruşukluk ya da buna benzer bir şey olmadan, görkemli bir biçimde kendine sunsun."
+      },
+      {
+        "osis": "Eph.5.28",
+        "chapter": 5,
+        "verse": 28,
+        "text": "Aynı şekilde kocalar da karılarını kendi bedenleri gibi sevmelidirler. Karısını seven kendini sever."
+      },
+      {
+        "osis": "Eph.5.29",
+        "chapter": 5,
+        "verse": 29,
+        "text": "Hiç kimse hiçbir zaman kendi bedeninden nefret etmez. Tam tersine, onu besler ve değer verir, tıpkı Efendi’nin topluluğu besleyip değer verdiği gibi."
+      },
+      {
+        "osis": "Eph.5.30",
+        "chapter": 5,
+        "verse": 30,
+        "text": "Çünkü bizler O’nun bedeninin üyeleriyiz, eti ve kemiğiyiz."
+      },
+      {
+        "osis": "Eph.5.31",
+        "chapter": 5,
+        "verse": 31,
+        "text": "“Bu nedenle adam annesini babasını bırakıp karısına bağlanacak. O zaman ikisi tek beden olacak.”"
+      },
+      {
+        "osis": "Eph.5.32",
+        "chapter": 5,
+        "verse": 32,
+        "text": "Bu sır büyüktür, ama ben bunu Mesih ve imanlılar topluluğu hakkında söylüyorum."
+      },
+      {
+        "osis": "Eph.5.33",
+        "chapter": 5,
+        "verse": 33,
+        "text": "Bununla birlikte her biriniz karısını kendisi gibi sevsin. Kadın da kocasına saygı duysun."
+      }
+    ],
+    "6": [
+      {
+        "osis": "Eph.6.1",
+        "chapter": 6,
+        "verse": 1,
+        "text": "Ey çocuklar, baba ve annenize Efendi’de itaat edin. Çünkü doğru olan budur."
+      },
+      {
+        "osis": "Eph.6.2",
+        "chapter": 6,
+        "verse": 2,
+        "text": "“Babana ve annene saygı göster” vaat içeren ilk buyruktur:"
+      },
+      {
+        "osis": "Eph.6.3",
+        "chapter": 6,
+        "verse": 3,
+        "text": "“Böylece sana iyilik olsun ve yeryüzünde uzun yaşayasın.”"
+      },
+      {
+        "osis": "Eph.6.4",
+        "chapter": 6,
+        "verse": 4,
+        "text": "Ey babalar, çocuklarınızı öfkelendirmeyin. Onları Efendi’nin terbiye ve öğüdüyle yetiştirin."
+      },
+      {
+        "osis": "Eph.6.5",
+        "chapter": 6,
+        "verse": 5,
+        "text": "Ey hizmetkârlar, dünyasal efendilerinize Mesih’e itaat edermiş gibi saygı ve korkuyla, gönülden itaat edin."
+      },
+      {
+        "osis": "Eph.6.6",
+        "chapter": 6,
+        "verse": 6,
+        "text": "Bunu, yalnız insanlar size bakarken göze girmek için değil, Mesih’in hizmetkârları olarak Tanrı’nın isteğini yürekten yerine getirin."
+      },
+      {
+        "osis": "Eph.6.7",
+        "chapter": 6,
+        "verse": 7,
+        "text": "İnsanlara hizmet eder gibi değil, gönülden Efendi’ye hizmet edermiş gibi yapın."
+      },
+      {
+        "osis": "Eph.6.8",
+        "chapter": 6,
+        "verse": 8,
+        "text": "Bilirsiniz ki, ister köle ister özgür olsun, herkes yaptığı her iyiliğin karşılığını Efendi’den alacaktır."
+      },
+      {
+        "osis": "Eph.6.9",
+        "chapter": 6,
+        "verse": 9,
+        "text": "Ey efendiler, siz de onlara aynısını yapın ve tehdit etmeyi bırakın. Hem onların hem de sizin Efendiniz’in göklerde olduğunu ve O'nda hiçbir kayırmacılık olmadığını bilirsiniz."
+      },
+      {
+        "osis": "Eph.6.10",
+        "chapter": 6,
+        "verse": 10,
+        "text": "Son olarak, Efendi’de ve O’nun kudretinin gücünde güçlenin."
+      },
+      {
+        "osis": "Eph.6.11",
+        "chapter": 6,
+        "verse": 11,
+        "text": "İblis’in hilelerine karşı durabilmek için Tanrı’nın bütün silahlarını kuşanın."
+      },
+      {
+        "osis": "Eph.6.12",
+        "chapter": 6,
+        "verse": 12,
+        "text": "Çünkü güreşimiz ete ve kana karşı değildir, ancak hükümdarlıklara karşı, güçlere karşı, bu çağdaki karanlığın dünya hükümdarlarına karşı, kötülüğün göksel yerlerdeki ruhsal ordularına karşıdır."
+      },
+      {
+        "osis": "Eph.6.13",
+        "chapter": 6,
+        "verse": 13,
+        "text": "Bu nedenle, kötü günde dayanabilmek ve her şeyi yaptıktan sonra yerinizde durabilmek için Tanrı’nın bütün silahlarını kuşanın."
+      },
+      {
+        "osis": "Eph.6.14",
+        "chapter": 6,
+        "verse": 14,
+        "text": "Belinize gerçeğin kuşağını bağlamış, göğsünüze doğruluk zırhını takmış, ayaklarınıza esenlik Müjdesi’ni yayma hazırlığını giymiş ve bunların hepsinin üzerine, kötü olanın bütün ateşli oklarını söndürebileceğiniz iman kalkanını almış olarak yerinizde durun."
+      },
+      {
+        "osis": "Eph.6.15",
+        "chapter": 6,
+        "verse": 15,
+        "text": "",
+        "combined_with": "Eph.6.14"
+      },
+      {
+        "osis": "Eph.6.16",
+        "chapter": 6,
+        "verse": 16,
+        "text": "",
+        "combined_with": "Eph.6.14"
+      },
+      {
+        "osis": "Eph.6.17",
+        "chapter": 6,
+        "verse": 17,
+        "text": "Kurtuluş miğferini ve Tanrı’nın sözü olan Ruh’un kılıcını alın."
+      },
+      {
+        "osis": "Eph.6.18",
+        "chapter": 6,
+        "verse": 18,
+        "text": "Her tür dua ve dileklerle, her zaman Ruh’ta dua edin. Bunun için, bütün kutsallar hakkında dileklerde bulunarak sonuna kadar tam direnişle uyanık durun."
+      },
+      {
+        "osis": "Eph.6.19",
+        "chapter": 6,
+        "verse": 19,
+        "text": "Benim için de dua edin, ağzımı açtığımda Müjde’nin sırrını cesaretle anlatabileyim diye söz verilsin."
+      },
+      {
+        "osis": "Eph.6.20",
+        "chapter": 6,
+        "verse": 20,
+        "text": "Uğruna zincire vurulmuş halde elçisi olduğum Müjde’nin sırrını cesaretle bildirebilmem için dua edin."
+      },
+      {
+        "osis": "Eph.6.21",
+        "chapter": 6,
+        "verse": 21,
+        "text": "Benimle ilgili şeyleri, yaptıklarımı bilmeniz için sevgili kardeşimiz, Efendi’nin sadık hizmetkârı Tihikos size her şeyi bildirecektir."
+      },
+      {
+        "osis": "Eph.6.22",
+        "chapter": 6,
+        "verse": 22,
+        "text": "İşte tam bu amaçla, durumumuzu bilmeniz ve yüreklerinizi rahatlatması için onu size gönderiyorum."
+      },
+      {
+        "osis": "Eph.6.23",
+        "chapter": 6,
+        "verse": 23,
+        "text": "Baba Tanrı’dan ve Efendi Yeşua Mesih’ten kardeşlere esenlik ve imanla sevgi olsun."
+      },
+      {
+        "osis": "Eph.6.24",
+        "chapter": 6,
+        "verse": 24,
+        "text": "Lütuf, Efendimiz Yeşua Mesih’i bozulmaz sevgiyle sevenlerin hepsiyle birlikte olsun! Amin."
+      }
+    ]
+  }
+}

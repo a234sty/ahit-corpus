@@ -1,0 +1,701 @@
+{
+  "metadata": {
+    "book": "1 Timothy",
+    "osis": "1Tim",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "1Tim.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Kurtarıcımız Tanrı’nın ve umudumuz Efendi Yeşua Mesih’in buyruğuna göre Yeşua Mesih’in elçisi olan Pavlus,"
+      },
+      {
+        "osis": "1Tim.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "imanda öz oğlum Timoteos’a: Babamız Tanrı’dan ve Efendimiz Mesih Yeşua’dan lütuf, merhamet ve esenlik olsun."
+      },
+      {
+        "osis": "1Tim.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Makedonya’ya giderken sana öğütlediğim gibi, Efes’te kal ve bazı kişileri farklı öğretiler öğretmemelerini,"
+      },
+      {
+        "osis": "1Tim.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "masallara ve sonu gelmeyen soyağaçlarına kulak vermemelerini buyur. Bu şeyler, imanda olan Tanrı işini idare etmekten çok, tartışmalara neden olur."
+      },
+      {
+        "osis": "1Tim.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Bu buyruğun amacı, temiz yürekten, iyi vicdandan ve samimi imandan olan sevgidir."
+      },
+      {
+        "osis": "1Tim.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Bazıları bunlardan saparak boş laflara daldılar."
+      },
+      {
+        "osis": "1Tim.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Kutsal Yasa öğretmeni olmayı arzuluyorlar, ancak ne söyledikleri sözleri anlıyorlar ne de ileri sürdükleri konuları."
+      },
+      {
+        "osis": "1Tim.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Ancak Yasa’yı uygun biçimde kullanan için Yasa’nın iyi olduğunu biliyoruz."
+      },
+      {
+        "osis": "1Tim.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Yasa’nın doğrular için değil, yasasızlar ve başkaldıranlara, tanrısızlar ve günahkârlara, kutsal olmayanlar ve kutsallığa saygı duymayanlara, babasını ya da annesini öldürenlere, katillere,"
+      },
+      {
+        "osis": "1Tim.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "cinsel ahlaksızlık yapanlara, eşcinsellere, köle tüccarlarına, yalancılara, yalan yere ant içenlere, bunun dışında sağlam öğretiye karşı duran başka ne varsa onlar için yapılmış olduğunu biliyoruz."
+      },
+      {
+        "osis": "1Tim.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Kutlu Tanrı’nın bana emanet edilen yüce Müjdesi’ne göre böyledir."
+      },
+      {
+        "osis": "1Tim.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Bana olanak veren Efendimiz Mesih Yeşua’ya şükrederim. Çünkü beni güvenilir sayarak hizmete atadı."
+      },
+      {
+        "osis": "1Tim.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "Oysa eskiden küfreden, zulmeden ve küstah birisiydim. Ama yine de bana merhamet edildi. Çünkü yaptıklarımı bilgisizlik ve imansızlıktan ötürü yapmıştım."
+      },
+      {
+        "osis": "1Tim.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "Efendimiz’in lütfu, Mesih Yeşua’da olan iman ve sevgiyle bollukla bana verildi."
+      },
+      {
+        "osis": "1Tim.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Bu güvenilir ve her bakımdan kabule layık bir sözdür: Mesih Yeşua günahkârları kurtarmak için dünyaya geldi. Bu günahkârların başı da bendim."
+      },
+      {
+        "osis": "1Tim.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "Bununla birlikte, Yeşua Mesih sonsuz hayat için kendisine iman edecek olanlara bir örnek olayım diye bütün sabrını önce bende gösterdi. Merhamet görmemin nedeni de budur."
+      },
+      {
+        "osis": "1Tim.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Ebedi Kral’a, ölümsüz, görünmez ve bilge olan tek Tanrı’ya, sonsuzluklar boyunca onur ve yücelik olsun! Amin."
+      },
+      {
+        "osis": "1Tim.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "Oğlum Timoteos, sana daha önce verilen peygamberlik sözleri uyarınca, bu buyruğu sana veriyorum. Öyle ki, onlarla iyi savaşı sürdüresin."
+      },
+      {
+        "osis": "1Tim.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "İmana ve temiz vicdana sarıl. Bazıları bunları iterek iman konusunda battılar."
+      },
+      {
+        "osis": "1Tim.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Himeneos ve İskender bunlardandır. Küfretmemeyi öğrensinler diye onları Şeytan’a teslim ettim."
+      }
+    ],
+    "2": [
+      {
+        "osis": "1Tim.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Bu nedenle, her şeyden önce şunu öğütlerim: Bütün insanlar için dilekler, dualar, yakarışlar ve şükürler sunulsun."
+      },
+      {
+        "osis": "1Tim.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Bu etkinlik kralları ve üst yöneticileri de kapsasın. Öyle ki, tam tanrısallıkla sakin, huzurlu ve saygın bir hayat sürdürebilelim."
+      },
+      {
+        "osis": "1Tim.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Çünkü bu, bütün insanların kurtulmasını ve gerçeğin tam bilgisine ulaşmasını isteyen Kurtarıcımız Tanrı’nın gözünde iyi ve kabule layıktır."
+      },
+      {
+        "osis": "1Tim.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "",
+        "combined_with": "1Tim.2.3"
+      },
+      {
+        "osis": "1Tim.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Çünkü tek Tanrı, Tanrı ile insanlar arasında tek bir aracı vardır."
+      },
+      {
+        "osis": "1Tim.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "O da insan olan ve kendini herkes için fidye olarak sunmuş olan Mesih Yeşua’dır. Bu tanıklık uygun zamanda gelmiştir."
+      },
+      {
+        "osis": "1Tim.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Ben bunun duyurucusu ve elçisi atandım. Yalan söylemiyorum, Mesih'te gerçeği söylüyorum; imanda ve gerçekte ulusların öğretmeni olarak atandım."
+      },
+      {
+        "osis": "1Tim.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Bu nedenle, erkeklerin öfkelenmeden ve kuşku duymadan, her yerde kutsal eller kaldırarak dua etmelerini isterim."
+      },
+      {
+        "osis": "1Tim.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Aynı şekilde, kadınlar da örgülü saçlarla, altınlarla, incilerle ya da pahalı giysilerle değil, edepli, sade ve ölçülü giysilerle,"
+      },
+      {
+        "osis": "1Tim.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "tanrısal olduklarını açıkça söyleyen kadınlara yaraşır biçimde, iyi işlerle süslensinler."
+      },
+      {
+        "osis": "1Tim.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Kadın sessizce, tam bir itaatle öğrensin."
+      },
+      {
+        "osis": "1Tim.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Kadının öğretmesine ya da erkeğe hâkim olmasına izin vermiyorum, ancak sessizlik içinde olsun."
+      },
+      {
+        "osis": "1Tim.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Çünkü önce Adem, sonra Havva yaratıldı."
+      },
+      {
+        "osis": "1Tim.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Adem aldanmadı, ama kadın aldanarak itaatsizliğe düştü."
+      },
+      {
+        "osis": "1Tim.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Ama ağırbaşlılıkla iman, sevgi ve kutsallık içinde devam ederse, dünyaya çocuk getirmekle kurtulacaktır."
+      }
+    ],
+    "3": [
+      {
+        "osis": "1Tim.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Bu güvenilir bir sözdür: Gözetmen olmak isteyen, iyi bir iş arzulamış olur."
+      },
+      {
+        "osis": "1Tim.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Ancak gözetmen ayıplanacak bir yanı olmayan, tek karılı, ölçülü, sağduyulu, alçakgönüllü, misafirperver, öğretmede iyi biri olmalıdır."
+      },
+      {
+        "osis": "1Tim.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "İçki düşkünü, açgözlü, zorba olmamalı; uysal, kavgadan ve para sevgisinden uzak olmalıdır."
+      },
+      {
+        "osis": "1Tim.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Kendi evini iyi yöneten, her bakımdan saygılı, söz dinleyen çocuklar yetiştiren biri olmalıdır."
+      },
+      {
+        "osis": "1Tim.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Kendi evini yönetmeyi bilmeyen biri, Tanrı’nın kilisesiyle nasıl ilgilenebilir?"
+      },
+      {
+        "osis": "1Tim.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Gözetmen yeni iman etmiş biri olmamalı. Yoksa gurura kapılıp İblis’le aynı yargıya uğrayabilir."
+      },
+      {
+        "osis": "1Tim.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Ayrıca, kilisenin dışındakiler tarafından da iyi biri olarak tanınmalıdır. Öyle ki, ayıplanacak bir duruma ve İblis’in tuzağına düşmesin."
+      },
+      {
+        "osis": "1Tim.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Tıpkı bunun gibi, kilise hizmetkârları, özü sözü ayrı, şaraba tutsak, para düşkünü kişiler değil, saygın kişiler olmalıdır."
+      },
+      {
+        "osis": "1Tim.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Temiz bir vicdanla imanın sırrına tutunmalıdırlar."
+      },
+      {
+        "osis": "1Tim.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Bunlar da önce sınansınlar; suçlanacak bir yanları yoksa hizmet etsinler."
+      },
+      {
+        "osis": "1Tim.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Karıları da aynı şekilde saygılı, iftiracı değil, ölçülü ve her bakımdan sadık olmalıdır."
+      },
+      {
+        "osis": "1Tim.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Hizmetkârlar tek karılı, çocuklarını ve kendi evlerini iyi yöneten kişiler olsun."
+      },
+      {
+        "osis": "1Tim.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Çünkü iyi hizmet edenler, kendilerine iyi bir konum edinir, Mesih Yeşua’da olan imanda büyük cesaret kazanırlar."
+      },
+      {
+        "osis": "1Tim.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Bu şeyleri size yakında yanınıza gelmeyi umarak yazıyorum."
+      },
+      {
+        "osis": "1Tim.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "Ama eğer gecikirsem, Tanrı’nın evi içinde, yani gerçeğin direği ve temeli olan hay olan Tanrı’nın kilisesinde nasıl davranmak gerektiğini bilesin diye yazıyorum."
+      },
+      {
+        "osis": "1Tim.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Tartışmasız tanrısallığın sırrı büyüktür: Tanrı, bedende göründü, Ruh’ta doğrulandı, melekler tarafından görüldü, uluslar arasında duyuruldu, dünyada iman edildi, ve yücelik içinde yukarı alındı."
+      }
+    ],
+    "4": [
+      {
+        "osis": "1Tim.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Ruh açıkça diyor ki, son zamanlarda bazıları ayartıcı ruhlara ve iblislerin öğretilerine kulak vererek imandan sapacaklar."
+      },
+      {
+        "osis": "1Tim.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Yalancıların ikiyüzlülüğü nedeniyle vicdanları kızgın demirle dağlanmış gibi olacak."
+      },
+      {
+        "osis": "1Tim.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Evlenmeyi yasaklayacak, iman edip gerçeği bilenlerin şükranla yemesi için Tanrı’nın yaratmış olduğu yiyeceklerden sakınılması gerektiğini buyuracaklar."
+      },
+      {
+        "osis": "1Tim.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Çünkü Tanrı’nın yarattığı her şey iyidir. Şükranla kabul edilirse hiçbir şey reddedilmemelidir."
+      },
+      {
+        "osis": "1Tim.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Çünkü Tanrı’nın sözü ve dua aracılığıyla kutsal kılınmıştır."
+      },
+      {
+        "osis": "1Tim.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Kardeşlere bu şeyleri öğütlersen, iman sözlerinden ve izlediğin iyi öğretiden beslenerek Mesih Yeşua’nın iyi bir hizmetkârı olursun."
+      },
+      {
+        "osis": "1Tim.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Ama kirli ve kocakarı masallarını reddet. Kendini tanrısallıkta eğit."
+      },
+      {
+        "osis": "1Tim.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Bedeni eğitmenin biraz yararı vardır; ama şimdiki ve gelecek hayatın vaadine sahip olan tanrısallığın her yönden yararı vardır."
+      },
+      {
+        "osis": "1Tim.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Bu söz güvenilirdir ve her bakımdan kabule layıktır."
+      },
+      {
+        "osis": "1Tim.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "Bunun için hem çalışıyoruz hem de kınanıyoruz. Çünkü umudumuzu bütün insanların, özellikle de iman edenlerin Kurtarıcısı olan diri Tanrı’ya bağladık."
+      },
+      {
+        "osis": "1Tim.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Bu şeyleri buyur ve öğret."
+      },
+      {
+        "osis": "1Tim.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Kimse senin gençliğini hor görmesin. Sözde, yaşayışta, sevgide, ruhta, imanda ve paklıkta imanlılara örnek ol."
+      },
+      {
+        "osis": "1Tim.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Ben gelinceye dek okumaya, öğüt vermeye ve öğretmeye dikkat et."
+      },
+      {
+        "osis": "1Tim.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Peygamberlikle ve ihtiyarlar kurulunun ellerini senin üzerine koymasıyla sana verilen ve sende olan armağanı ihmal etme."
+      },
+      {
+        "osis": "1Tim.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "Bu şeylerde gayretli ol. Kendini tamamen onlara ver ki, ilerlediğini herkes görsün."
+      },
+      {
+        "osis": "1Tim.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "Kendine ve öğretine dikkat et. Bu şeyleri sürdür, çünkü bunu yapmakla hem kendini hem de seni dinleyenleri kurtaracaksın."
+      }
+    ],
+    "5": [
+      {
+        "osis": "1Tim.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Yaşlı adamı azarlama, babanmış gibi, gençleri kardeşinmiş gibi,"
+      },
+      {
+        "osis": "1Tim.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "yaşlı kadınları annenmiş gibi, genç kadınları tam bir saflıkla kardeşinmiş gibi yüreklendir."
+      },
+      {
+        "osis": "1Tim.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Gerçekten dul olan dul kadınlara saygı göster."
+      },
+      {
+        "osis": "1Tim.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Ama dul kadının çocukları ya da torunları varsa, bunlar önce kendi ailesine sevgi gösterip büyüklerine borçlarını ödesinler. Çünkü bu Tanrı’yı hoşnut eder."
+      },
+      {
+        "osis": "1Tim.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Gerçekten kimsesiz kalan dul kadın, umudunu Tanrı’ya bağlamıştır; gece gündüz dilekte bulunup dua etmeye devam eder."
+      },
+      {
+        "osis": "1Tim.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Kendini zevke veren dul kadın ise yaşarken ölmüştür."
+      },
+      {
+        "osis": "1Tim.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Ayıplanmamaları için bu şeylerde onları uyar."
+      },
+      {
+        "osis": "1Tim.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Ama kim kendine ait olanların, özellikle de ev halkının geçimini sağlamazsa, imanı inkâr etmiş olur ve imansızdan beter olur."
+      },
+      {
+        "osis": "1Tim.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Altmış yaşını geçmemiş hiç kimsenin adı dullar listesine yazılmasın, tek erkekle evlenmiş,"
+      },
+      {
+        "osis": "1Tim.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "çocuk büyütmüş, konukseverlik göstermiş, kutsalların ayaklarını yıkamış, sıkıntıda olanlara yardım etmiş ve kendini iyi işlere vermiş olan dul kadının adı listeye yazılsın."
+      },
+      {
+        "osis": "1Tim.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Ama daha genç olan dul kadınları kabul etmeyin. Çünkü bedensel arzuları Mesih’e karşı baskın çıkınca evlenmek isterler."
+      },
+      {
+        "osis": "1Tim.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Verdikleri ilk sözü reddettikleri için yargıya uğrarlar."
+      },
+      {
+        "osis": "1Tim.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Ayrıca tembellik etmeyi, ev ev gezmeyi de öğrenirler. Yalnızca tembellik etmekle kalmaz, aynı zamanda dedikoducu olurlar. Üzerlerine düşmeyen sözler söyleyerek burunlarını başkalarının işine sokarlar."
+      },
+      {
+        "osis": "1Tim.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Bundan ötürü, genç dulların evlenmelerini, çocuk yetiştirmelerini, evlerini yönetmelerini ve düşmana hiçbir aşağılama fırsatı vermemelerini istiyorum."
+      },
+      {
+        "osis": "1Tim.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "Çünkü bazıları şimdiden Şeytan’ın peşine düştü bile."
+      },
+      {
+        "osis": "1Tim.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "İmanlı birinin dul kalmış yakınları varsa onlara yardım elini uzatsın. Öyle ki, kilise yük altına girmeden gerçekten dullara yardım edebilsin."
+      },
+      {
+        "osis": "1Tim.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "İyi yöneten ihtiyarlar, özellikle sözde ve öğretmede emek verenler, iki kat saygıya layık görülsün."
+      },
+      {
+        "osis": "1Tim.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Çünkü Kutsal Yazı şöyle der: “Harman döven öküzün ağzını bağlamayacaksın.” Ve, “İşçi ücretini hak eder.”"
+      },
+      {
+        "osis": "1Tim.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "İki ya da üç tanığın sözü olmadan, bir ihtiyara karşı yapılan suçlamayı kabul etme."
+      },
+      {
+        "osis": "1Tim.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "Günah işleyenleri, herkesin önünde azarla. Öyle ki, öbürleri de korksun."
+      },
+      {
+        "osis": "1Tim.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "Tanrı’nın, Efendi Yeşua Mesih’in ve seçilmiş meleklerin huzurunda sana buyuruyorum; bu şeyleri önyargısız ve taraf tutmadan uygula."
+      },
+      {
+        "osis": "1Tim.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Birinin üzerine el koymakta acele etme. Başkalarının günahlarına ortak olma. Kendini pak tut."
+      },
+      {
+        "osis": "1Tim.5.23",
+        "chapter": 5,
+        "verse": 23,
+        "text": "Artık yalnızca su içme, miden için ve sık sık baş gösteren hastalıkların için biraz şarap iç."
+      },
+      {
+        "osis": "1Tim.5.24",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Bazı insanların günahları bellidir ve onlardan önce yargıya varır. Bazılarının da sonradan ardından gelir."
+      },
+      {
+        "osis": "1Tim.5.25",
+        "chapter": 5,
+        "verse": 25,
+        "text": "Aynı şekilde, iyi işler de bellidir; belli olmayanlar bile saklanamazlar."
+      }
+    ],
+    "6": [
+      {
+        "osis": "1Tim.6.1",
+        "chapter": 6,
+        "verse": 1,
+        "text": "Boyunduruk altındaki kölelerin hepsi kendi efendilerini tam bir saygıya layık görsünler ki, Tanrı’nın adı ve öğretisi lekelenmesin."
+      },
+      {
+        "osis": "1Tim.6.2",
+        "chapter": 6,
+        "verse": 2,
+        "text": "Efendisi imanlıysa, nasıl olsa kardeşiz deyip efendilerini hor görmesinler. Tam tersine, hizmet etsinler. Çünkü bu iyi hizmetten faydalananlar, sevdikleri imanlılardır. Bu şeyleri öğret ve öğütle."
+      },
+      {
+        "osis": "1Tim.6.3",
+        "chapter": 6,
+        "verse": 3,
+        "text": "Eğer biri farklı öğretiler yayıyor, doğru sözü, yani Efendimiz Yeşua Mesih’in sözlerini ve tanrısallık öğretisini kabul etmiyorsa,"
+      },
+      {
+        "osis": "1Tim.6.4",
+        "chapter": 6,
+        "verse": 4,
+        "text": "kendini beğenmiş ve bilgisizdir. Ancak bu kişi tartışmalara ve kelime kavgalarına hastalık derecesinde tutkundur. Böyle şeyler kıskançlığa, çekişmeye, hakarete, kötü şüphelere,"
+      },
+      {
+        "osis": "1Tim.6.5",
+        "chapter": 6,
+        "verse": 5,
+        "text": "düşünceleri yozlaşmış ve gerçeği yitirmiş kişilerin durmadan sürtüşmesine neden olur. Tanrısallığın kazanç yolu olduğunu sanıyorlar. Böylelerinden uzak dur."
+      },
+      {
+        "osis": "1Tim.6.6",
+        "chapter": 6,
+        "verse": 6,
+        "text": "Ama tanrısallık eldekiyle yetinmekle birlikte büyük kazançtır."
+      },
+      {
+        "osis": "1Tim.6.7",
+        "chapter": 6,
+        "verse": 7,
+        "text": "Çünkü dünyaya hiçbir şey getirmedik, ne de buradan herhangi bir şey götürebiliriz."
+      },
+      {
+        "osis": "1Tim.6.8",
+        "chapter": 6,
+        "verse": 8,
+        "text": "Ama yiyeceğimiz, giyeceğimiz varsa bunlarla yetiniriz."
+      },
+      {
+        "osis": "1Tim.6.9",
+        "chapter": 6,
+        "verse": 9,
+        "text": "Zengin olmada kararlı olanlar ayartılıp tuzağa düşerler, insanı yıkıma ve mahva götüren birçok akılsız ve zararlı arzulara yakalanırlar."
+      },
+      {
+        "osis": "1Tim.6.10",
+        "chapter": 6,
+        "verse": 10,
+        "text": "Çünkü her türlü kötülüğün bir kökü para sevgisidir. Bazıları bu hırsla imandan saptılar ve bir sürü kederle kendilerine acı yaşattılar."
+      },
+      {
+        "osis": "1Tim.6.11",
+        "chapter": 6,
+        "verse": 11,
+        "text": "Ama sen, ey Tanrı adamı, bu şeylerden kaç! Doğruluğun, Tanrı yolunun, imanın, sevginin, sabrın ve uysallığın ardından koş."
+      },
+      {
+        "osis": "1Tim.6.12",
+        "chapter": 6,
+        "verse": 12,
+        "text": "İmanın iyi mücadelesini ver. Çağrılmış olduğun sonsuz hayata sımsıkı sarıl! Birçok tanık önünde yüce bildiriyi açıkça dile getirdin."
+      },
+      {
+        "osis": "1Tim.6.13",
+        "chapter": 6,
+        "verse": 13,
+        "text": "Her şeye hayat veren Tanrı’nın ve Pontius Pilatus önünde yüce bildiriyi tanıklık etmiş olan Mesih Yeşua’nın önünde sana buyuruyorum:"
+      },
+      {
+        "osis": "1Tim.6.14",
+        "chapter": 6,
+        "verse": 14,
+        "text": "Efendimiz Yeşua Mesih görünene dek Tanrı’nın buyruğunu lekesiz ve kusursuz olarak koru."
+      },
+      {
+        "osis": "1Tim.6.15",
+        "chapter": 6,
+        "verse": 15,
+        "text": "Tanrı kendi zamanında kralların Kralı’nı, efendilerin Efendisi’ni tek Hükümdar’ı, kutsal Olan’ın kim olduğunu gösterecektir."
+      },
+      {
+        "osis": "1Tim.6.16",
+        "chapter": 6,
+        "verse": 16,
+        "text": "Ölümsüzlük yalnızca O’na özgüdür. Kimsenin yaklaşamayacağı ışıkta yaşar. O’nu kimse görmedi ve göremez. O’na onur ve sonsuz kudret olsun! Amin."
+      },
+      {
+        "osis": "1Tim.6.17",
+        "chapter": 6,
+        "verse": 17,
+        "text": "Bu dünyada şimdi zengin olanları gurura kapılmamaları, geçici zenginliğe umut bağlamamaları konusunda uyar. Tersine zevk almamız için bize her şeyi bollukla veren Tanrı’ya umut bağlasınlar."
+      },
+      {
+        "osis": "1Tim.6.18",
+        "chapter": 6,
+        "verse": 18,
+        "text": "İyilik yapmalarını, iyi işlerde zengin olmalarını, eli açık ve paylaşmaya istekli olmalarını tembihle."
+      },
+      {
+        "osis": "1Tim.6.19",
+        "chapter": 6,
+        "verse": 19,
+        "text": "Böylece sonsuz hayata kavuşmak üzere gelecek zaman için kendilerine iyi bir temel hazırlamış olurlar."
+      },
+      {
+        "osis": "1Tim.6.20",
+        "chapter": 6,
+        "verse": 20,
+        "text": "Ey Timoteos, sana emanet edileni koru! Boş gevezeliklerden ve yalan yere bilgi denen şeylerin karşı çıkışlarından sakın,"
+      },
+      {
+        "osis": "1Tim.6.21",
+        "chapter": 6,
+        "verse": 21,
+        "text": "bazıları bunu öne sürdüler ve böylece imandan saptılar. Lütuf sizinle birlikte olsun! Amin."
+      }
+    ]
+  }
+}
