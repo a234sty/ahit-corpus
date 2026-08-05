@@ -1,0 +1,944 @@
+{
+  "metadata": {
+    "book": "Lamentations",
+    "osis": "Lam",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "Lam.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "İnsanlarla dolu olan kent, nasıl da yapayalnız oturuyor! Uluslar arasında büyük olan, dul kadın gibi oldu! Ülkeler arasında bey olan Köle oldu!"
+      },
+      {
+        "osis": "Lam.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "Geceleyin acı acı ağlıyor. Gözyaşları yanaklarında. Bütün sevgilileri arasında onu teselli eden yok. Bütün dostları ona hainlik etti. Ona düşman oldular."
+      },
+      {
+        "osis": "Lam.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Yahuda sıkıntı çekmek, ve ağır kölelik etmek için sürgüne gitti. Uluslar arasında oturuyor. Rahat bulamıyor. Sıkıntısında bütün zulmedenleri ona yetişti."
+      },
+      {
+        "osis": "Lam.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "Siyon yolları yas tutuyor, çünkü kimse kutsal toplantıya gelmiyor. Bütün kapıları ıssız. Kâhinleri inliyor. El değmemiş kızları sıkıntıda, kendisi de acı içinde."
+      },
+      {
+        "osis": "Lam.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Düşmanları baş oldu. Düşmanlarının işi yolunda; çünkü Yahve, günahlarının çokluğu yüzünden onu sıkıntıya soktu. Yavruları düşmanın önünde sürgüne gitti."
+      },
+      {
+        "osis": "Lam.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Siyon kızının bütün görkemi kendisinden ayrıldı. Beyleri otlak bulamayan geyiklere döndüler. Kovalayanın önünde güçsüz kaldılar."
+      },
+      {
+        "osis": "Lam.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Yeruşalem, sıkıntı ve sefalet günlerinde, eski günlerindeki bütün güzel şeylerini hatırlıyor; onun halkı düşmanın eline düştüğünde ve kimse ona yardım etmediğinde, düşmanlar onu gördüler. Onun kimsesizliğiyle alay ettiler."
+      },
+      {
+        "osis": "Lam.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Yeruşalem büyük günah işledi. Bu yüzden kirli oldu. Ona saygı gösterenlerin hepsi onu hor görüyor, çünkü çıplaklığını gördüler. Evet, inliyor ve arkasını dönüyor."
+      },
+      {
+        "osis": "Lam.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Kirliliği eteklerindeydi. Kendi sonunu hatırlamadı. Bu yüzden aşağı inmesi şaşılacak şeydi. Teselli edeni yok. “Ey Yahve, sıkıntımı gör; çünkü düşman kendini yüceltti.”"
+      },
+      {
+        "osis": "Lam.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Düşman elini onun bütün güzel şeyleri üzerine uzattı; çünkü ulusların kendi kutsal yerine girdiğini gördü, onlar hakkında senin topluluğuna girmesinler diye buyurmuştun."
+      },
+      {
+        "osis": "Lam.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Bütün halkı inliyor. Ekmek arıyor. Canlarını ferahlatmak için güzel şeylerini yiyecek için verdiler. “Bak, ey Yahve, ve gör, çünkü sefil oldum.”"
+      },
+      {
+        "osis": "Lam.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "“Sizin için önemsiz mi bu, ey bütün sizler, yoldan geçenler? Bakın ve görün, benim başıma gelen, Yahve'nin kızgın öfkesi gününde beni sıkıntıya soktuğu sıkıntı gibi bir sıkıntı var mı?”"
+      },
+      {
+        "osis": "Lam.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "“Yukarıdan kemiklerime ateş gönderdi, ve onlara karşı galip geldi. Ayaklarım için ağ serdi. Beni geri çevirdi. Beni harap etti ve bütün gün baygınım.”"
+      },
+      {
+        "osis": "Lam.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "“Günahlarımın boyunduruğu onun eliyle bağlandı. Birbirine kenetlendiler. Boynuma çıktılar. Gücümü tüketti. Karşı durmaya gücüm yetmeyenlerin ellerine Efendi beni teslim etti.”"
+      },
+      {
+        "osis": "Lam.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "“Efendi içimdeki bütün yiğitlerimi hiçe saydı. Gençlerimi kırıp geçirmek için bana karşı heybetli bir topluluk çağırdı. Efendi, Yahuda'nın el değmemiş kızını üzüm sıkma teknesinde çiğnedi.”"
+      },
+      {
+        "osis": "Lam.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "“Bunlardan dolayı ağlıyorum. Gözüm, gözüm yaşlar akıtıyor, çünkü canımı ferahlatacak olan tesellici benden uzak. Çocuklarım harap oldu, çünkü düşman galip geldi.”"
+      },
+      {
+        "osis": "Lam.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Siyon ellerini açtı. Onu teselli eden yok. Yahve, Yakov hakkında, çevresindekiler ona düşman olsunlar diye buyurdu. Yeruşalem onların arasında kirli bir şey oldu."
+      },
+      {
+        "osis": "Lam.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "“Yahve adildir, çünkü buyruğuna karşı isyan ettim. Lütfen, ey bütün halklar, dinleyin ve üzüntümü görün. El değmemiş kızlarım ve gençlerim sürgüne gittiler.”"
+      },
+      {
+        "osis": "Lam.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "“Sevgililerimi çağırdım, ama onlar beni aldattılar. Canlarını tazelemek için kendilerine yiyecek ararken, kâhinlerim ve ihtiyarlarım kentte ruhlarını teslim ettiler.”"
+      },
+      {
+        "osis": "Lam.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "“Bak, ey Yahve; çünkü sıkıntıdayım. Yüreğim sıkılıyor. Yüreğim içimde dönüyor, çünkü ağır bir şekilde isyan ettim. Dışarıda kılıç yoksun bırakmada. Evde ölüm gibi.”"
+      },
+      {
+        "osis": "Lam.1.21",
+        "chapter": 1,
+        "verse": 21,
+        "text": "“İnlediğimi duydular. Beni teselli eden yok. Bütün düşmanlarım sıkıntımı duydu. Bunu yaptığın için seviniyorlar. İlan ettiğin günü getireceksin, ve onlar da benim gibi olacaklar.”"
+      },
+      {
+        "osis": "Lam.1.22",
+        "chapter": 1,
+        "verse": 22,
+        "text": "“Onların bütün kötülükleri senin önüne gelsin. Bütün günahlarım için bana yaptığını onlara da yap. Çünkü iniltilerim çok, yüreğim de baygın.”"
+      }
+    ],
+    "2": [
+      {
+        "osis": "Lam.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Yahve öfkesiyle Siyon kızını nasıl bir bulutla örttü! İsrael'in güzelliğini gökten yeryüzüne indirdi, öfkesi gününde ayağının taburesini hatırlamadı."
+      },
+      {
+        "osis": "Lam.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Yahve Yakov'un bütün yurtlarını acımadan yuttu. Gazabıyla Yahuda kızının kalelerini yıktı, onları yere kadar indirdi. Krallığı ve beylerini bozdu."
+      },
+      {
+        "osis": "Lam.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "İsrael'in bütün boynuzunu kızgın öfkeyle kesti. Sağ elini düşmanın önünden geri çekti. Yakov'u her tarafını yiyip bitiren alevli ateş gibi yaktı."
+      },
+      {
+        "osis": "Lam.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Düşman gibi yayını gerdi, sağ eliyle düşman gibi dikildi. Göze hoş gelenlerin tümünü öldürdü. Siyon kızının çadırı üzerine ateş gibi gazabını döktü."
+      },
+      {
+        "osis": "Lam.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Efendi sanki bir düşman gibi oldu. İsrael'i yuttu. Bütün saraylarını yuttu. Kalelerini yıktı. Yahuda kızında yas ve ağıdı artırdı."
+      },
+      {
+        "osis": "Lam.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Kendi çardağını, bahçe çardağıymış gibi söküp attı. Toplantı yerini yıktı. Yahve Siyon'da kutsal toplantıyı ve Şabat'ı unutturdu. Şiddetli öfkesiyle kralı ve kâhini hor gördü."
+      },
+      {
+        "osis": "Lam.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Yahve sunağını kaldırıp attı. Tapınağından nefret etti. Yeruşalem saraylarının duvarlarını düşmanın eline verdi. Yahve'nin evinde kutsal toplantı gününde olduğu gibi gürültü yaptılar."
+      },
+      {
+        "osis": "Lam.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Yahve Siyon kızının duvarını yıkmaya karar verdi. İpi gerdi. Elini yıkmaktan çekmedi; siperlerle duvara ağıt yaktırdı. İkisi birlikte zayıfladılar."
+      },
+      {
+        "osis": "Lam.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Kapıları yere battı. Kapı sürgülerini kırıp yok etti. Kralı ve beyleri yasanın olmadığı uluslar arasındalar. Evet, peygamberleri Yahve'den görüm bulmuyorlar."
+      },
+      {
+        "osis": "Lam.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Siyon kızının ihtiyarları yerde oturuyorlar. Sessiz kalıyorlar. Başları üzerine toprak attılar. Çul giydiler. Yeruşalem'in kızları başlarını yere eğdiler."
+      },
+      {
+        "osis": "Lam.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Yaş dökmekten gözlerim tükendi. Yüreğim sıkıntılı. Halkımın kızının yıkımı yüzünden Ciğerim yere döküldü, çünkü çocuklar ve emziktekiler kentin sokaklarında bayılmakta."
+      },
+      {
+        "osis": "Lam.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Kent sokaklarında yaralılar gibi bayılınca, canları annelerinin koynuna döküldüğü zaman, annelerine, “Buğday ve şarap nerede?” diye soruyorlar."
+      },
+      {
+        "osis": "Lam.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Sana ne tanıklık edeyim? Ey Yeruşalem kızı, seni neye benzeteyim? Neyi sana kıyas edeyim de, teselli edeyim, ey Siyon'un el değmemiş kızı? Çünkü sendeki gedik deniz kadar büyük. Seni kim iyileştirebilir?"
+      },
+      {
+        "osis": "Lam.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Peygamberlerin senin için sahte, ve akılsızca görümler gördüler. Senin suçunu açığa çıkarıp sürgününü geri çevirmediler, ama senin için sahte vahiyler ve sürgün nedenlerini gördüler."
+      },
+      {
+        "osis": "Lam.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Yoldan geçenlerin hepsi sana el çırpıyor. Yeruşalem kızına baş sallayıp ıslık çalıyorlar, “İnsanların 'Güzelliğin kusursuzluğu, bütün dünyanın sevinci' dediği kent bu mu?” diyorlar."
+      },
+      {
+        "osis": "Lam.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Bütün düşmanların sana karşı ağızlarını kocaman açtılar. Islık çalıp diş gıcırdatıyorlar. Şöyle diyorlar, “Onu yuttuk. Gerçekten de beklediğimiz gün budur. Onu bulduk. Onu gördük.”"
+      },
+      {
+        "osis": "Lam.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Yahve tasarladığını yaptı. Eski günlerde buyurduğu sözünü yerine getirdi. Yıktı, acımadı. Düşmanı senin için sevindirdi. Düşmanlarının boynuzunu yükseltti."
+      },
+      {
+        "osis": "Lam.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Yürekleri Yahve'ye feryat etti. Ey Siyon kızının duvarı, gözyaşların gece gündüz ırmak gibi aksın. Rahatlama. Gözlerin dinlenmesin."
+      },
+      {
+        "osis": "Lam.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Kalk, geceleyin, nöbetlerin başında bağır! Yahve'nin yüzü önünde yüreğini su gibi dök. Her sokak başında açlıktan bayılan çocuklarının canı için Ellerini O'na doğru kaldır."
+      },
+      {
+        "osis": "Lam.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "“Bak, ey Yahve, ve kime böyle yaptığını gör! Kadınlar yavrularını, dizleri üzerinde tutup oynattıkları çocuklarını mı yesinler? Kâhin ve peygamber Efendi'nin tapınağında mı öldürülsünler?”"
+      },
+      {
+        "osis": "Lam.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "“Gençler ve yaşlılar sokaklarda yerde yatıyorlar. El değmemiş kızlarımla gençlerim kılıçla düştüler. Öfken gününde onları öldürdün. Boğazladın, ama acımadın.”"
+      },
+      {
+        "osis": "Lam.2.22",
+        "chapter": 2,
+        "verse": 22,
+        "text": "“Kutsal toplantı gününde olduğu gibi, her yandan dehşetlerimi çağırdın. Yahve'nin öfkesi gününde kaçıp kurtulan ya da geride kalan olmadı. Düşmanım, bakıp büyüttüğüm çocuklarımı tüketti.”"
+      }
+    ],
+    "3": [
+      {
+        "osis": "Lam.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Ben, O'nun gazabının değneğiyle sıkıntı gören adamım."
+      },
+      {
+        "osis": "Lam.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Beni güttü, ışıkta değil, karanlıkta yürüttü."
+      },
+      {
+        "osis": "Lam.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "Gerçekten de bütün gün elini bana karşı çevirip duruyor."
+      },
+      {
+        "osis": "Lam.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "Etimi ve derimi yıprattı, kemiklerimi kırdı."
+      },
+      {
+        "osis": "Lam.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Karşıma duvar yaptı, beni acı ve sıkıntıyla kuşattı."
+      },
+      {
+        "osis": "Lam.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Uzun zamandır ölü olanlar gibi beni karanlık yerlerde oturttu."
+      },
+      {
+        "osis": "Lam.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Çevreme duvar ördü, dışarı çıkamıyorum. Zincirlerimi ağırlaştırdı."
+      },
+      {
+        "osis": "Lam.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Evet, feryat edip yardım çağırınca, duama set çekiyor."
+      },
+      {
+        "osis": "Lam.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Yollarıma yontma taşlarla duvar ördü, yollarımı eğri etti."
+      },
+      {
+        "osis": "Lam.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Benim için pusuda yatan bir ayı, gizlenmiş bir aslandır."
+      },
+      {
+        "osis": "Lam.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Yolumu saptırdı, ve beni paraladı. Beni harap etti."
+      },
+      {
+        "osis": "Lam.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Yayını gerdi, beni ok için hedef gibi dikti."
+      },
+      {
+        "osis": "Lam.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Kılıfındaki oklarını böbreklerime sapladı."
+      },
+      {
+        "osis": "Lam.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Halkımın tümüne alay konusu, gün boyu onların türküsü oldum."
+      },
+      {
+        "osis": "Lam.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "Beni acıyla doldurdu. Beni pelinle doldurdu."
+      },
+      {
+        "osis": "Lam.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Dişlerimi çakıl taşlarıyla kırdı. Üzerimi külle örttü."
+      },
+      {
+        "osis": "Lam.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "Canımı esenlikten uzaklaştırdın. Bolluğu unuttum."
+      },
+      {
+        "osis": "Lam.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "“Gücüm, Yahve'den beklediğim umut da yok oldu” dedim."
+      },
+      {
+        "osis": "Lam.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "Sıkıntımı, sefaletimi, pelinle acıyı hatırla."
+      },
+      {
+        "osis": "Lam.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Canım onları hâlâ hatırlıyor, ve içimde eğiliyor."
+      },
+      {
+        "osis": "Lam.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "Bunu aklıma getiriyorum, bu yüzden umudum var."
+      },
+      {
+        "osis": "Lam.3.22",
+        "chapter": 3,
+        "verse": 22,
+        "text": "Yahve'nin sevgi dolu iyiliklerinden ötürü tükenmedik, çünkü merhametleri son bulmaz."
+      },
+      {
+        "osis": "Lam.3.23",
+        "chapter": 3,
+        "verse": 23,
+        "text": "Onlar her sabah yenilenir. Senin sadakatin büyüktür."
+      },
+      {
+        "osis": "Lam.3.24",
+        "chapter": 3,
+        "verse": 24,
+        "text": "“Benim payım Yahve'dir” der canım. “Bu yüzden O'na güvenirim.”"
+      },
+      {
+        "osis": "Lam.3.25",
+        "chapter": 3,
+        "verse": 25,
+        "text": "Yahve kendisini bekleyenlere, kendisini arayan cana iyidir."
+      },
+      {
+        "osis": "Lam.3.26",
+        "chapter": 3,
+        "verse": 26,
+        "text": "İnsanın umut etmesi, ve Yahve'nin kurtarışını sessizce beklemesi iyidir."
+      },
+      {
+        "osis": "Lam.3.27",
+        "chapter": 3,
+        "verse": 27,
+        "text": "İnsanın gençliğinde boyunduruğu taşıması iyidir."
+      },
+      {
+        "osis": "Lam.3.28",
+        "chapter": 3,
+        "verse": 28,
+        "text": "Tek başına otursun da sussun, çünkü üzerine onu koyan O'dur."
+      },
+      {
+        "osis": "Lam.3.29",
+        "chapter": 3,
+        "verse": 29,
+        "text": "Ağzını toprağa koysun, belki umut olur."
+      },
+      {
+        "osis": "Lam.3.30",
+        "chapter": 3,
+        "verse": 30,
+        "text": "Kendisine vurana yanağını uzatsın. Utanca doysun."
+      },
+      {
+        "osis": "Lam.3.31",
+        "chapter": 3,
+        "verse": 31,
+        "text": "Çünkü Yahve sonsuza dek kendisinden atmaz."
+      },
+      {
+        "osis": "Lam.3.32",
+        "chapter": 3,
+        "verse": 32,
+        "text": "Çünkü O, kederlendirse de, sevgi dolu iyiliklerinin çokluğuna göre yine merhamet eder."
+      },
+      {
+        "osis": "Lam.3.33",
+        "chapter": 3,
+        "verse": 33,
+        "text": "Çünkü O, isteyerek sıkıntı vermez, insanoğullarını kederlendirmez."
+      },
+      {
+        "osis": "Lam.3.34",
+        "chapter": 3,
+        "verse": 34,
+        "text": "Yeryüzünün bütün tutsaklarını ayak altında ezmeyi,"
+      },
+      {
+        "osis": "Lam.3.35",
+        "chapter": 3,
+        "verse": 35,
+        "text": "yüceler Yücesi'nin yüzü önünde insanın hakkını saptırmayı,"
+      },
+      {
+        "osis": "Lam.3.36",
+        "chapter": 3,
+        "verse": 36,
+        "text": "davasında insana haksızlık etmeyi, Efendi razı olmaz."
+      },
+      {
+        "osis": "Lam.3.37",
+        "chapter": 3,
+        "verse": 37,
+        "text": "Efendi buyurmadıkça, kim bir şey söyler de gerçekleşir?"
+      },
+      {
+        "osis": "Lam.3.38",
+        "chapter": 3,
+        "verse": 38,
+        "text": "Kötülük de iyilik de Yüceler Yücesi'nin ağzından çıkmıyor mu?"
+      },
+      {
+        "osis": "Lam.3.39",
+        "chapter": 3,
+        "verse": 39,
+        "text": "İnsan, yaşayan insan, neden günahlarının cezası için yakınır?"
+      },
+      {
+        "osis": "Lam.3.40",
+        "chapter": 3,
+        "verse": 40,
+        "text": "Yollarımızı araştıralım, deneyelim, ve yine Yahve'ye dönelim."
+      },
+      {
+        "osis": "Lam.3.41",
+        "chapter": 3,
+        "verse": 41,
+        "text": "Göklerdeki Tanrı'ya ellerimizle birlikte yüreğimizi de yükseltelim."
+      },
+      {
+        "osis": "Lam.3.42",
+        "chapter": 3,
+        "verse": 42,
+        "text": "“Suç işledik ve isyan ettik. Sen bağışlamadın.”"
+      },
+      {
+        "osis": "Lam.3.43",
+        "chapter": 3,
+        "verse": 43,
+        "text": "“Bizi öfkeyle örttün ve bizi kovaladın. Öldürdün. Acımadın."
+      },
+      {
+        "osis": "Lam.3.44",
+        "chapter": 3,
+        "verse": 44,
+        "text": "Kendini bulutla örttün, böylece hiçbir dua ondan geçemiyor."
+      },
+      {
+        "osis": "Lam.3.45",
+        "chapter": 3,
+        "verse": 45,
+        "text": "Bizi halkların arasında pislik ve süprüntü yaptın.”"
+      },
+      {
+        "osis": "Lam.3.46",
+        "chapter": 3,
+        "verse": 46,
+        "text": "“Bütün düşmanlarımız bize karşı ağızlarını kocaman açtılar."
+      },
+      {
+        "osis": "Lam.3.47",
+        "chapter": 3,
+        "verse": 47,
+        "text": "Dehşet ve çukur üzerimize geldi, kırgın ve yıkım.”"
+      },
+      {
+        "osis": "Lam.3.48",
+        "chapter": 3,
+        "verse": 48,
+        "text": "Halkımın kızının yıkımı yüzünden, gözüm su ırmaklarıyla akıyor."
+      },
+      {
+        "osis": "Lam.3.49",
+        "chapter": 3,
+        "verse": 49,
+        "text": "Gözüm hiç ara vermeden, durmadan akıyor."
+      },
+      {
+        "osis": "Lam.3.50",
+        "chapter": 3,
+        "verse": 50,
+        "text": "Yahve aşağı bakıp gökten görene kadar."
+      },
+      {
+        "osis": "Lam.3.51",
+        "chapter": 3,
+        "verse": 51,
+        "text": "Kentimin bütün kızları yüzünden, gözlerim canımı sarstı."
+      },
+      {
+        "osis": "Lam.3.52",
+        "chapter": 3,
+        "verse": 52,
+        "text": "Sebepsiz yere bana düşman olanlar bir kuş gibi beni acımasızca kovaladılar."
+      },
+      {
+        "osis": "Lam.3.53",
+        "chapter": 3,
+        "verse": 53,
+        "text": "Hayatımı zindanda kesip kopardılar, üzerime taş attılar."
+      },
+      {
+        "osis": "Lam.3.54",
+        "chapter": 3,
+        "verse": 54,
+        "text": "Başımın üstünden sular aktı. “Kesip koparıldım” dedim."
+      },
+      {
+        "osis": "Lam.3.55",
+        "chapter": 3,
+        "verse": 55,
+        "text": "Zindanının dibinden adını çağırdım, ey Yahve."
+      },
+      {
+        "osis": "Lam.3.56",
+        "chapter": 3,
+        "verse": 56,
+        "text": "Sesimi duydun: “Kulağını inlememden, ve feryadımdan gizleme.”"
+      },
+      {
+        "osis": "Lam.3.57",
+        "chapter": 3,
+        "verse": 57,
+        "text": "Seni çağırdığım gün yaklaştın. “Korkma” dedin."
+      },
+      {
+        "osis": "Lam.3.58",
+        "chapter": 3,
+        "verse": 58,
+        "text": "Ey Yahve, canımın davalarını sen gördün. Hayatımı kurtardın."
+      },
+      {
+        "osis": "Lam.3.59",
+        "chapter": 3,
+        "verse": 59,
+        "text": "Ey Yahve, bana olan haksızlığı gördün. Davamı yargıla."
+      },
+      {
+        "osis": "Lam.3.60",
+        "chapter": 3,
+        "verse": 60,
+        "text": "Bütün intikamlarını, ve bana karşı yaptıkları bütün tasarıları gördün."
+      },
+      {
+        "osis": "Lam.3.61",
+        "chapter": 3,
+        "verse": 61,
+        "text": "Ey Yahve, onların aşağılamasını, ve bana karşı olan bütün tasarılarını,"
+      },
+      {
+        "osis": "Lam.3.62",
+        "chapter": 3,
+        "verse": 62,
+        "text": "bana karşı çıkanların dudaklarını, ve bütün gün bana karşı kurdukları düzenlerini duydun."
+      },
+      {
+        "osis": "Lam.3.63",
+        "chapter": 3,
+        "verse": 63,
+        "text": "Oturuşlarını ve kalkışlarını görüyorsun. Ben onların türküsü oldum."
+      },
+      {
+        "osis": "Lam.3.64",
+        "chapter": 3,
+        "verse": 64,
+        "text": "Onlara ellerinin işine göre karşılık vereceksin, ey Yahve."
+      },
+      {
+        "osis": "Lam.3.65",
+        "chapter": 3,
+        "verse": 65,
+        "text": "Onlara yürek katılığı vereceksin, lanetin onlara olsun."
+      },
+      {
+        "osis": "Lam.3.66",
+        "chapter": 3,
+        "verse": 66,
+        "text": "Onları öfkeyle kovalayacak, ve onları Yahve'nin göklerinin altından yok edeceksin."
+      }
+    ],
+    "4": [
+      {
+        "osis": "Lam.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Altın nasıl da donuklaştı! Saf altın nasıl değişti! Kutsal yerin taşları her sokak başına döküldü."
+      },
+      {
+        "osis": "Lam.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Saf altınla kıyaslanan, Siyon'un değerli oğulları, nasıl oldu da çömlekçi elinin işi, toprak testiler gibi sayıldılar!"
+      },
+      {
+        "osis": "Lam.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "Çakallar bile memelerini verir, yavrularını emzirirler. Ama halkım kızı, çöldeki devekuşları gibi acımasız oldu."
+      },
+      {
+        "osis": "Lam.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Emzikteki çocuğun dili susuzluktan damağına yapışıyor. Küçük çocuklar ekmek istiyor, kimse onlar için koparmıyor."
+      },
+      {
+        "osis": "Lam.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Lezzetli yiyecekler yiyenler sokaklarda perişan oldular. Mor giysiler içinde büyütülenler gübre yığınlarını kucakladılar."
+      },
+      {
+        "osis": "Lam.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Çünkü halkım kızının suçu, el değmeden bir anda yıkılan Sodom'un günahından daha büyüktür."
+      },
+      {
+        "osis": "Lam.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Soyluları kardan daha temizdi. Sütten daha beyazdı. Bedence yakuttan daha kırmızıydı. Safir gibi parlıyordu."
+      },
+      {
+        "osis": "Lam.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "Görünüşleri kömürden daha kara oldu. Sokaklarda tanınmaz oldular. Derileri kemiklerine yapıştı. Kurudular. Odun gibi oldular."
+      },
+      {
+        "osis": "Lam.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "Kılıçla öldürülenler kıtlığın öldürdüklerinden iyidir; çünkü bunlar tarla ürünlerinin yokluğundan yıpranarak erimekteler."
+      },
+      {
+        "osis": "Lam.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "Merhametli kadınların elleri kendi çocuklarını kaynattı. Onlar halkım kızının yıkımında yiyecekleri oldular."
+      },
+      {
+        "osis": "Lam.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Yahve gazabını tamamladı. Kızgın öfkesini döktü. Siyon'da, onun temellerini yiyip bitiren bir ateş tutuşturdu."
+      },
+      {
+        "osis": "Lam.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "Düşman ve hasım Yeruşalem kapılarından içeri girecek diye, yeryüzü kralları ve dünya sakinlerinin hiçbiri inanmazdı."
+      },
+      {
+        "osis": "Lam.4.13",
+        "chapter": 4,
+        "verse": 13,
+        "text": "Peygamberlerinin günahları, ve kâhinlerinin suçları yüzünden bu, çünkü onlar kentin ortasında doğruların kanını döktüler."
+      },
+      {
+        "osis": "Lam.4.14",
+        "chapter": 4,
+        "verse": 14,
+        "text": "Sokaklarda körler gibi dolaşıyorlar. Kanla kirlenmişler, Öyle ki, insanlar giysilerine dokunamaz oldu."
+      },
+      {
+        "osis": "Lam.4.15",
+        "chapter": 4,
+        "verse": 15,
+        "text": "“Çekilin!” diye bağırdılar onlara. “Kirli! Çekilin! Çekilin! Dokunmayın! Kaçıp başıboş dolaştıklarında, insanlar uluslar arasında.” “Artık burada yaşayamazlar” dediler."
+      },
+      {
+        "osis": "Lam.4.16",
+        "chapter": 4,
+        "verse": 16,
+        "text": "Yahve'nin öfkesi onları dağıttı. Artık onlara bakmayacak. Kâhinlere saygı göstermediler. Yaşlıları kayırmadılar."
+      },
+      {
+        "osis": "Lam.4.17",
+        "chapter": 4,
+        "verse": 17,
+        "text": "Boş yere yardım beklerken, artık gözlerimiz sönüyor, bizi kurtaramayacak bir ulusu gözledikçe gözledik."
+      },
+      {
+        "osis": "Lam.4.18",
+        "chapter": 4,
+        "verse": 18,
+        "text": "Adımlarımızı avlıyorlar, sokaklarımızda gezemiyoruz. Sonumuz yakın. Günlerimiz doldu, çünkü sonumuz geldi."
+      },
+      {
+        "osis": "Lam.4.19",
+        "chapter": 4,
+        "verse": 19,
+        "text": "Bizi kovalayanlar gökteki kartallardan daha hızlı. Dağlarda bizi kovaladılar. Çölde bize pusu kurdular."
+      },
+      {
+        "osis": "Lam.4.20",
+        "chapter": 4,
+        "verse": 20,
+        "text": "Hayat soluğumuz, Yahve'nin meshedilmişi, onların çukurlarında yakalandı; hani onun için, Uluslar arasında onun gölgesinde yaşayacağız dediğimiz."
+      },
+      {
+        "osis": "Lam.4.21",
+        "chapter": 4,
+        "verse": 21,
+        "text": "Sevin ve coş, Uz diyarında oturan ey Edom kızı. Kâse sana da geçecek. Sarhoş olacaksın, ve soyunacaksın."
+      },
+      {
+        "osis": "Lam.4.22",
+        "chapter": 4,
+        "verse": 22,
+        "text": "Suçlarının cezası tamamlandı, ey Siyon kızı. Artık seni sürgüne götürmeyecek. Ey Edom kızı, senin suçlarını ziyaret edecek. Senin günahlarını ortaya çıkaracak."
+      }
+    ],
+    "5": [
+      {
+        "osis": "Lam.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Ey Yahve, başımıza gelenleri hatırla. Bak da utancımızı gör."
+      },
+      {
+        "osis": "Lam.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Mirasımız yabancılara, evlerimiz ellere verildi."
+      },
+      {
+        "osis": "Lam.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Yetim ve babasız kaldık. Annelerimiz dul kadınlar gibi."
+      },
+      {
+        "osis": "Lam.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "Suyumuzu parayla içmek zorunda kaldık. Odunumuz bize satılıyor."
+      },
+      {
+        "osis": "Lam.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Bizi kovalayanlar ensemizde. Yorgunuz ve rahatımız yok."
+      },
+      {
+        "osis": "Lam.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Ekmekle doymak için ellerimizi Mısırlılar'a ve Aşurlular'a verdik."
+      },
+      {
+        "osis": "Lam.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Atalarımız günah işledi, artık yoklar. Onların suçlarını biz yüklendik."
+      },
+      {
+        "osis": "Lam.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "Köleler bizi yönetiyor. Onların elinden bizi kurtaracak kimse yok."
+      },
+      {
+        "osis": "Lam.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "Çöldeki kılıç yüzünden ekmeğimizi hayatımız pahasına kazanıyoruz."
+      },
+      {
+        "osis": "Lam.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "Kıtlığın yakıcı sıcağından derimiz fırın gibi karardı."
+      },
+      {
+        "osis": "Lam.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Siyon'daki kadınların, Yahuda kentlerindeki el değmemiş kızların ırzına geçtiler."
+      },
+      {
+        "osis": "Lam.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "Beyler ellerinden asıldı. Yaşlıların yüzlerine saygı gösterilmedi."
+      },
+      {
+        "osis": "Lam.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "Gençler değirmen taşı taşıdılar. Çocuklar odun yükleri altında tökezledi."
+      },
+      {
+        "osis": "Lam.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Yaşlılar kent kapısından, gençler de ezgilerinden kesildi."
+      },
+      {
+        "osis": "Lam.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "Yüreğimizin sevinci kesildi. Oyunumuz yasa dönüştü."
+      },
+      {
+        "osis": "Lam.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Başımızdan taç düştü. Vay halimize, çünkü günah işledik!"
+      },
+      {
+        "osis": "Lam.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Bu yüzden yüreğimiz baygın. Bu şeylerden ötürü gözlerimiz karardı:"
+      },
+      {
+        "osis": "Lam.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Siyon Dağı ıssız kalmış olduğu için, onun üzerinde çakallar dolaşıyor."
+      },
+      {
+        "osis": "Lam.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "Sen, ey Yahve, sonsuza dek kalırsın. Tahtın kuşaktan kuşağa sürer."
+      },
+      {
+        "osis": "Lam.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "Neden bizi daima unutuyorsun, ve bizi bu kadar uzun bir süre bırakıyorsun?"
+      },
+      {
+        "osis": "Lam.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "Bizi kendine döndür, ey Yahve, ve biz dönelim. Günlerimizi eskisi gibi yenile."
+      },
+      {
+        "osis": "Lam.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Ama sen bizi tümüyle reddettin. Bize karşı çok öfkelisin."
+      }
+    ]
+  }
+}

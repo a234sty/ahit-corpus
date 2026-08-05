@@ -1,0 +1,454 @@
+{
+  "metadata": {
+    "book": "Joel",
+    "osis": "Joel",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "Joel.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Petuel oğlu Yoel'e gelen Yahve'nin sözü."
+      },
+      {
+        "osis": "Joel.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "Ey ihtiyarlar, duyun bunu, memleketin bütün sakinleri dinleyin! Sizin günlerinizde ya da atalarınızın günlerinde hiç böylesi oldu mu?"
+      },
+      {
+        "osis": "Joel.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "Çocuklarınıza bunu anlatın, çocuklarınız kendi çocuklarına, onların çocukları da başka kuşaklara anlatsınlar."
+      },
+      {
+        "osis": "Joel.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "Çekirgenin bıraktığını büyük çekirge yedi. Büyük çekirgenin bıraktığını küçük çekirge yedi. Onun bıraktığını tırtıl yedi."
+      },
+      {
+        "osis": "Joel.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "Ey sarhoşlar, ayılın da ağlayın! Ey şarap içenler, hepiniz, tatlı şarap yüzünden yas tutun, çünkü ağzınızdan kesildi."
+      },
+      {
+        "osis": "Joel.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Çünkü ülkemin üzerine güçlü ve sayılamaz bir ulus çıktı. Onun dişleri aslan dişleri, onda dişi aslan azı dişleri var."
+      },
+      {
+        "osis": "Joel.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Asmamı harap etti, incir ağacımı soydu. Kabuğunu soyup attı. Dalları ağardı."
+      },
+      {
+        "osis": "Joel.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Gençliğinin kocası için çul giymiş el değmemiş bir kız gibi yas tut!"
+      },
+      {
+        "osis": "Joel.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Yahve'nin evinden ekmek sunusu ve dökmelik sunu kesildi. Yahve'nin hizmetkârları olan kâhinler yas tutuyor."
+      },
+      {
+        "osis": "Joel.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Tarla harap oldu. Toprak yas tutuyor, çünkü buğday yok oldu, yeni şarap kurudu, yağ cılızlaştı."
+      },
+      {
+        "osis": "Joel.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Ey çiftçiler, utanın! Ey bağcılar, buğday ve arpa için ağıt yakın; çünkü tarlanın ürünü yok oldu."
+      },
+      {
+        "osis": "Joel.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Asma kurudu, incir ağacı kurudu; nar ağacı, palmiye ağacı da, elma ağacı, tarlanın bütün ağaçları kurudu; çünkü sevinç insanoğullarından kayboldu."
+      },
+      {
+        "osis": "Joel.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "Ey kâhinler, çul giyin ve yas tutun! Ey sunak hizmetkârları, ağıt yakın. Ey Tanrım'ın hizmetkârları gelin, bütün gece çulda yatın, çünkü Tanrınız'ın evinden ekmek sunusu ve dökmelik sunu kesildi."
+      },
+      {
+        "osis": "Joel.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "Orucu kutsal sayın. Toplantıya çağırın. Yaşlıları ve ülkenin bütün sakinlerini Tanrınız Yahve'nin evine toplayın da Yahve'ye feryat edin."
+      },
+      {
+        "osis": "Joel.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "Vay o güne! Çünkü Yahve'nin günü yakındır, Her Şeye Gücü Yeten'den bir yıkım gelecek."
+      },
+      {
+        "osis": "Joel.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "Gözlerimizin önünden yiyecek, Tanrımız'ın evinden sevinç ve neşe kesilmedi mi?"
+      },
+      {
+        "osis": "Joel.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "Tohumlar toprak kesikleri altında çürüyor. Tahıl ambarları boş kalıyor. Ambarlar yıkılıyor, çünkü buğday kalmadı."
+      },
+      {
+        "osis": "Joel.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "Hayvanlar nasıl inliyor! Sığır sürüleri şaşkın, çünkü otlakları yok. Koyun sürüleri de perişan oldu."
+      },
+      {
+        "osis": "Joel.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "Ey Yahve, sana feryat ediyorum, çünkü ateş çölün otlaklarını yiyip bitirdi, alev de bütün kır ağaçlarını yaktı."
+      },
+      {
+        "osis": "Joel.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Evet, kırın hayvanları soluyarak sana sesleniyor, çünkü derelerin suyu kurudu, ateş de çölün otlaklarını yiyip bitirdi."
+      }
+    ],
+    "2": [
+      {
+        "osis": "Joel.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Siyon'da boru çalın, kutsal dağımda uyarı sesi verin! Ülkenin bütün sakinleri titresin, çünkü Yahve'nin günü geliyor, çünkü yakındır:"
+      },
+      {
+        "osis": "Joel.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Karanlık ve kasvet günü, bulut ve koyu karanlık günü. Dağlara yayılan şafak gibi, büyük ve güçlü bir halk; benzeri hiç olmadı, onlardan sonra da çok kuşakların yıllarında bir daha olmayacak."
+      },
+      {
+        "osis": "Joel.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "Önlerinde ateş yiyip bitiriyor, arkalarında alev yakıyor. Ülke önlerinde Aden bahçesi gibi, arkalarında ıssız bir çöl. Evet, onlardan kaçıp kurtulan kimse de yok."
+      },
+      {
+        "osis": "Joel.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Görünüşleri atların görünümü gibi, atlılar gibi de koşuyorlar."
+      },
+      {
+        "osis": "Joel.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "Dağların tepelerinde savaş arabalarının gürültüsü gibi, anızı yiyip bitiren ateş alevinin gürültüsü gibi, savaş düzenine girmiş güçlü bir halk gibi sıçrıyorlar."
+      },
+      {
+        "osis": "Joel.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Onların karşısında halklar sıkıntı içindeler. Bütün yüzler soluyor."
+      },
+      {
+        "osis": "Joel.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Yiğitler gibi koşuyorlar. Savaşçılar gibi sura tırmanıyorlar. Her biri kendi safında yürüyor ve sırasından sapmıyor."
+      },
+      {
+        "osis": "Joel.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Birbirini itmiyorlar. Her biri kendi yolunda yürüyor. Savunmaları deliyorlar, ama saflarını bozmuyorlar."
+      },
+      {
+        "osis": "Joel.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Kente hücum ediyorlar. Sur üzerinde koşuyorlar. Evlerin içine tırmanıyorlar. Hırsızlar gibi pencerelerden giriyorlar."
+      },
+      {
+        "osis": "Joel.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Yer önlerinde sarsılıyor. Gökler titriyor. Güneş ve ay kararıyor, yıldızlar da ışıltılarını geri çekiyor."
+      },
+      {
+        "osis": "Joel.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "Yahve ordusunun önünde sesiyle gürlüyor, çünkü O'nun güçleri çok büyüktür; çünkü O'nun buyruğuna uyan O, güçlüdür; çünkü Yahve'nin günü büyük ve çok korkunçtur, ve buna kim dayanabilir?"
+      },
+      {
+        "osis": "Joel.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "“Şimdi bile” diyor Yahve, “Bütün yüreğinizle, oruçla, ağlayışla ve yasla bana dönün.”"
+      },
+      {
+        "osis": "Joel.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Giysilerinizi değil, yüreğinizi yırtın ve Tanrınız Yahve'ye dönün; çünkü O lütufkârdır, merhametlidir, Öfkelenmekte yavaştır, sevgi dolu iyiliği boldur ve felaket göndermekten vazgeçer."
+      },
+      {
+        "osis": "Joel.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Kim bilir? Belki döner de vazgeçer ve arkasında bereket, Tanrınız Yahve için bir ekmek sunusu ve dökmelik sunu bırakır."
+      },
+      {
+        "osis": "Joel.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Siyon'da boru çalın! Orucu kutsal kılın. Toplantıya çağırın."
+      },
+      {
+        "osis": "Joel.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Halkı toplayın. Toplantıyı kutsayın. İhtiyarları toplayın. Çocukları ve emzikte olanları toplayın. Güvey odasından, gelin de gerdeğinden çıksın."
+      },
+      {
+        "osis": "Joel.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "Yahve'nin hizmetkârları olan kâhinler, eyvanla sunak arasında ağlayıp desinler, “Ey Yahve, halkını esirge, kendi mirasını aşağılanmaya verme ki, uluslar onlara hakim olmasın. Halklar arasında neden ‘Onların Tanrıları nerede?’ denilsin?”"
+      },
+      {
+        "osis": "Joel.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "O zaman Yahve ülkesi için kıskanç oldu ve halkına acıdı."
+      },
+      {
+        "osis": "Joel.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Yahve halkına yanıt verdi: “İşte, sana buğday, yeni şarap ve yağ göndereceğim, onlarla doyacaksınız; artık sizi uluslar arasında aşağılatmayacağım."
+      },
+      {
+        "osis": "Joel.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Ama kuzey ordusunu senden uzaklaştıracağım, onu çorak ve ıssız bir ülkeye, onun önünü doğu denizine, onun arkasını batı denizine süreceğim; ve pis kokusu yükselecek, ve kötü kokusu yükselecek.” Gerçekten o, büyük işler yaptı."
+      },
+      {
+        "osis": "Joel.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "Ey diyar, korkma. Sevin ve coş, çünkü Yahve büyük işler yaptı."
+      },
+      {
+        "osis": "Joel.2.22",
+        "chapter": 2,
+        "verse": 22,
+        "text": "Ey kır hayvanları, korkmayın; çünkü çölün otlakları yeşeriyor, ağaç meyvesini veriyor. İncir ağacı ve asma gücünü veriyor."
+      },
+      {
+        "osis": "Joel.2.23",
+        "chapter": 2,
+        "verse": 23,
+        "text": "Öyleyse sevinin, ey Siyon'un çocukları, ve Tanrınız Yahve'yle coşun; çünkü size ilk yağmuru tam ölçüsünde veriyor, ve öncesinde olduğu gibi yağmuru, ilk yağmuru ve son yağmuru sizin için yağdırıyor."
+      },
+      {
+        "osis": "Joel.2.24",
+        "chapter": 2,
+        "verse": 24,
+        "text": "Harman yerleri buğdayla dolacak, tekneler de yeni şarap ve yağla taşacak."
+      },
+      {
+        "osis": "Joel.2.25",
+        "chapter": 2,
+        "verse": 25,
+        "text": "Size sürüyle uçan çekirgenin, büyük çekirgenin, küçük çekirgenin ve tırtılın, aranıza gönderdiğim büyük ordumun yediği yılları geri vereceğim."
+      },
+      {
+        "osis": "Joel.2.26",
+        "chapter": 2,
+        "verse": 26,
+        "text": "Bolca yiyip doyacaksınız, sizin için şaşılası şeyler yapan Tanrınız Yahve'nin adını öveceksiniz. Halkım bir daha asla hayal kırıklığına uğramayacak."
+      },
+      {
+        "osis": "Joel.2.27",
+        "chapter": 2,
+        "verse": 27,
+        "text": "Ben'im İsrael'in arasında olduğumu, Tanrınız Yahve olduğumu, ve başka kimsenin olmadığını bileceksiniz. Halkım bir daha asla hayal kırıklığına uğramayacak."
+      },
+      {
+        "osis": "Joel.2.28",
+        "chapter": 2,
+        "verse": 28,
+        "text": "Ondan sonra, Ruhum'u bütün insanların üzerine dökeceğim. Oğullarınız ve kızlarınız peygamberlik edecek. Yaşlılarınız düşler görecek. Gençleriniz görümler görecek."
+      },
+      {
+        "osis": "Joel.2.29",
+        "chapter": 2,
+        "verse": 29,
+        "text": "Ve o günlerde erkek ve kadın hizmetçilerin üzerine de Ruhum'u dökeceğim."
+      },
+      {
+        "osis": "Joel.2.30",
+        "chapter": 2,
+        "verse": 30,
+        "text": "Göklerde ve yerde belirtiler göstereceğim: Kan, ateş ve duman direkleri."
+      },
+      {
+        "osis": "Joel.2.31",
+        "chapter": 2,
+        "verse": 31,
+        "text": "Yahve'nin büyük ve korkunç günü gelmeden önce güneş karanlığa, ay kana dönecek."
+      },
+      {
+        "osis": "Joel.2.32",
+        "chapter": 2,
+        "verse": 32,
+        "text": "Öyle olacak ki, her kim Yahve'nin adını çağırırsa kurtulacak; çünkü Yahve'nin söylediği gibi, Siyon Dağı'nda ve Yeruşalem'de kaçıp kurtulanlar, geride kalanlar arasında Yahve'nin çağırdığı kimseler olacak."
+      }
+    ],
+    "3": [
+      {
+        "osis": "Joel.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "“Çünkü işte, o günlerde ve o zamanda, Yahuda ve Yeruşalem'in sürgünlerini geri getirdiğimde,"
+      },
+      {
+        "osis": "Joel.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "bütün ulusları toplayacağım, ve onları Yehoşafat Vadisi'ne indireceğim; ve orada halkım ve mirasım olan İsrael için, onu uluslar arasında dağıttıkları için onları yargılayacağım. Onlar ülkemi böldüler,"
+      },
+      {
+        "osis": "Joel.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "ve halkım için kura çektiler, ve fahişeye ücreti için erkek çocuğu verdiler, ve içebilsinler diye şarap karşılığında bir kız sattılar.”"
+      },
+      {
+        "osis": "Joel.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "“Hem de siz benim için nesiniz, ey Sur ve Sayda ve bütün Filist bölgeleri? Siz bana karşılık mı ödeyeceksiniz? Ve eğer bana karşılığını ödeyecek olursanız, ben karşılığını hemen ve çabucak kendi başınıza döndüreceğim."
+      },
+      {
+        "osis": "Joel.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "Çünkü gümüşümü ve altınımı aldın, en değerli hazinelerimi tapınaklarına götürdün,"
+      },
+      {
+        "osis": "Joel.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Yahuda'nın çocuklarını ve Yeruşalem'in çocuklarını kendi sınırlarından uzaklaştırmak için Grekler'in oğullarına sattınız."
+      },
+      {
+        "osis": "Joel.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "İşte, onları sattığın yerden harekete geçireceğim, karşılığını kendi başınıza ödeyeceğim;"
+      },
+      {
+        "osis": "Joel.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "oğullarını ve kızlarını Yahuda'nın çocuklarının eline satacağım, onlar da onları uzak bir ulusa, Şevalılar'a satacaklar, çünkü Yahve böyle söyledi.”"
+      },
+      {
+        "osis": "Joel.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Uluslar arasında şunu ilan edin: “Savaşa hazırlanın! Yiğitleri harekete geçirin. Bütün savaşçılar yaklaşsın. Yukarı çıksınlar."
+      },
+      {
+        "osis": "Joel.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Sabanlarınızı kılıçlara, bağcı bıçaklarınızı mızraklara döndürün. Zayıf olan, 'Ben güçlüyüm' desin."
+      },
+      {
+        "osis": "Joel.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Çabuk gelin, ey çevredeki uluslar, toplanın.” Ey Yahve, yiğitlerini oraya indir."
+      },
+      {
+        "osis": "Joel.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "“Uluslar harekete geçip Yehoşafat Vadisi'ne çıksınlar; çünkü orada oturup çevredeki bütün ulusları yargılayacağım."
+      },
+      {
+        "osis": "Joel.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "Orağı sallayın, çünkü hasat olgunlaştı. Gelin, çiğneyin, çünkü şarap teknesi doldu, tekneler taşıyor, çünkü kötülükleri büyüktür.”"
+      },
+      {
+        "osis": "Joel.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "Kalabalıklar, Karar Vadisi'nde kalabalıklar! Çünkü Karar Vadisi'nde Yahve'nin günü yakındır."
+      },
+      {
+        "osis": "Joel.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "Güneş ve ay karardı, yıldızlar da ışıltılarını geri çekti."
+      },
+      {
+        "osis": "Joel.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Yahve Siyon'dan kükreyecek, Yeruşalem'den gürleyecek; gökler de yeryüzü de sarsılacak; ama Yahve, halkına sığınak, İsrael'in çocuklarına kale olacak."
+      },
+      {
+        "osis": "Joel.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "“Böylece, kutsal dağım Siyon'da oturan Tanrınız Yahve'nin Ben olduğumu bileceksiniz. O zaman Yeruşalem kutsal olacak, ve bir daha ondan yabancı geçmeyecek."
+      },
+      {
+        "osis": "Joel.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "O gün dağlar tatlı şarap damlatacak, tepeler süt akıtacak, Yahuda'nın bütün derelerinde sular akacak; Yahve'nin evinden bir kaynak çıkacak, ve Şittim Vadisi'ni sulayacak."
+      },
+      {
+        "osis": "Joel.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "Mısır ıssız kalacak, Edom da Yahuda'nın çocuklarına yaptıkları zorbalık yüzünden ıssız bir çöl olacak, çünkü ülkelerinde suçsuz kanı döktüler."
+      },
+      {
+        "osis": "Joel.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Ama Yahuda daima, Yeruşalem de kuşaktan kuşağa oturulacak yer olacak."
+      },
+      {
+        "osis": "Joel.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "Onların temizlemediğim kanlarını temizleyeceğim, çünkü Yahve Siyon'da oturuyor.”"
+      }
+    ]
+  }
+}

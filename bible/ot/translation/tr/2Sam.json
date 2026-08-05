@@ -1,0 +1,4228 @@
+{
+  "metadata": {
+    "book": "2 Samuel",
+    "osis": "2Sam",
+    "language": "tr",
+    "translation": "YTC"
+  },
+  "chapters": {
+    "1": [
+      {
+        "osis": "2Sam.1.1",
+        "chapter": 1,
+        "verse": 1,
+        "text": "Saul'un ölümünden sonra, David Amalekliler'in kıyımından döndüğünde, David Ziklag'da iki gün kaldı,"
+      },
+      {
+        "osis": "2Sam.1.2",
+        "chapter": 1,
+        "verse": 2,
+        "text": "üçüncü gün, işte, Saul'un yanından, ordugâhtan giysileri yırtılmış ve başında toprak olan bir adam geldi. David'in yanına gelince yere kapanıp saygı gösterdi."
+      },
+      {
+        "osis": "2Sam.1.3",
+        "chapter": 1,
+        "verse": 3,
+        "text": "David ona, “Nereden geliyorsun?” dedi. Adam ona, “İsrael ordugâhından kaçtım” dedi."
+      },
+      {
+        "osis": "2Sam.1.4",
+        "chapter": 1,
+        "verse": 4,
+        "text": "David ona şöyle dedi: “Durum nasıl oldu? Lütfen söyle.” O şöyle yanıt verdi: “Halk savaştan kaçtı ve çok insan da düştü ve öldü. Saul ve oğlu Yonatan da öldüler.”"
+      },
+      {
+        "osis": "2Sam.1.5",
+        "chapter": 1,
+        "verse": 5,
+        "text": "David kendisine bunu anlatan genç adama, “Saul ile oğlu Yonatan'ın öldüğünü nereden biliyorsun?” dedi."
+      },
+      {
+        "osis": "2Sam.1.6",
+        "chapter": 1,
+        "verse": 6,
+        "text": "Kendisine anlatan genç adam şöyle dedi: “Bir raslantı eseri Gilboa Dağı'nda karşılaştım, işte, Saul mızrağına yaslanmıştı; işte savaş arabaları ve atlılar onun ardında, yakından takip ediyordu."
+      },
+      {
+        "osis": "2Sam.1.7",
+        "chapter": 1,
+        "verse": 7,
+        "text": "Arkasına baktığında beni gördü ve bana seslendi. 'İşte buradayım' diye yanıt verdim."
+      },
+      {
+        "osis": "2Sam.1.8",
+        "chapter": 1,
+        "verse": 8,
+        "text": "Bana, 'Sen kimsin?' dedi. 'Ben Amalekli'yim' diye yanıt verdim."
+      },
+      {
+        "osis": "2Sam.1.9",
+        "chapter": 1,
+        "verse": 9,
+        "text": "Bana, 'Lütfen yanımda dur da beni öldür, çünkü ızdırap içindeyim ve can çekişiyorum' dedi."
+      },
+      {
+        "osis": "2Sam.1.10",
+        "chapter": 1,
+        "verse": 10,
+        "text": "Ben de onun yanında durup onu öldürdüm, çünkü düştükten sonra yaşayamayacağından emindim. Başındaki tacı ve kolundaki bileziği alıp onları buraya, efendime getirdim.”"
+      },
+      {
+        "osis": "2Sam.1.11",
+        "chapter": 1,
+        "verse": 11,
+        "text": "Sonra David giysilerini tutup yırttı; ve yanındaki bütün adamlar da aynısını yaptı."
+      },
+      {
+        "osis": "2Sam.1.12",
+        "chapter": 1,
+        "verse": 12,
+        "text": "Kılıçla düştükleri için Saul ve oğlu Yonatan, Yahve'nin halkı ve İsrael evi için yas tuttular, ağladılar ve akşama kadar oruç tuttular."
+      },
+      {
+        "osis": "2Sam.1.13",
+        "chapter": 1,
+        "verse": 13,
+        "text": "David kendisine bunu anlatan genç adama, “Nerelisin?” dedi. Adam, “Ben bir yabancının, bir Amalekli'nin oğluyum” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.1.14",
+        "chapter": 1,
+        "verse": 14,
+        "text": "David ona, “Yahve'nin meshettiği kişiyi yok etmek için elini uzatmaktan neden korkmadın?” dedi."
+      },
+      {
+        "osis": "2Sam.1.15",
+        "chapter": 1,
+        "verse": 15,
+        "text": "David gençlerden birini çağırıp, “Yaklaş ve onu vur!” dedi. Onu öyle bir vurdu ki, öldü."
+      },
+      {
+        "osis": "2Sam.1.16",
+        "chapter": 1,
+        "verse": 16,
+        "text": "David ona şöyle dedi: “Kanın kendi başının üzerinde olsun, çünkü 'Yahve'nin meshettiğini öldürdüm' diyerek ağzın sana karşı tanıklık etti.”"
+      },
+      {
+        "osis": "2Sam.1.17",
+        "chapter": 1,
+        "verse": 17,
+        "text": "David bu ağıtla Saul ve oğlu Yonatan için ağıt yaktı."
+      },
+      {
+        "osis": "2Sam.1.18",
+        "chapter": 1,
+        "verse": 18,
+        "text": "(ve onlara yay ezgisini Yahuda çocuklarına öğretsinler diye buyurdu; işte, Yaşar Kitabı'nda yazılmıştır):"
+      },
+      {
+        "osis": "2Sam.1.19",
+        "chapter": 1,
+        "verse": 19,
+        "text": "“Ey İsrael, senin yüceliğin, yüksek yerlerinde öldürüldü! Yiğitler nasıl da düştü!"
+      },
+      {
+        "osis": "2Sam.1.20",
+        "chapter": 1,
+        "verse": 20,
+        "text": "Bunu Gat'ta söylemeyin. Bunu Aşkelon sokaklarında yaymayın ki, Filistliler'in kızları sevinmesin, sünnetsizlerin kızları zafer kazanmasın."
+      },
+      {
+        "osis": "2Sam.1.21",
+        "chapter": 1,
+        "verse": 21,
+        "text": "Ey Gilboa dağları, üzerinizde ne çiy, ne yağmur, ne de adak tarlaları olmasın; çünkü orada yiğitlerin kalkanı kirlendi ve atıldı; Saul'un kalkanı yağla meshedilmedi."
+      },
+      {
+        "osis": "2Sam.1.22",
+        "chapter": 1,
+        "verse": 22,
+        "text": "Öldürülenlerin kanından, yiğitlerin yağından Yonatan'ın yayı geri dönmezdi. Saul'un kılıcı boş geri gelmezdi."
+      },
+      {
+        "osis": "2Sam.1.23",
+        "chapter": 1,
+        "verse": 23,
+        "text": "Saul ve Yonatan hayatlarında sevimli ve hoş idiler. Ölümlerinde de ayrılmadılar. Kartallardan daha hızlıydılar. Aslanlardan daha güçlüydüler."
+      },
+      {
+        "osis": "2Sam.1.24",
+        "chapter": 1,
+        "verse": 24,
+        "text": "Siz ey İsrael kızları, size narin kırmızıyla giydiren, giysilerinize altın süsler takan Saul için ağlayın."
+      },
+      {
+        "osis": "2Sam.1.25",
+        "chapter": 1,
+        "verse": 25,
+        "text": "Yiğitler savaşın ortasında nasıl da düştüler! Yonatan sizin yüksek yerlerinizde öldürüldü."
+      },
+      {
+        "osis": "2Sam.1.26",
+        "chapter": 1,
+        "verse": 26,
+        "text": "Senin için kederliyim kardeşim Yonatan. Bana çok hoş davrandın. Bana olan sevgin harikaydı, kadın sevgisini aşıyordu."
+      },
+      {
+        "osis": "2Sam.1.27",
+        "chapter": 1,
+        "verse": 27,
+        "text": "Yiğitler nasıl da düştü, savaş silahları nasıl yok oldu!”"
+      }
+    ],
+    "2": [
+      {
+        "osis": "2Sam.2.1",
+        "chapter": 2,
+        "verse": 1,
+        "text": "Bundan sonra David Yahve'ye sorup, “Yahuda'nın herhangi bir kentine gideyim mi?” dedi. Yahve ona, “Çık” dedi. David, “Nereye çıkayım?” dedi. “Hevron'a” dedi."
+      },
+      {
+        "osis": "2Sam.2.2",
+        "chapter": 2,
+        "verse": 2,
+        "text": "Böylece David, iki karısı Yizreelli Ahinoam ve Karmelli Naval'ın karısı Avigail ile birlikte oraya çıktı."
+      },
+      {
+        "osis": "2Sam.2.3",
+        "chapter": 2,
+        "verse": 3,
+        "text": "David yanındaki adamlarını, hepsini kendi ev halkıyla birlikte götürdü. Hevron'un kentlerinde yaşadılar."
+      },
+      {
+        "osis": "2Sam.2.4",
+        "chapter": 2,
+        "verse": 4,
+        "text": "Yahudalılar geldiler ve orada David'i Yahuda evi üzerine kral olarak meshettiler. David'e, “Saul'u gömenler Yaveş Giladlılar'dı” dediler."
+      },
+      {
+        "osis": "2Sam.2.5",
+        "chapter": 2,
+        "verse": 5,
+        "text": "David Yaveş Giladlılar'a ulaklar gönderip şöyle dedi: “Efendinize, Saul'a bu iyiliği gösterip onu gömdüğünüz için Yahve tarafından kutsanasınız!"
+      },
+      {
+        "osis": "2Sam.2.6",
+        "chapter": 2,
+        "verse": 6,
+        "text": "Şimdi Yahve size sevgi dolu iyilik ve doğruluk göstersin. Bu şeyi yaptığınız için ben de sizi iyiliğiniz için ödüllendireceğim."
+      },
+      {
+        "osis": "2Sam.2.7",
+        "chapter": 2,
+        "verse": 7,
+        "text": "Şimdi elleriniz güçlü olsun ve yiğit olun; çünkü efendimiz Saul öldü; Yahuda halkı da beni onların üzerine kral olarak meshetti.”"
+      },
+      {
+        "osis": "2Sam.2.8",
+        "chapter": 2,
+        "verse": 8,
+        "text": "Şimdi Saul'un ordusunun komutanı Ner oğlu Avner, Saul'un oğlu İşboşet'i alıp Mahanayim'e getirmişti."
+      },
+      {
+        "osis": "2Sam.2.9",
+        "chapter": 2,
+        "verse": 9,
+        "text": "Onu Gilad'ın üzerine, Aşurlular'ın üzerine, Yizreel'in üzerine, Efraim'in üzerine, Benyamin'in üzerine ve bütün İsrael'in üzerine kral yaptı."
+      },
+      {
+        "osis": "2Sam.2.10",
+        "chapter": 2,
+        "verse": 10,
+        "text": "Saul'un oğlu İşboşet İsrael'de hüküm sürmeye başladığında kırk yaşındaydı ve iki yıl hüküm sürdü. Ama Yahuda evi David'in ardından gitti."
+      },
+      {
+        "osis": "2Sam.2.11",
+        "chapter": 2,
+        "verse": 11,
+        "text": "David'in Hevron'da Yahuda halkı üzerinde kral olduğu süre yedi yıl altı ay sürdü."
+      },
+      {
+        "osis": "2Sam.2.12",
+        "chapter": 2,
+        "verse": 12,
+        "text": "Ner oğlu Avner ve Saul oğlu İşboşet'in hizmetkârları Mahanayim'den Givon'a doğru yola çıktılar."
+      },
+      {
+        "osis": "2Sam.2.13",
+        "chapter": 2,
+        "verse": 13,
+        "text": "Seruya oğlu Yoav ile David'in hizmetkârları çıktılar ve onlarla Givon havuzunun yanında karşılaştılar. Bunlar havuzun bir tarafına, onlar havuzun diğer tarafına oturdular."
+      },
+      {
+        "osis": "2Sam.2.14",
+        "chapter": 2,
+        "verse": 14,
+        "text": "Avner Yoav'a, “Lütfen gençler kalkıp önümüzde yarışsınlar” dedi. Yoav, “Kalksınlar!” dedi."
+      },
+      {
+        "osis": "2Sam.2.15",
+        "chapter": 2,
+        "verse": 15,
+        "text": "Bunun üzerine kalkıp sayıyla geçtiler: Benyamin ve Saul oğlu İşboşet için on iki kişi ve David'in hizmetkârlarından on iki kişi."
+      },
+      {
+        "osis": "2Sam.2.16",
+        "chapter": 2,
+        "verse": 16,
+        "text": "Her biri karşısındakinin başından yakalayıp kılıcını karşısında olanın böğrüne sapladı; böylece birlikte yere düştüler. Bu nedenle Givon'daki o yere Helkat Hassurim denildi."
+      },
+      {
+        "osis": "2Sam.2.17",
+        "chapter": 2,
+        "verse": 17,
+        "text": "O gün savaş çok şiddetliydi; ve Avner ile İsraelliler David'in hizmetkârlarının önünde yenildiler."
+      },
+      {
+        "osis": "2Sam.2.18",
+        "chapter": 2,
+        "verse": 18,
+        "text": "Seruya'nın üç oğlu da oradaydı: Yoav, Avişay ve Asahel. Asahel'in ayağı yaban ceylanı kadar hafifti."
+      },
+      {
+        "osis": "2Sam.2.19",
+        "chapter": 2,
+        "verse": 19,
+        "text": "Asahel Avner'i kovaladı. Avner’in peşinden ne sağa ne de sola saptı."
+      },
+      {
+        "osis": "2Sam.2.20",
+        "chapter": 2,
+        "verse": 20,
+        "text": "Bunun üzerine Avner arkasına bakıp, “Bu sen misin Asahel?” dedi. “Öyledir” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.2.21",
+        "chapter": 2,
+        "verse": 21,
+        "text": "Avner ona, “Sağına ya da soluna dön, gençlerden birini yakala ve zırhını al” dedi. Ancak Asahel onu takip etmekten dönmedi."
+      },
+      {
+        "osis": "2Sam.2.22",
+        "chapter": 2,
+        "verse": 22,
+        "text": "Avner yine Asahel'e, “Ardımdan dön” dedi. “Seni neden yere çalayım? O zaman kardeşin Yoav'ın yüzüne nasıl bakabilirim?”"
+      },
+      {
+        "osis": "2Sam.2.23",
+        "chapter": 2,
+        "verse": 23,
+        "text": "Ancak o geri dönmeyi reddetti. Bunun üzerine Avner mızrağının arka ucuyla onun bedenine vurdu ve mızrak arkasından çıktı; oraya düştü ve aynı yerde öldü. Asahel'in düşüp öldüğü yere gelenlerin hepsi durdu."
+      },
+      {
+        "osis": "2Sam.2.24",
+        "chapter": 2,
+        "verse": 24,
+        "text": "Ama Yoav ile Avişay Avner'in peşine düştüler. Givon Çölü yolu üzerinde, Giah'ın önünde bulunan Amma Tepesi'ne vardıklarında güneş battı."
+      },
+      {
+        "osis": "2Sam.2.25",
+        "chapter": 2,
+        "verse": 25,
+        "text": "Benyamin'in çocukları Avner'in ardınca toplanıp tek bir grup oldular bir tepenin başında durdular."
+      },
+      {
+        "osis": "2Sam.2.26",
+        "chapter": 2,
+        "verse": 26,
+        "text": "Bunun üzerine Avner Yoav'a seslenip şöyle dedi: “Kılıç sonsuza dek yiyip bitirecek mi? Sonunda acılık olacağını bilmiyor musun? O halde halka kardeşlerinizin ardından dönün demeniz daha ne kadar sürecek?”"
+      },
+      {
+        "osis": "2Sam.2.27",
+        "chapter": 2,
+        "verse": 27,
+        "text": "Yoav şöyle dedi: “Hay olan Tanrı hakkı için, eğer sen konuşmamış olsaydın, sabahleyin halk mutlaka gitmiş olur ve hiçbiri kardeşini takip etmezdi.”"
+      },
+      {
+        "osis": "2Sam.2.28",
+        "chapter": 2,
+        "verse": 28,
+        "text": "Bunun üzerine Yoav boru çaldı; bütün halk durdu ve artık İsrael'i kovalamadı, artık bir daha da savaşmadılar."
+      },
+      {
+        "osis": "2Sam.2.29",
+        "chapter": 2,
+        "verse": 29,
+        "text": "Avner ve adamları bütün gece Arava boyunca gittiler; Yarden'i de aşıp bütün Bitron'u geçerek Mahanayim'e geldiler."
+      },
+      {
+        "osis": "2Sam.2.30",
+        "chapter": 2,
+        "verse": 30,
+        "text": "Yoav, Avner'in ardından döndü; bütün halkı topladığında David'in ve Asahel'in on dokuz adamı yoktu."
+      },
+      {
+        "osis": "2Sam.2.31",
+        "chapter": 2,
+        "verse": 31,
+        "text": "Ama David'in hizmetkârları Benyaminli Avner'in adamlarını vurdular böylece üç yüz altmış kişi öldü."
+      },
+      {
+        "osis": "2Sam.2.32",
+        "chapter": 2,
+        "verse": 32,
+        "text": "Asahel'i alıp babasının Beytlehem'deki mezarına gömdüler. Yoav ve adamları bütün gece yol aldılar ve üzerlerine Hevron'da gün doğdu."
+      }
+    ],
+    "3": [
+      {
+        "osis": "2Sam.3.1",
+        "chapter": 3,
+        "verse": 1,
+        "text": "Saul'un evi ile David'in evi arasındaki savaş uzun oldu. David giderek güçlendi ama Saul'un evi giderek zayıfladı."
+      },
+      {
+        "osis": "2Sam.3.2",
+        "chapter": 3,
+        "verse": 2,
+        "text": "Hevron'da David'e oğullar doğdu. İlk oğlu Yizreelli Ahinoam'dan Amnon'du;"
+      },
+      {
+        "osis": "2Sam.3.3",
+        "chapter": 3,
+        "verse": 3,
+        "text": "ve ikincisi Karmelli Naval'ın karısı Avigail'den olan Kilav'dı; ve üçüncüsü, Geşur Kıralı Talmay'ın kızı Maaka'nın oğlu Avşalom'du;"
+      },
+      {
+        "osis": "2Sam.3.4",
+        "chapter": 3,
+        "verse": 4,
+        "text": "ve dördüncüsü Hagit'in oğlu Adoniya; ve beşincisi Avital'ın oğlu Şefatya'ydı;"
+      },
+      {
+        "osis": "2Sam.3.5",
+        "chapter": 3,
+        "verse": 5,
+        "text": "ve altıncısı David'in karısı Egla'dan olan İtream'dı. Bunlar Hevron'da David'e doğdular."
+      },
+      {
+        "osis": "2Sam.3.6",
+        "chapter": 3,
+        "verse": 6,
+        "text": "Saul'un evi ile David'in evi arasında savaş varken, Avner Saul'un evinde kendini güçlendirdi."
+      },
+      {
+        "osis": "2Sam.3.7",
+        "chapter": 3,
+        "verse": 7,
+        "text": "Saul'un, Aya'nın kızı olup Rispa adında bir cariyesi vardı; ve İşboşet Avner'e, “Neden babamın cariyesinin yanına girdin?” dedi."
+      },
+      {
+        "osis": "2Sam.3.8",
+        "chapter": 3,
+        "verse": 8,
+        "text": "Bunun üzerine Avner, İşboşet'in sözlerine çok öfkelendi ve şöyle dedi: “Ben Yahuda'ya ait bir köpek başı mıyım? Bugün baban Saul'un evine, kardeşlerine ve dostlarına iyilik etmekteyim, seni de David'in eline teslim etmedim; ama sen yine de bugün beni bu kadından ötürü suçluyorsun!"
+      },
+      {
+        "osis": "2Sam.3.9",
+        "chapter": 3,
+        "verse": 9,
+        "text": "Krallığı Saul'un evinden alıp Dan'dan Beer Şeva'ya kadar, İsrael üzerine ve Yahuda üzerine David'in tahtını kurmak üzere,"
+      },
+      {
+        "osis": "2Sam.3.10",
+        "chapter": 3,
+        "verse": 10,
+        "text": "Yahve'nin David'e ant içmiş olduğu gibi ona yapmazsam, Tanrı Avner'e böyle, daha da fazlasını yapsın.”"
+      },
+      {
+        "osis": "2Sam.3.11",
+        "chapter": 3,
+        "verse": 11,
+        "text": "Ondan korktuğu için Avner'e başka bir söz etmedi."
+      },
+      {
+        "osis": "2Sam.3.12",
+        "chapter": 3,
+        "verse": 12,
+        "text": "Avner David'e kendi adına ulaklar gönderip, “Ülke kimin?” diye sordu, ve dedi: “Benimle ittifak yapın ve işte, bütün İsrael'i sana döndürmek için elim seninle birlikte olacak.”"
+      },
+      {
+        "osis": "2Sam.3.13",
+        "chapter": 3,
+        "verse": 13,
+        "text": "David şöyle dedi: “İyi. Seninle bir antlaşma yapacağım ama senden bir şey istiyorum. O da şudur, yüzümü görmeye geldiğinde önce Saul'un kızı Mikal'i getirmezsen yüzümü görmeyeceksin.”"
+      },
+      {
+        "osis": "2Sam.3.14",
+        "chapter": 3,
+        "verse": 14,
+        "text": "David Saul'un oğlu İşboşet'e haberciler göndererek, “Filistlilerin yüz sünnet derisi karşılığında bana evlenmek üzere verilen karım Mikal'i bana ver” dedi."
+      },
+      {
+        "osis": "2Sam.3.15",
+        "chapter": 3,
+        "verse": 15,
+        "text": "İşboşet gönderip onu kocası Laiş oğlu Paltiel'den aldı."
+      },
+      {
+        "osis": "2Sam.3.16",
+        "chapter": 3,
+        "verse": 16,
+        "text": "Kocası ağlayarak onunla birlikte gitti, Bahurim'e kadar onu takip etti. Bunun üzerine Avner ona, “Git! Geri dön!” dedi, adam da geri döndü."
+      },
+      {
+        "osis": "2Sam.3.17",
+        "chapter": 3,
+        "verse": 17,
+        "text": "Avner İsrael ihtiyarlarıyla konuşup dedi: “Geçmişte David'in üzerinize kral olmasını istiyordunuz."
+      },
+      {
+        "osis": "2Sam.3.18",
+        "chapter": 3,
+        "verse": 18,
+        "text": "O zaman şimdi yapın! Çünkü Yahve David hakkında söyleyip dedi: 'Hizmetkârım David'in eliyle halkım İsrael'i Filistliler'in elinden ve bütün düşmanlarının elinden kurtaracağım.'”"
+      },
+      {
+        "osis": "2Sam.3.19",
+        "chapter": 3,
+        "verse": 19,
+        "text": "Avner Benyamin'in kulaklarına da söyledi; Avner İsrael'e iyi gelen ve bütün Benyamin evine iyi gelen her şeyi Hevron'da David'in kulağına söylemek için de gitti."
+      },
+      {
+        "osis": "2Sam.3.20",
+        "chapter": 3,
+        "verse": 20,
+        "text": "Bunun üzerine Avner, yanında yirmi adamla birlikte Hevron'a, David'in yanına geldi. David, Avner'e ve yanındaki adamlara bir ziyafet verdi."
+      },
+      {
+        "osis": "2Sam.3.21",
+        "chapter": 3,
+        "verse": 21,
+        "text": "Avner David'e, “Ben kalkıp gideceğim,” dedi, “Seninle bir antlaşma yapmaları ve canının dilediği her şey üzerinde hüküm sürmen için bütün İsrael'i efendim krala toplayacağım.” David Avner'i gönderdi; o da esenlik içinde gitti."
+      },
+      {
+        "osis": "2Sam.3.22",
+        "chapter": 3,
+        "verse": 22,
+        "text": "İşte, David'in hizmetkârları ve Yoav baskından geldiler ve yanlarında büyük bir ganimet getirdiler; ama Avner Hevron'da David'le birlikte değildi; çünkü onu göndermiş ve esenlik içinde gitmişti."
+      },
+      {
+        "osis": "2Sam.3.23",
+        "chapter": 3,
+        "verse": 23,
+        "text": "Yoav'la yanındaki bütün ordu geldiğinde Yoav'a, “Ner oğlu Avner kralın yanına geldi, onu gönderdi, o da esenlik içinde gitti” dediler."
+      },
+      {
+        "osis": "2Sam.3.24",
+        "chapter": 3,
+        "verse": 24,
+        "text": "Bunun üzerine Yoav kralın yanına gelip şöyle dedi: “Ne yaptın? İşte Avner yanına geldi. Onu neden gönderdin, o da çoktan gitti?"
+      },
+      {
+        "osis": "2Sam.3.25",
+        "chapter": 3,
+        "verse": 25,
+        "text": "Ner oğlu Avner'i tanıyorsun. O, seni kandırmak, çıkışını ve girişini fark etmek ve yaptığın her şeyi bilmek için geldi.”"
+      },
+      {
+        "osis": "2Sam.3.26",
+        "chapter": 3,
+        "verse": 26,
+        "text": "Yoav David'in yanından çıkınca Avner'in ardından haberciler gönderdi. Onlar da onu Sirah Kuyusu'ndan geri getirdiler. Ama David bunu bilmiyordu."
+      },
+      {
+        "osis": "2Sam.3.27",
+        "chapter": 3,
+        "verse": 27,
+        "text": "Avner Hevron'a dönünce, Yoav sessizce onunla konuşmak için onu kapının ortasına çekti, kardeşi Asahel'in kanı için onu orada bedeninden vurdu, o da öldü."
+      },
+      {
+        "osis": "2Sam.3.28",
+        "chapter": 3,
+        "verse": 28,
+        "text": "Daha sonra David bunu duyunca şöyle dedi: “Ner oğlu Avner'in kanından dolayı ben ve krallığım Yahve'nin önünde sonsuza dek suçsuzuz."
+      },
+      {
+        "osis": "2Sam.3.29",
+        "chapter": 3,
+        "verse": 29,
+        "text": "Bu, Yoav'ın ve babasının bütün evinin başı üzerine düşsün. Yoav'ın evinden akıntılı, cüzamlı, değneğe yaslanan, kılıçtan düşen ya da ekmeğe muhtaç olan eksik olmasın.”"
+      },
+      {
+        "osis": "2Sam.3.30",
+        "chapter": 3,
+        "verse": 30,
+        "text": "Böylece Yoav ile kardeşi Avişay, Avner'i öldürdüler; çünkü o, kardeşleri Asahel'i Givon'daki savaşta öldürmüştü."
+      },
+      {
+        "osis": "2Sam.3.31",
+        "chapter": 3,
+        "verse": 31,
+        "text": "David, Yoav'a ve yanında bulunan bütün halka, “Giysilerinizi yırtın, çul giyinin ve Avner'in önünde yas tutun” dedi. Kral David cenazenin ardında yürüdü."
+      },
+      {
+        "osis": "2Sam.3.32",
+        "chapter": 3,
+        "verse": 32,
+        "text": "Avner'i Hevron'da gömdüler; ve kral sesini yükseltip Avner'in mezarı başında ağladı; bütün halk da ağladı."
+      },
+      {
+        "osis": "2Sam.3.33",
+        "chapter": 3,
+        "verse": 33,
+        "text": "Kral, Avner için yas tutarak şöyle dedi: “Avner bir akılsız gibi ölmeli miydi?"
+      },
+      {
+        "osis": "2Sam.3.34",
+        "chapter": 3,
+        "verse": 34,
+        "text": "Senin ellerin bağlı değildi, ayakların zincire vurulmamıştı. Kötülük çocukları önünde düşen biri gibi, sen de öyle düştün.” Bütün halk onun için yeniden ağladı."
+      },
+      {
+        "osis": "2Sam.3.35",
+        "chapter": 3,
+        "verse": 35,
+        "text": "Halkın tümü, henüz gündüzken David'e ekmek yeme konusunda ısrar etmeye geldi; ama David ant içip dedi: “Güneş batana dek ekmek ya da başka bir şey tadarsam, Tanrı bana aynısını, daha da fazlasını yapsın.”"
+      },
+      {
+        "osis": "2Sam.3.36",
+        "chapter": 3,
+        "verse": 36,
+        "text": "Bütün halk bunu önemsedi, kralın yaptığı her şey bütün halkı memnun ettiği gibi, bu da onları memnun etti."
+      },
+      {
+        "osis": "2Sam.3.37",
+        "chapter": 3,
+        "verse": 37,
+        "text": "Böylece bütün halk ve İsrael'in tümü o gün Ner oğlu Avner'in öldürülmesinin kraldan olmadığını anladı."
+      },
+      {
+        "osis": "2Sam.3.38",
+        "chapter": 3,
+        "verse": 38,
+        "text": "Kral hizmetkârlarına şöyle dedi: “Bugün İsrael'de bir beyin ve büyük bir adamın düştüğünü bilmiyor musunuz?"
+      },
+      {
+        "osis": "2Sam.3.39",
+        "chapter": 3,
+        "verse": 39,
+        "text": "Ben meshedilmiş bir kral olmama rağmen bugün zayıfım. Seruya'nın oğulları olan bu adamlar benim için çok aşırıdırlar. Yahve kötülük yapana, yaptığı kötülüğe göre karşılığını versin.”"
+      }
+    ],
+    "4": [
+      {
+        "osis": "2Sam.4.1",
+        "chapter": 4,
+        "verse": 1,
+        "text": "Saul'un oğlu, Avner'in Hevron'da öldüğünü duyunca elleri güçsüzleşti ve bütün İsraelliler tedirgin oldu."
+      },
+      {
+        "osis": "2Sam.4.2",
+        "chapter": 4,
+        "verse": 2,
+        "text": "Saul'un oğlunun akıncı birliklerinin komutanları olan iki adamı vardı. Benyamin oğullarından Beerotlu Rimmon'un oğulları olup birinin adı Baana ve ötekinin adı Rekav'dı (çünkü Beerot da Benyamin'in parçası sayılır;"
+      },
+      {
+        "osis": "2Sam.4.3",
+        "chapter": 4,
+        "verse": 3,
+        "text": "ve Beerotlular Gittaim'e kaçtılar ve orada yabancı olarak bugüne dek yaşadılar)."
+      },
+      {
+        "osis": "2Sam.4.4",
+        "chapter": 4,
+        "verse": 4,
+        "text": "Saul'un oğlu Yonatan'ın ayakları topal olan bir oğlu vardı. Yizreel'den Saul ve Yonatan'ın haberi geldiğinde o beş yaşındaydı; bakıcısı da onu alıp kaçtı. Aceleyle kaçarken çocuk düştü ve topal oldu. Adı Mefiboşet'ti."
+      },
+      {
+        "osis": "2Sam.4.5",
+        "chapter": 4,
+        "verse": 5,
+        "text": "Beerotlu Rimmon'un oğulları Rekav ve Baana, öğle vakti İşboşet dinlenirken, günün en sıcak saatlerinde dışarı çıkıp onun evine geldiler."
+      },
+      {
+        "osis": "2Sam.4.6",
+        "chapter": 4,
+        "verse": 6,
+        "text": "Buğday getirecekmiş gibi evin ortasına girdiler ve O'nun bedeninden vurdular; ve Rekav ile kardeşi Baana kaçtılar."
+      },
+      {
+        "osis": "2Sam.4.7",
+        "chapter": 4,
+        "verse": 7,
+        "text": "Onlar eve girdiklerinde o, yatak odasında yatağının üzerinde yatıyordu, onu vurup öldürdüler, başını kestiler, başını aldılar ve bütün gece Arava yolundan gittiler."
+      },
+      {
+        "osis": "2Sam.4.8",
+        "chapter": 4,
+        "verse": 8,
+        "text": "İşboşet'in başını Hevron'daki David'e getirdiler ve krala şöyle dediler: “İşte, canını arayan düşmanın Saul oğlu İşboşet'in başı! Yahve bugün Saul'dan ve onun soyundan efendim kralın öcünü aldı.”"
+      },
+      {
+        "osis": "2Sam.4.9",
+        "chapter": 4,
+        "verse": 9,
+        "text": "David Beerotlu Rimmon'un oğulları Rekav ve kardeşi Baana'ya yanıt verip onlara şöyle dedi: “Canımı her sıkıntıdan kurtaran hay olan Yahve'nin hakkı için,"
+      },
+      {
+        "osis": "2Sam.4.10",
+        "chapter": 4,
+        "verse": 10,
+        "text": "birisi bana, müjde getirdiğini düşünerek, 'İşte, Saul öldü' dediğinde onu yakaladım ve onu Ziklag'da öldürdüm. Haberi için ona verdiğim ödül buydu."
+      },
+      {
+        "osis": "2Sam.4.11",
+        "chapter": 4,
+        "verse": 11,
+        "text": "Kötü kişiler doğru bir kişiyi kendi evinde, yatağı üzerinde öldürdüklerinde, şimdi onun kanını sizin elinizden fazlasıyla arayıp sizi yeryüzünden kaldırmaz mıyım?”"
+      },
+      {
+        "osis": "2Sam.4.12",
+        "chapter": 4,
+        "verse": 12,
+        "text": "David genç adamlarına buyruk verdi; onlar da onları öldürdüler, ellerini ve ayaklarını kestiler ve Hevron'daki havuzun yanına astılar. Ama İşboşet'in başını alıp Hevron'da Avner'in mezarına gömdüler."
+      }
+    ],
+    "5": [
+      {
+        "osis": "2Sam.5.1",
+        "chapter": 5,
+        "verse": 1,
+        "text": "Bunun üzerine İsrael'in bütün oymakları Hevron'a, David'in yanına gelip şöyle dediler: “İşte, biz senin kemiğin ve etiniz."
+      },
+      {
+        "osis": "2Sam.5.2",
+        "chapter": 5,
+        "verse": 2,
+        "text": "Geçmişte, Saul üzerimizde kral iken, İsrael'i dışarı çıkaran içeri getiren sendin. Yahve sana, 'Halkım İsrael'in çobanı olacaksın, İsrael üzerine sen hükümdar olacaksın' dedi.”"
+      },
+      {
+        "osis": "2Sam.5.3",
+        "chapter": 5,
+        "verse": 3,
+        "text": "Bunun üzerine İsrael'in bütün ihtiyarları Hevron'a, kralın yanına geldiler; Kral David onlarla Hevron'da Yahve'nin önünde bir antlaşma yaptı; ve David'i İsrael üzerine kral olarak meshettiler."
+      },
+      {
+        "osis": "2Sam.5.4",
+        "chapter": 5,
+        "verse": 4,
+        "text": "David hükmetmeye başladığında otuz yaşındaydı ve kırk yıl hüküm sürdü."
+      },
+      {
+        "osis": "2Sam.5.5",
+        "chapter": 5,
+        "verse": 5,
+        "text": "Hevron'da yedi yıl altı ay Yahuda'ya hükmetti, Yeruşalem'de de otuz üç yıl bütün İsrael'e ve Yahuda'ya hükmetti."
+      },
+      {
+        "osis": "2Sam.5.6",
+        "chapter": 5,
+        "verse": 6,
+        "text": "Kral ve adamları, ülkede yaşayan Yevuslular'a karşı Yeruşalem'e gittiler. Onlar David'le konuşup şöyle dediler: “Körler ve topallar seni buradan uzak tutacak.” “David buraya giremez” diye düşünüyorlardı."
+      },
+      {
+        "osis": "2Sam.5.7",
+        "chapter": 5,
+        "verse": 7,
+        "text": "Bununla birlikte David Siyon'un kalesini ele geçirdi. Burası David'in kentidir."
+      },
+      {
+        "osis": "2Sam.5.8",
+        "chapter": 5,
+        "verse": 8,
+        "text": "O gün David şöyle dedi: “Kim Yevuslular'ı vurursa, su yoluna çıksın ve David'in canının nefret ettiği topal ve körleri vursun.” Bu yüzden onlar, “Kör ve topal eve giremez” diyorlar."
+      },
+      {
+        "osis": "2Sam.5.9",
+        "chapter": 5,
+        "verse": 9,
+        "text": "David kalede yaşadı ve buraya David Kenti denildi. David, Millo'dan çepeçevre içeriye doğru bina etti."
+      },
+      {
+        "osis": "2Sam.5.10",
+        "chapter": 5,
+        "verse": 10,
+        "text": "David giderek büyüdü; çünkü Ordular Tanrısı Yahve onunla birlikteydi."
+      },
+      {
+        "osis": "2Sam.5.11",
+        "chapter": 5,
+        "verse": 11,
+        "text": "Sur Kralı Hiram, David'e sedir ağaçları, marangozlar ve duvar ustalarıyla birlikte ulaklar gönderdi; ve David'e bir ev yaptılar."
+      },
+      {
+        "osis": "2Sam.5.12",
+        "chapter": 5,
+        "verse": 12,
+        "text": "David, Yahve'nin kendisini İsrael üzerine kral yaptığını ve halkı İsrael uğruna krallığını yükselttiğini anladı."
+      },
+      {
+        "osis": "2Sam.5.13",
+        "chapter": 5,
+        "verse": 13,
+        "text": "David Hevron'dan geldikten sonra Yeruşalem'den kendine başka cariyeler ve eşler aldı; ve David'e daha çok oğullar ve kızlar doğdu."
+      },
+      {
+        "osis": "2Sam.5.14",
+        "chapter": 5,
+        "verse": 14,
+        "text": "Ona Yeruşalem'de doğanların adları şunlardır: Şammua, Şovav, Natan, Solomon,"
+      },
+      {
+        "osis": "2Sam.5.15",
+        "chapter": 5,
+        "verse": 15,
+        "text": "İvhar, Elişua, Nefek, Yafia,"
+      },
+      {
+        "osis": "2Sam.5.16",
+        "chapter": 5,
+        "verse": 16,
+        "text": "Elişama, Elyada ve Elifelet."
+      },
+      {
+        "osis": "2Sam.5.17",
+        "chapter": 5,
+        "verse": 17,
+        "text": "Filistliler, David'i İsrael Kralı olarak meshettiklerini duyunca, bütün Filistliler David'i aramaya çıktılar, ama David bunu duyup kaleye indi."
+      },
+      {
+        "osis": "2Sam.5.18",
+        "chapter": 5,
+        "verse": 18,
+        "text": "Filistliler gelip Refaim Vadisi'ne yayılmışlardı."
+      },
+      {
+        "osis": "2Sam.5.19",
+        "chapter": 5,
+        "verse": 19,
+        "text": "David Yahve'ye sorup şöyle dedi: “Filistliler'e karşı çıkayım mı? Onları elime teslim edecek misin?” Yahve David'e şöyle dedi: “Çık; çünkü Filistliler'i kesinlikle eline teslim edeceğim.”"
+      },
+      {
+        "osis": "2Sam.5.20",
+        "chapter": 5,
+        "verse": 20,
+        "text": "David Baal Perazim'e geldi ve orada onları vurdu. Sonra şöyle dedi: “Suların yarığı gibi Yahve düşmanlarımı önümde kırdı.” Bu nedenle o yerin adını Baal Perazim koydu."
+      },
+      {
+        "osis": "2Sam.5.21",
+        "chapter": 5,
+        "verse": 21,
+        "text": "Onlar suretlerini orada bıraktılar, David'le adamları onları alıp götürdüler."
+      },
+      {
+        "osis": "2Sam.5.22",
+        "chapter": 5,
+        "verse": 22,
+        "text": "Filistliler yeniden bir daha çıkıp Refaim Vadisi'ne yayıldılar."
+      },
+      {
+        "osis": "2Sam.5.23",
+        "chapter": 5,
+        "verse": 23,
+        "text": "David Yahve'ye sorunca şöyle dedi: “Çıkmayacaksın. Arkalarından dolanın ve dut ağaçlarının önünde onlara saldırın."
+      },
+      {
+        "osis": "2Sam.5.24",
+        "chapter": 5,
+        "verse": 24,
+        "text": "Dut ağaçlarının tepelerinde yürüyüş sesini duyduğunuzda, o zaman harekete geçin; çünkü o zaman Yahve Filist ordusunu vurmak için senin önünde çıkmıştır.”"
+      },
+      {
+        "osis": "2Sam.5.25",
+        "chapter": 5,
+        "verse": 25,
+        "text": "David, Yahve'nin kendisine buyurduğu gibi yaptı ve Geva'dan Gezer'e kadar Filistliler'i vurdu."
+      }
+    ],
+    "6": [
+      {
+        "osis": "2Sam.6.1",
+        "chapter": 6,
+        "verse": 1,
+        "text": "David İsrael'in otuz bin seçme adamını yeniden bir araya topladı."
+      },
+      {
+        "osis": "2Sam.6.2",
+        "chapter": 6,
+        "verse": 2,
+        "text": "David kalkıp kendisiyle birlikte Baale Yahuda'dan gelen bütün halkla birlikte, Keruvlar'ın üzerinde oturan Ordular Yahvesi'nin Adı ile çağırılan Tanrı'nın Sandığı'nı oradan çıkarmaya gitti."
+      },
+      {
+        "osis": "2Sam.6.3",
+        "chapter": 6,
+        "verse": 3,
+        "text": "Tanrı'nın Sandığı'nı yeni bir arabaya koydular ve onu Avinadav'ın tepedeki evinden çıkardılar; Avinadav'ın oğulları Uzza ve Ahyo da yeni arabayı sürüyorlardı."
+      },
+      {
+        "osis": "2Sam.6.4",
+        "chapter": 6,
+        "verse": 4,
+        "text": "Onu Tanrı'nın Sandığı'yla birlikte Avinadav'ın tepedeki evinden çıkardılar; Ahyo da sandığın önünden gidiyordu."
+      },
+      {
+        "osis": "2Sam.6.5",
+        "chapter": 6,
+        "verse": 5,
+        "text": "David ve bütün İsrael evi, selvi ağacından yapılmış her türlü çalgıyla, arplarla, telli çalgılarla, teflerle, çıngıraklarla ve zillerle Yahve'nin önünde oynuyordu."
+      },
+      {
+        "osis": "2Sam.6.6",
+        "chapter": 6,
+        "verse": 6,
+        "text": "Nakon'un harman yerine vardıklarında Uzza Tanrı'nın Sandığı'na uzanıp onu tuttu; çünkü sığırlar tökezlemişti."
+      },
+      {
+        "osis": "2Sam.6.7",
+        "chapter": 6,
+        "verse": 7,
+        "text": "Yahve'nin öfkesi Uzza'ya karşı alevlendi ve Tanrı, suçu nedeniyle onu orada vurdu; ve orada Tanrı'nın Sandığı'nın yanında öldü."
+      },
+      {
+        "osis": "2Sam.6.8",
+        "chapter": 6,
+        "verse": 8,
+        "text": "Yahve Uzza'ya karşı patladığı için David hoşnutsuzdu; ve bugüne dek o yere Peres Uzza denilir."
+      },
+      {
+        "osis": "2Sam.6.9",
+        "chapter": 6,
+        "verse": 9,
+        "text": "David o gün Yahve'den korkup dedi, “Yahve'nin Sandığı nasıl yanıma gelebilir?”"
+      },
+      {
+        "osis": "2Sam.6.10",
+        "chapter": 6,
+        "verse": 10,
+        "text": "Bunun üzerine David, Yahve'nin Sandığı'nı kendisiyle birlikte David'in Kenti'ne taşımadı; ama David onu Gatlı Oved-Edom'un evine ayrı taşıdı."
+      },
+      {
+        "osis": "2Sam.6.11",
+        "chapter": 6,
+        "verse": 11,
+        "text": "Yahve'nin Sandığı Gatlı Ovet-Edom'un evinde üç ay kaldı; ve Yahve Ovet-Edom'u ve bütün evini kutsadı."
+      },
+      {
+        "osis": "2Sam.6.12",
+        "chapter": 6,
+        "verse": 12,
+        "text": "Kral David'e, “Tanrı'nın Sandığı nedeniyle Yahve, Ovet-Edom'un evini ve ona ait olan her şeyi kutsadı” denildi. Böylece David gitti ve Tanrı'nın Sandığı'nı Ovet-Edom'un evinden David'in kentine sevinçle çıkardı."
+      },
+      {
+        "osis": "2Sam.6.13",
+        "chapter": 6,
+        "verse": 13,
+        "text": "Yahve'nin Sandığı'nı taşıyanlar altı adım gittikten sonra bir öküzle besili bir dana kurban etti."
+      },
+      {
+        "osis": "2Sam.6.14",
+        "chapter": 6,
+        "verse": 14,
+        "text": "David Yahve'nin önünde var gücüyle dans etti; ve David keten bir efod giymişti."
+      },
+      {
+        "osis": "2Sam.6.15",
+        "chapter": 6,
+        "verse": 15,
+        "text": "Bunun üzerine David ve bütün İsrael evi, bağırışlarla ve boru sesiyle Yahve'nin Sandığı'nı çıkarıyorlardı."
+      },
+      {
+        "osis": "2Sam.6.16",
+        "chapter": 6,
+        "verse": 16,
+        "text": "Yahve'nin Sandığı David kentine girdiğinde, Saul'un kızı Mikal pencereden dışarı baktı ve Kral David'in Yahve'nin önünde sıçrayıp dans ettiğini gördü; ve onu yüreğinde küçümsedi."
+      },
+      {
+        "osis": "2Sam.6.17",
+        "chapter": 6,
+        "verse": 17,
+        "text": "Yahve'nin Sandığı'nı içeri getirip onun için David'in kurmuş olduğu çadırın ortasındaki yerine koydular. David Yahve'nin önünde yakmalık sunular ve esenlik sunuları sundu."
+      },
+      {
+        "osis": "2Sam.6.18",
+        "chapter": 6,
+        "verse": 18,
+        "text": "David yakmalık sunuları ve esenlik sunularını sunmayı bitirince, Ordular Yahvesi'nin adıyla halkı kutsadı."
+      },
+      {
+        "osis": "2Sam.6.19",
+        "chapter": 6,
+        "verse": 19,
+        "text": "Bütün halka, bütün İsrael topluluğuna, kadın erkek herkese birer parça ekmek, hurma ve kuru üzüm verdi. Böylece bütün halk, her biri kendi evine gitti."
+      },
+      {
+        "osis": "2Sam.6.20",
+        "chapter": 6,
+        "verse": 20,
+        "text": "Sonra David ev halkını kutsamak için geri döndü. Saul'un kızı Mikal, David'i karşılamak için dışarı çıktı ve şöyle dedi: “Bugün, hizmetkârlarının cariyeleri önünde yalnızca boş adamlardan birinin utanmadan soyunması gibi soyunan İsrael Kralı, bugün ne kadar görkemliydi!”"
+      },
+      {
+        "osis": "2Sam.6.21",
+        "chapter": 6,
+        "verse": 21,
+        "text": "David Mikal'a şöyle dedi: “İsrael üzerine beni hükümdar atamak için babanın ve onun bütün evinin yerine beni seçmiş olan Yahve'nin önünde yaptım. Bu nedenle Yahve'nin önünde bayram edeceğim."
+      },
+      {
+        "osis": "2Sam.6.22",
+        "chapter": 6,
+        "verse": 22,
+        "text": "Bundan daha da onursuz olacağım ve kendi gözümde değersiz olacağım. Ama sözünü ettiğin cariyeler beni onurlandıracaklardır.”"
+      },
+      {
+        "osis": "2Sam.6.23",
+        "chapter": 6,
+        "verse": 23,
+        "text": "Saul'un kızı Mikal'ın öldüğü güne dek çocuğu olmadı."
+      }
+    ],
+    "7": [
+      {
+        "osis": "2Sam.7.1",
+        "chapter": 7,
+        "verse": 1,
+        "text": "Kral evinde yaşadığında ve Yahve onu çevresindeki bütün düşmanlarından rahat verdiğinde,"
+      },
+      {
+        "osis": "2Sam.7.2",
+        "chapter": 7,
+        "verse": 2,
+        "text": "Kral Peygamber Natan'a şöyle dedi: “İşte, ben sedirden bir evde oturuyorum, ama Tanrı'nın Sandığı perdelerin içinde duruyor.”"
+      },
+      {
+        "osis": "2Sam.7.3",
+        "chapter": 7,
+        "verse": 3,
+        "text": "Natan krala, “Git, yüreğinde olan her şeyi yap, çünkü Yahve seninledir” dedi."
+      },
+      {
+        "osis": "2Sam.7.4",
+        "chapter": 7,
+        "verse": 4,
+        "text": "Aynı gece Yahve'nin sözü Natan'a geldi ve şöyle dedi,"
+      },
+      {
+        "osis": "2Sam.7.5",
+        "chapter": 7,
+        "verse": 5,
+        "text": "“Git, hizmetkârım David'e söyle: 'Yahve diyor ki, “Oturmam için sen mi bana konut yapacaksın?"
+      },
+      {
+        "osis": "2Sam.7.6",
+        "chapter": 7,
+        "verse": 6,
+        "text": "Çünkü İsrael'in çocuklarını Mısır'dan çıkardığım günden bugüne dek bir konutta yaşamadım; ama bir çadırda, bir tapınakta etrafta dolaştım."
+      },
+      {
+        "osis": "2Sam.7.7",
+        "chapter": 7,
+        "verse": 7,
+        "text": "Bütün İsrael'in çocuklarıyla birlikte yürüdüğüm yerlerin tümünde, halkım İsrael'in çobanı olmasını buyurduğum İsrael oymaklarından birine, 'Neden bana sedirden konut yapmadınız?' diye bir söz söyledim mi?”'"
+      },
+      {
+        "osis": "2Sam.7.8",
+        "chapter": 7,
+        "verse": 8,
+        "text": "Şimdi hizmetkârım David'e şunu söyle: 'Ordular Yahvesi diyor ki, “Halkımın üzerine ve İsrael'in üzerine hükümdar olmak için seni ağıllardan, koyunların peşinden aldım."
+      },
+      {
+        "osis": "2Sam.7.9",
+        "chapter": 7,
+        "verse": 9,
+        "text": "Gittiğin her yerde seninle birlikteydim ve düşmanlarının tümünü senin önünden kesip attım. Sana yeryüzündeki büyüklerin adı gibi büyük bir ad yapacağım."
+      },
+      {
+        "osis": "2Sam.7.10",
+        "chapter": 7,
+        "verse": 10,
+        "text": "Halkım İsrael'e bir yer belirleyip onları dikeceğim ki, kendi yerlerinde otursunlar ve artık kıpırdamasınlar. Kötülüğün çocukları, ilk başta olduğu gibi,"
+      },
+      {
+        "osis": "2Sam.7.11",
+        "chapter": 7,
+        "verse": 11,
+        "text": "ve halkım İsrael'in üzerinde hâkimlere buyurduğum günden beri olduğu gibi artık onları sarsmayacaklar. Seni bütün düşmanlarından rahat ettireceğim. Yahve sana Yahve'nin sana bir ev yapacağını da bildiriyor."
+      },
+      {
+        "osis": "2Sam.7.12",
+        "chapter": 7,
+        "verse": 12,
+        "text": "Günlerin dolduğunda ve atalarınla uyuduğunda, senden sonra senin bedeninden çıkacak soyunu yerleştireceğim ve onun krallığını pekiştireceğim."
+      },
+      {
+        "osis": "2Sam.7.13",
+        "chapter": 7,
+        "verse": 13,
+        "text": "O benim adıma bir konut yapacak, ben de onun krallığının tahtını sonsuza dek sürdüreceğim."
+      },
+      {
+        "osis": "2Sam.7.14",
+        "chapter": 7,
+        "verse": 14,
+        "text": "Ben onun babası olacağım, o da benim oğlum olacak. Eğer kötülük işlerse, onu insan değneğiyle ve insan çocuklarının vuruşlarıyla yola getireceğim;"
+      },
+      {
+        "osis": "2Sam.7.15",
+        "chapter": 7,
+        "verse": 15,
+        "text": "ama senin önünden kaldırmış olduğum Saul'dan geri aldığım gibi, sevgi dolu iyiliğim ondan ayrılmayacaktır."
+      },
+      {
+        "osis": "2Sam.7.16",
+        "chapter": 7,
+        "verse": 16,
+        "text": "Evin ve krallığın sonsuza dek senin önünde güvence altına alınacak. Tahtın sonsuza dek ayakta kalacak.”'”"
+      },
+      {
+        "osis": "2Sam.7.17",
+        "chapter": 7,
+        "verse": 17,
+        "text": "Natan David'e bütün bu sözleri bu görümün tamamına göre söyledi."
+      },
+      {
+        "osis": "2Sam.7.18",
+        "chapter": 7,
+        "verse": 18,
+        "text": "Bunun üzerine Kral David içeri girdi ve Yahve'nin önünde oturup şöyle dedi: “Ey Efendim Yahve, ben kimim ve benim evim nedir ki, beni buralara kadar getirdin?”"
+      },
+      {
+        "osis": "2Sam.7.19",
+        "chapter": 7,
+        "verse": 19,
+        "text": "Ey Efendim Yahve, bu senin gözünde henüz küçük bir şeydi, ama uzun bir süre için hizmetkârının evi hakkında da söyledin; bu da insanların arasında, ey Efendim Yahve!"
+      },
+      {
+        "osis": "2Sam.7.20",
+        "chapter": 7,
+        "verse": 20,
+        "text": "David sana daha ne söyleyebilir? Çünkü hizmetkârını sen bilirsin, ey Efendim Yahve."
+      },
+      {
+        "osis": "2Sam.7.21",
+        "chapter": 7,
+        "verse": 21,
+        "text": "Sözün uğruna ve kendi yüreğine göre, bütün bu büyüklüğü hizmetkârına bildirmek için yaptın."
+      },
+      {
+        "osis": "2Sam.7.22",
+        "chapter": 7,
+        "verse": 22,
+        "text": "Bu yüzden sen büyüksün, ey Yahve Tanrı. Çünkü kulaklarımızla duyduğumuzun tümüne göre, senin gibisi yoktur, senden başka Tanrı da yoktur."
+      },
+      {
+        "osis": "2Sam.7.23",
+        "chapter": 7,
+        "verse": 23,
+        "text": "Yeryüzünde senin halkın gibi, İsrael gibi hangi ulus var ki, Tanrı onu bir halk olarak kendisine kurtarmak, kendisine bir isim yapmak, sizin için büyük şeyler yapmak ve Mısır'dan, uluslardan ve onların ilâhlarının elinden kurtardığı halkının önünde ülkesi için korkunç şeyler yapmış olsun?"
+      },
+      {
+        "osis": "2Sam.7.24",
+        "chapter": 7,
+        "verse": 24,
+        "text": "Halkın İsrael'i sonsuza dek kendi halkın olarak kendin için belirledin; sen de, ey Yahve, onların Tanrısı oldun."
+      },
+      {
+        "osis": "2Sam.7.25",
+        "chapter": 7,
+        "verse": 25,
+        "text": "Şimdi, ey Yahve Tanrı, hizmetkârın hakkında ve evi hakkında söylediğin sözü sonsuza kadar doğrula ve söylediğin gibi yap."
+      },
+      {
+        "osis": "2Sam.7.26",
+        "chapter": 7,
+        "verse": 26,
+        "text": "'Ordular Yahvesi İsrael üzerinde Tanrı'dır' diye adın sonsuza dek büyütülsün; 've hizmetkârın David'in evi senin önünde sürsün.'"
+      },
+      {
+        "osis": "2Sam.7.27",
+        "chapter": 7,
+        "verse": 27,
+        "text": "Çünkü sen, İsrael'in Tanrısı, Ordular Yahvesi, hizmetkârına, 'Sana bir ev yapacağım' diye açıkladın. Bu yüzden hizmetkârın sana bu duayı etmek için yüreklilik buldu.”"
+      },
+      {
+        "osis": "2Sam.7.28",
+        "chapter": 7,
+        "verse": 28,
+        "text": "“Şimdi, ey Efendim Yahve, sen Tanrı'sın, sözlerin doğru ve hizmetkârına bu iyi şeyi söz verdin."
+      },
+      {
+        "osis": "2Sam.7.29",
+        "chapter": 7,
+        "verse": 29,
+        "text": "Şimdi, daima senin önünde sürmesi için hizmetkârının evini kutsamak seni hoşnut etsin; çünkü bunu sen söyledin, ey Efendim Yahve. Hizmetkârının evi senin kutsamanla daima kutsansın.”"
+      }
+    ],
+    "8": [
+      {
+        "osis": "2Sam.8.1",
+        "chapter": 8,
+        "verse": 1,
+        "text": "Bundan sonra David Filistliler'i vurdu ve onlara boyun eğdirdi. David ana kentin dizginlerini Filistliler'in elinden aldı."
+      },
+      {
+        "osis": "2Sam.8.2",
+        "chapter": 8,
+        "verse": 2,
+        "text": "Moav’ı yendi, onları yere yatırdı ve ölçü ipiyle onları ölçtü. Öldürmek için iki çizgi, sağ bırakmak için de bir çizgi ölçtü. Moavlılar David’e hizmetçi oldular ve haraç getirdiler."
+      },
+      {
+        "osis": "2Sam.8.3",
+        "chapter": 8,
+        "verse": 3,
+        "text": "David, Irmak kıyısındaki egemenliğini geri almaya giden Rehov Kralı Hadadezer’i de vurdu."
+      },
+      {
+        "osis": "2Sam.8.4",
+        "chapter": 8,
+        "verse": 4,
+        "text": "David ondan bin yedi yüz atlı ve yirmi bin yaya asker aldı. David savaş arabalarının atlarını sakatladı, ama yüz savaş arabasına yetecek kadarını ayırdı."
+      },
+      {
+        "osis": "2Sam.8.5",
+        "chapter": 8,
+        "verse": 5,
+        "text": "Damaskus Suriyeliler'i, Sova Kralı Hadadezer’e yardım etmeye geldiklerinde, David Suriyeliler'den yirmi iki bin kişiyi vurdu."
+      },
+      {
+        "osis": "2Sam.8.6",
+        "chapter": 8,
+        "verse": 6,
+        "text": "David Damaskus Suriyesi'ne garnizonlar yerleştirdi. Suriyeliler David’e hizmetçi oldular ve haraç getirdiler. Yahve David'e gittiği her yerde zafer verdi."
+      },
+      {
+        "osis": "2Sam.8.7",
+        "chapter": 8,
+        "verse": 7,
+        "text": "David, Hadadezer'in hizmetkârlarının üzerindeki altın kalkanları alıp Yeruşalem'e getirdi."
+      },
+      {
+        "osis": "2Sam.8.8",
+        "chapter": 8,
+        "verse": 8,
+        "text": "Hadadezer'in kentleri olan Betah ve Berotay'dan Kral David büyük miktarda tunç aldı."
+      },
+      {
+        "osis": "2Sam.8.9",
+        "chapter": 8,
+        "verse": 9,
+        "text": "Hamat Kralı Toy, David'in Hadadezer'in bütün ordusunu vurduğunu duyunca,"
+      },
+      {
+        "osis": "2Sam.8.10",
+        "chapter": 8,
+        "verse": 10,
+        "text": "Toy, oğlu Yoram'ı Kral David'i selamlamak ve onu kutsamak için ona gönderdi; çünkü David Hadadezer'e karşı savaşmış ve onu vurmuştu; çünkü Hadadezer'in, Toy ile savaşları vardı. Yoram, kendisiyle birlikte gümüş kaplar, altın kaplar ve tunç kaplar getirdi."
+      },
+      {
+        "osis": "2Sam.8.11",
+        "chapter": 8,
+        "verse": 11,
+        "text": "Kral David de bunları, boyunduruğu altına aldığı bütün uluslardan,"
+      },
+      {
+        "osis": "2Sam.8.12",
+        "chapter": 8,
+        "verse": 12,
+        "text": "Suriye'den, Moav'dan, Ammon'un çocuklarından, Filistliler'den, Amalekliler'den ve Sova Kralı Rehov oğlu Hadadezer'den adadığı gümüş ve altınla birlikte Yahve'ye adadı."
+      },
+      {
+        "osis": "2Sam.8.13",
+        "chapter": 8,
+        "verse": 13,
+        "text": "David, Tuz Vadisi'nde Suriyeliler'i, on sekiz bin kişiyi yere çaldıktan sonra geri döndüğünde ün kazandı."
+      },
+      {
+        "osis": "2Sam.8.14",
+        "chapter": 8,
+        "verse": 14,
+        "text": "Edom'a garnizonlar yerleştirdi. Bütün Edom'a garnizonlar yerleştirdi ve bütün Edomlular David'in hizmetçileri oldular. Yahve, gittiği her yerde David'e zafer verdi."
+      },
+      {
+        "osis": "2Sam.8.15",
+        "chapter": 8,
+        "verse": 15,
+        "text": "David bütün İsrael'e hükmetti ve David halkının tümü için adalet ve doğruluk sağladı."
+      },
+      {
+        "osis": "2Sam.8.16",
+        "chapter": 8,
+        "verse": 16,
+        "text": "Seruya oğlu Yoav ordu komutanıydı, Ahilud oğlu Yehoşafat katipti,"
+      },
+      {
+        "osis": "2Sam.8.17",
+        "chapter": 8,
+        "verse": 17,
+        "text": "Ahituv oğlu Sadok ve Aviyatar oğlu Ahimelek kâhinlerdi, Seraya yazıcıydı,"
+      },
+      {
+        "osis": "2Sam.8.18",
+        "chapter": 8,
+        "verse": 18,
+        "text": "Yehoyada oğlu Benaya Keretiler ve Peletliler'in komutanıydı, David'in oğulları da baş yöneticilerdi."
+      }
+    ],
+    "9": [
+      {
+        "osis": "2Sam.9.1",
+        "chapter": 9,
+        "verse": 1,
+        "text": "David, “Saul’un evinden hâlâ kalan kimse var mı ki, Yonatan'ın hatırı için ona iyilik edeyim?” dedi."
+      },
+      {
+        "osis": "2Sam.9.2",
+        "chapter": 9,
+        "verse": 2,
+        "text": "Saul’un evinde Siva adında bir hizmetkârı vardı. Onu David’e çağırdılar. Kral ona, “Sen Siva mısın?” dedi. O da, “Ben senin hizmetkârınım” dedi."
+      },
+      {
+        "osis": "2Sam.9.3",
+        "chapter": 9,
+        "verse": 3,
+        "text": "Kral, “Saul’un evinden hâlâ kalan kimse var mı ki, ona Tanrı’nın iyiliğini göstereyim?” dedi. Siva, “Yonatan’ın ayaklarından topal olan bir oğlu daha var” dedi."
+      },
+      {
+        "osis": "2Sam.9.4",
+        "chapter": 9,
+        "verse": 4,
+        "text": "Kral, “Nerede?” dedi. Siva, “İşte, Lo Devar’da, Ammiel oğlu Makir’in evinde” dedi."
+      },
+      {
+        "osis": "2Sam.9.5",
+        "chapter": 9,
+        "verse": 5,
+        "text": "Kral David adam gönderip onu Lo Devar’dan, Ammiel oğlu Makir’in evinden getirdi."
+      },
+      {
+        "osis": "2Sam.9.6",
+        "chapter": 9,
+        "verse": 6,
+        "text": "Saul'un oğlu Yonatan'ın oğlu Mefiboşet David'in yanına geldi, yüzüstü yere kapandı ve saygı gösterdi. David, “Mefiboşet misin?” dedi. Mefiboşet, “İşte, hizmetkârın!” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.9.7",
+        "chapter": 9,
+        "verse": 7,
+        "text": "David ona, “Korkma, çünkü baban Yonatan'ın hatırı için sana kesinlikle iyilik edeceğim ve baban Saul'un bütün topraklarını sana geri vereceğim. Sürekli olarak soframda ekmek yiyeceksin.” dedi."
+      },
+      {
+        "osis": "2Sam.9.8",
+        "chapter": 9,
+        "verse": 8,
+        "text": "Eğildi ve, “Hizmetkârın kim ki, benim gibi ölü bir köpeğe bakasın?” dedi."
+      },
+      {
+        "osis": "2Sam.9.9",
+        "chapter": 9,
+        "verse": 9,
+        "text": "Sonra kral, Saul'un hizmetkârı Siva'yı çağırdı ve adama, “Saul'a ve bütün evine ait olan her şeyi efendinin oğluna verdim."
+      },
+      {
+        "osis": "2Sam.9.10",
+        "chapter": 9,
+        "verse": 10,
+        "text": "Sen, oğulların ve hizmetkârların onun için toprağı işleyin. Hasadı getirin ki, efendinin oğlunun yiyecek ekmeği olsun; ama efendinin oğlu Mefiboşet her zaman soframda ekmek yiyecek.” Siva'nın on beş oğlu ve yirmi hizmetkârı vardı."
+      },
+      {
+        "osis": "2Sam.9.11",
+        "chapter": 9,
+        "verse": 11,
+        "text": "Siva krala, “Efendim kral hizmetkârına ne buyurursa, hizmetkârın da öyle yapacaktır” dedi. Böylece Mefiboşet kralın oğullarından biri gibi kralın sofrasında yemek yedi."
+      },
+      {
+        "osis": "2Sam.9.12",
+        "chapter": 9,
+        "verse": 12,
+        "text": "Mefiboşet’in Mika adında küçük bir oğlu vardı. Siva’nın evinde yaşayanların hepsi Mefiboşet’in hizmetkârlarıydı."
+      },
+      {
+        "osis": "2Sam.9.13",
+        "chapter": 9,
+        "verse": 13,
+        "text": "Mefiboşet Yeruşalem’de yaşıyordu. Çünkü kralın sofrasında sürekli yemek yiyordu. Her iki ayağı da topaldı."
+      }
+    ],
+    "10": [
+      {
+        "osis": "2Sam.10.1",
+        "chapter": 10,
+        "verse": 1,
+        "text": "Bundan sonra Ammon'un çocuklarının kralı öldü ve onun yerine oğlu Hanun hüküm sürdü."
+      },
+      {
+        "osis": "2Sam.10.2",
+        "chapter": 10,
+        "verse": 2,
+        "text": "David, “Babası bana iyilik ettiği gibi ben de Nahaş oğlu Hanun’a iyilik edeceğim” dedi. Bunun üzerine David, babasına karşı onu teselli etmek için hizmetkârlarını gönderdi. David’in hizmetkârları Ammon'un çocuklarının ülkesine geldiler."
+      },
+      {
+        "osis": "2Sam.10.3",
+        "chapter": 10,
+        "verse": 3,
+        "text": "Ama Ammon'un çocuklarının beyleri efendileri Hanun’a, “David’in sana teselliciler göndererek babana saygı gösterdiğini mi sanıyorsun? David, kenti araştırmak, onu gözetlemek ve onu yıkmak için hizmetkârlarını sana göndermedi mi?” dediler."
+      },
+      {
+        "osis": "2Sam.10.4",
+        "chapter": 10,
+        "verse": 4,
+        "text": "Bunun üzerine Hanun, David’in hizmetkârlarını tutup sakallarının yarısını tıraş etti, giysilerinin ortasını, kalçalarına kadar kesti ve onları gönderdi."
+      },
+      {
+        "osis": "2Sam.10.5",
+        "chapter": 10,
+        "verse": 5,
+        "text": "Bunu David’e bildirdiklerinde, onları karşılamak için gönderdi, çünkü adamlar çok utanıyorlardı. Kral, “Sakalların uzayıncaya kadar Yeriha’da bekleyin, sonra geri dönün” dedi."
+      },
+      {
+        "osis": "2Sam.10.6",
+        "chapter": 10,
+        "verse": 6,
+        "text": "Ammon'un çocukları, David için kendilerinin iğrenç hale geldiklerini görünce, Ammon'un çocukları adam gönderip Beyt Rehov Suriyelileri'ni ve Sova Suriyelileri'ni, yirmi bin yaya askeri, Maaka Kralı'nı bin kişiyle ve Tov halkından on iki bin kişiyi ücretle tuttular."
+      },
+      {
+        "osis": "2Sam.10.7",
+        "chapter": 10,
+        "verse": 7,
+        "text": "David bunu duyunca, Yoav’ı ve yiğitler ordusunun tümünü gönderdi."
+      },
+      {
+        "osis": "2Sam.10.8",
+        "chapter": 10,
+        "verse": 8,
+        "text": "Ammon'un çocukları çıkıp kapının girişinde savaş düzeni aldılar. Sova ve Rehov Suriyelileri ile Tov ve Maaka adamları tek başlarına kırdaydılar."
+      },
+      {
+        "osis": "2Sam.10.9",
+        "chapter": 10,
+        "verse": 9,
+        "text": "Yoav, savaşın önünde ve arkasında kendisine karşı olduğunu görünce, İsrael’in bütün seçme adamlarından ayırıp onları Suriyeliler'e karşı dizdi."
+      },
+      {
+        "osis": "2Sam.10.10",
+        "chapter": 10,
+        "verse": 10,
+        "text": "Halkın geri kalanını kardeşi Avişay’ın eline teslim etti ve onları Ammon'un çocuklarına karşı dizdi."
+      },
+      {
+        "osis": "2Sam.10.11",
+        "chapter": 10,
+        "verse": 11,
+        "text": "Ve dedi, “Eğer Suriyeliler benden daha güçlü çıkarsa, sen bana yardım edeceksin; ama eğer Ammon'un çocukları senden daha güçlü çıkarsa, ben gelip sana yardım edeceğim."
+      },
+      {
+        "osis": "2Sam.10.12",
+        "chapter": 10,
+        "verse": 12,
+        "text": "Cesur ol, halkımız ve Tanrımız'ın kentleri için güçlü olalım; Yahve de kendisine iyi geleni yapsın.”"
+      },
+      {
+        "osis": "2Sam.10.13",
+        "chapter": 10,
+        "verse": 13,
+        "text": "Böylece Yoav ve onunla beraber olan halk Suriyeliler'e karşı savaş için yaklaştılar, onlar da onun önünden kaçtılar."
+      },
+      {
+        "osis": "2Sam.10.14",
+        "chapter": 10,
+        "verse": 14,
+        "text": "Ammon'un çocukları Suriyeliler'in kaçmış olduklarını görünce, onlar da Avişay'ın önünden kaçıp kente girdiler. O zaman Yoav Ammon'un çocuklarından dönüp Yeruşalem'e geldi."
+      },
+      {
+        "osis": "2Sam.10.15",
+        "chapter": 10,
+        "verse": 15,
+        "text": "Suriyeliler İsraelliler tarafından yenildiklerini görünce, bir araya toplandılar."
+      },
+      {
+        "osis": "2Sam.10.16",
+        "chapter": 10,
+        "verse": 16,
+        "text": "Hadadezer adam gönderip Irmak ötesindeki Suriyeliler'i çıkardı; ve başlarında Hadadezer'in ordusunun komutanı Şovak ile Helam'a geldiler."
+      },
+      {
+        "osis": "2Sam.10.17",
+        "chapter": 10,
+        "verse": 17,
+        "text": "Bu, David'e bildirildi; o, bütün İsrael'i topladı, Yarden'i geçti ve Helam'a geldi. Suriyeliler David'e karşı dizildiler ve onunla savaştılar."
+      },
+      {
+        "osis": "2Sam.10.18",
+        "chapter": 10,
+        "verse": 18,
+        "text": "Suriyeliler İsrael'in önünden kaçtılar; David de Suriyeliler'den yedi yüz arabacıyı ve kırk bin atlıyı öldürdü ve ordularının komutanı Şovak'ı vurdu, o da orada öldü."
+      },
+      {
+        "osis": "2Sam.10.19",
+        "chapter": 10,
+        "verse": 19,
+        "text": "Hadadezer'in hizmetkârı olan bütün krallar İsrael'in önünde yenildiklerini görünce İsrael'le barış yaptılar ve onlara hizmet ettiler. Böylece Suriyeliler Ammon'un çocuklarına yardım etmekten korktular."
+      }
+    ],
+    "11": [
+      {
+        "osis": "2Sam.11.1",
+        "chapter": 11,
+        "verse": 1,
+        "text": "Yıl dönümünde, kralların çıktığı zamanda, David, Yoav'ı ve onunla birlikte hizmetkârlarını ve bütün İsrael'i gönderdi; ve Ammon'un çocuklarını yok ettiler ve Rabba'yı kuşattılar. Ama David Yeruşalem'de kaldı."
+      },
+      {
+        "osis": "2Sam.11.2",
+        "chapter": 11,
+        "verse": 2,
+        "text": "Akşamleyin David yatağından kalktı ve kralın evinin damı üzerinde dolaşıyordu. Damdan yıkanan bir kadın gördü; kadının görünüşü çok güzeldi."
+      },
+      {
+        "osis": "2Sam.11.3",
+        "chapter": 11,
+        "verse": 3,
+        "text": "David gönderip kadın hakkında soruşturdu. Biri, “Bu, Eliam'ın kızı, Hititli Uriya'nın karısı Batşeva değil mi?” dedi."
+      },
+      {
+        "osis": "2Sam.11.4",
+        "chapter": 11,
+        "verse": 4,
+        "text": "David elçiler gönderip kadını aldırdı; ve kadın onun yanına girdi ve o, kadınla yattı (çünkü kirliliğinden arınmıştı); ve kendi evine döndü."
+      },
+      {
+        "osis": "2Sam.11.5",
+        "chapter": 11,
+        "verse": 5,
+        "text": "Kadın gebe kaldı; ve gönderip David'e bildirdi ve “Gebe kaldım” dedi."
+      },
+      {
+        "osis": "2Sam.11.6",
+        "chapter": 11,
+        "verse": 6,
+        "text": "David, Yoav'a, “Bana Hititli Uriya'yı gönder” dedi. Yoav, Uriya’yı David'e gönderdi."
+      },
+      {
+        "osis": "2Sam.11.7",
+        "chapter": 11,
+        "verse": 7,
+        "text": "Uriya yanına gelince, David ona Yoav’ın nasıl olduğunu, halkın nasıl olduğunu ve savaşın nasıl gittiğini sordu."
+      },
+      {
+        "osis": "2Sam.11.8",
+        "chapter": 11,
+        "verse": 8,
+        "text": "David, Uriya’ya, “Evine in ve ayaklarını yıka” dedi. Uriya kralın evinden ayrıldı ve kraldan bir armağan onun ardından gönderildi."
+      },
+      {
+        "osis": "2Sam.11.9",
+        "chapter": 11,
+        "verse": 9,
+        "text": "Ama Uriya, efendisinin bütün hizmetkârlarıyla birlikte kralın evinin kapısında uyudu ve evine inmedi."
+      },
+      {
+        "osis": "2Sam.11.10",
+        "chapter": 11,
+        "verse": 10,
+        "text": "David’e, “Uriya evine inmedi” diye bildirildiğinde, David, Uriya’ya, “Yolculuktan gelmedin mi? Niçin evine inmedin?” dedi."
+      },
+      {
+        "osis": "2Sam.11.11",
+        "chapter": 11,
+        "verse": 11,
+        "text": "Uriya David’e, “Sandık, İsrael ve Yahuda çadırlarda kalıyor; efendim Yoav ve efendimin hizmetkârları açık alanda konaklıyorlar” dedi. “O zaman yemek ve içmek ve karımla yatmak için ben evime mi gideyim? Senin hayatının hakkı için, canının hakkı için, ben bu şeyi yapmam.”"
+      },
+      {
+        "osis": "2Sam.11.12",
+        "chapter": 11,
+        "verse": 12,
+        "text": "David Uriya'ya, “Bugün de burada kal, yarın seni yola çıkaracağım” dedi. Böylece Uriya o gün ve ertesi gün Yeruşalem'de kaldı."
+      },
+      {
+        "osis": "2Sam.11.13",
+        "chapter": 11,
+        "verse": 13,
+        "text": "David onu çağırdığında, önünde yiyip içti ve onu sarhoş etti. Akşamleyin efendisinin hizmetkârlarıyla birlikte yatağına yatmak için dışarı çıktı, ama evine inmedi."
+      },
+      {
+        "osis": "2Sam.11.14",
+        "chapter": 11,
+        "verse": 14,
+        "text": "Sabahleyin David Yoav'a bir mektup yazıp Uriya'nın eliyle gönderdi."
+      },
+      {
+        "osis": "2Sam.11.15",
+        "chapter": 11,
+        "verse": 15,
+        "text": "Mektuba şöyle yazdı: “Uriya'yı savaşın en şiddetli ön saflarına gönder ve onun yanından çekilin ki, vurulup da ölsün.”"
+      },
+      {
+        "osis": "2Sam.11.16",
+        "chapter": 11,
+        "verse": 16,
+        "text": "Yoav kenti gözetlediğinde, Uriya'yı yiğit adamların bulunduğunu bildiği yere atadı."
+      },
+      {
+        "osis": "2Sam.11.17",
+        "chapter": 11,
+        "verse": 17,
+        "text": "Kentin adamları çıkıp Yoav'la savaştılar. Halktan bazıları, David'in hizmetkârlarından düştüler; Hititli Uriya'da öldü."
+      },
+      {
+        "osis": "2Sam.11.18",
+        "chapter": 11,
+        "verse": 18,
+        "text": "Sonra Yoav gönderip David'e savaşla ilgili her şeyi anlattı."
+      },
+      {
+        "osis": "2Sam.11.19",
+        "chapter": 11,
+        "verse": 19,
+        "text": "Ve ulağa şöyle buyurdu: “Savaşla ilgili her şeyi krala anlatmayı bitirince,"
+      },
+      {
+        "osis": "2Sam.11.20",
+        "chapter": 11,
+        "verse": 20,
+        "text": "öyle olacak ki, kralın öfkesi yükselir ve sana, 'Neden savaşmak için kente bu kadar yaklaştınız? Surdan ok atacaklarını bilmiyor muydunuz?"
+      },
+      {
+        "osis": "2Sam.11.21",
+        "chapter": 11,
+        "verse": 21,
+        "text": "Yerubbeşet oğlu Avimelek'i kim vurdu? Bir kadın surdan onun üzerine bir değirmen üst taşını attı da, o da Tebes'te ölmedi mi? Neden surlara bu kadar yaklaştınız?' diye sorarsa, o zaman 'Hizmetkârın Hititli Uriya da öldü' diyeceksin.”"
+      },
+      {
+        "osis": "2Sam.11.22",
+        "chapter": 11,
+        "verse": 22,
+        "text": "Bunun üzerine ulak gitti, geldi ve Yoav'ın kendisiyle göndermiş olduğu her şeyi David'e gösterdi."
+      },
+      {
+        "osis": "2Sam.11.23",
+        "chapter": 11,
+        "verse": 23,
+        "text": "Ulak David'e, “Adamlar bize karşı galip geldiler ve bize karşı kıra çıktılar; biz de kapının girişine kadar onların üzerlerindeydik."
+      },
+      {
+        "osis": "2Sam.11.24",
+        "chapter": 11,
+        "verse": 24,
+        "text": "Ok atanlar surdan hizmetkârlarına attılar; kralın hizmetkârlarından bazıları da öldü, hizmetkârın Hititli Uriya da öldü.”"
+      },
+      {
+        "osis": "2Sam.11.25",
+        "chapter": 11,
+        "verse": 25,
+        "text": "Bunun üzerine David ulağa şöyle dedi: “Yoav’a de ki, ‘Bu senin canını sıkmasın, çünkü kılıç hem birini hem diğerini yiyip bitirir. Kente karşı savaşını daha da güçlendir ve onu yık.’ Onu yüreklendir.”"
+      },
+      {
+        "osis": "2Sam.11.26",
+        "chapter": 11,
+        "verse": 26,
+        "text": "Uriya’nın karısı, kocası Uriya’nın öldüğünü duyunca kocası için yas tuttu."
+      },
+      {
+        "osis": "2Sam.11.27",
+        "chapter": 11,
+        "verse": 27,
+        "text": "Yası geçince David gönderip onu evine aldı. Kadın onun karısı oldu ve ona bir oğul doğurdu. Ama David'in yaptığı Yahve'nin hoşuna gitmedi."
+      }
+    ],
+    "12": [
+      {
+        "osis": "2Sam.12.1",
+        "chapter": 12,
+        "verse": 1,
+        "text": "Yahve, Natan'ı David'e gönderdi. Ona gelip şöyle dedi: “Bir kentte iki adam vardı: Biri zengin, öbürü yoksul."
+      },
+      {
+        "osis": "2Sam.12.2",
+        "chapter": 12,
+        "verse": 2,
+        "text": "Zengin adamın çok sayıda koyunu ve sığırı vardı."
+      },
+      {
+        "osis": "2Sam.12.3",
+        "chapter": 12,
+        "verse": 3,
+        "text": "Yoksul adamın da satın alıp beslemiş olduğu küçük bir dişi kuzudan başka bir şeyi yoktu. Kuzu onunla ve çocuklarıyla birlikte büyüdü. Onun kendi yemeğinden yer, kendi kâsesinden içer, koynunda yatar ve onun kızı gibiydi."
+      },
+      {
+        "osis": "2Sam.12.4",
+        "chapter": 12,
+        "verse": 4,
+        "text": "Zengin adamın yanına bir yolcu geldi. Kendisine gelen yolcuya yemek hazırlamak için kendi koyunundan ve sığırından almak istemedi. Yoksul adamın kuzusunu alıp kendisine gelen adam için onu hazırladı.”"
+      },
+      {
+        "osis": "2Sam.12.5",
+        "chapter": 12,
+        "verse": 5,
+        "text": "David'in adama karşı öfkesi alevlendi ve Natan'a şöyle dedi: “Hay olan Yahve'nin hakkı için, bunu yapan adam ölmeyi hak etti!"
+      },
+      {
+        "osis": "2Sam.12.6",
+        "chapter": 12,
+        "verse": 6,
+        "text": "Bu işi yaptığı ve acımadığı için kuzuyu dört kat geri ödemelidir!”"
+      },
+      {
+        "osis": "2Sam.12.7",
+        "chapter": 12,
+        "verse": 7,
+        "text": "Natan David'e, “Sen o adamsın!” dedi, “İsrael'in Tanrısı Yahve şöyle diyor: 'Seni İsrael üzerine kral olarak meshettim ve seni Saul'un elinden kurtardım."
+      },
+      {
+        "osis": "2Sam.12.8",
+        "chapter": 12,
+        "verse": 8,
+        "text": "Efendinin evini ve efendinin karılarını koynuna verdim ve İsrael evini ve Yahuda'yı sana verdim; eğer bu çok az geldiyse, sana böyle şeylerin daha çoğunu katardım."
+      },
+      {
+        "osis": "2Sam.12.9",
+        "chapter": 12,
+        "verse": 9,
+        "text": "Neden Yahve'nin sözünü hor gördün de gözünde kötü olanı yaptın? Hititli Uriya'yı kılıçla vurdun, karısını kendine eş olarak aldın ve onu Ammon'un çocuklarının kılıcıyla katlettin."
+      },
+      {
+        "osis": "2Sam.12.10",
+        "chapter": 12,
+        "verse": 10,
+        "text": "Şimdi kılıç evinden asla ayrılmayacak, çünkü beni hor gördün ve Hititli Uriya'nın karısını kendine eş olarak aldın.'”"
+      },
+      {
+        "osis": "2Sam.12.11",
+        "chapter": 12,
+        "verse": 11,
+        "text": "“Yahve şöyle diyor: 'İşte, kendi evinden sana karşı kötülük çıkaracağım; ve gözlerinin önünde karılarını alıp komşuna vereceğim; o da bu güneşin gözü önünde karılarınla yatacak."
+      },
+      {
+        "osis": "2Sam.12.12",
+        "chapter": 12,
+        "verse": 12,
+        "text": "Çünkü sen bunu gizlice yaptın, ama ben bunu bütün İsrael'in önünde ve güneşin gözü önünde yapacağım.'”"
+      },
+      {
+        "osis": "2Sam.12.13",
+        "chapter": 12,
+        "verse": 13,
+        "text": "David, Natan'a, “Yahve'ye karşı günah işledim” dedi. Natan, David'e, “Yahve de senin günahını sildi. Ölmeyeceksin.” dedi."
+      },
+      {
+        "osis": "2Sam.12.14",
+        "chapter": 12,
+        "verse": 14,
+        "text": "“Ancak, bu işle Yahve'nin düşmanlarına küfür etmeleri için büyük fırsat verdiğin için, sana doğan çocuk da kesin olarak ölecektir.”"
+      },
+      {
+        "osis": "2Sam.12.15",
+        "chapter": 12,
+        "verse": 15,
+        "text": "Sonra Natan evine gitti. Yahve, Uriya’nın karısının David’e doğurduğu çocuğu vurdu ve çocuk çok hastaydı."
+      },
+      {
+        "osis": "2Sam.12.16",
+        "chapter": 12,
+        "verse": 16,
+        "text": "David çocuk için Tanrı’ya yalvardı. David oruç tuttu, içeri girip bütün gece yerde yattı."
+      },
+      {
+        "osis": "2Sam.12.17",
+        "chapter": 12,
+        "verse": 17,
+        "text": "Evinin ihtiyarları kalktılar, onu yerden kaldırmak için yanına durdular; ama o istemedi ve onlarla birlikte ekmek yemedi."
+      },
+      {
+        "osis": "2Sam.12.18",
+        "chapter": 12,
+        "verse": 18,
+        "text": "Yedinci gün çocuk öldü. David’in hizmetkârları ona çocuğun öldüğünü söylemekten korktular, çünkü, “İşte, çocuk daha sağken, ona söyledik, ama sözümüzü dinlemedi. Eğer çocuğun öldüğünü söylersek kendine o zaman zarar verecek.” dediler."
+      },
+      {
+        "osis": "2Sam.12.19",
+        "chapter": 12,
+        "verse": 19,
+        "text": "Ama David hizmetkârlarının birbiriyle fısıldaştıklarını görünce, David çocuğun öldüğünü anladı; David hizmetkârlarına, “Çocuk öldü mü?” dedi. Onlar, “Öldü” dediler."
+      },
+      {
+        "osis": "2Sam.12.20",
+        "chapter": 12,
+        "verse": 20,
+        "text": "Sonra David yerden kalktı, yıkanıp yağ süründü, giysilerini değiştirdi; ve Yahve'nin evine girip tapındı. Sonra kendi evine geldi ve istediğinde önüne ekmek koydular, o da yedi."
+      },
+      {
+        "osis": "2Sam.12.21",
+        "chapter": 12,
+        "verse": 21,
+        "text": "Sonra hizmetkârları ona dediler ki, “Bu yaptığın nedir? Çocuk sağken onun için oruç tuttun ve ağladın, ama çocuk ölünce kalktın ve ekmek yedin.”"
+      },
+      {
+        "osis": "2Sam.12.22",
+        "chapter": 12,
+        "verse": 22,
+        "text": "O şöyle dedi, “Çocuk daha sağken oruç tuttum ve ağladım; çünkü, 'Kim bilir, belki Yahve bana lütfeder de çocuk yaşar mı?' dedim."
+      },
+      {
+        "osis": "2Sam.12.23",
+        "chapter": 12,
+        "verse": 23,
+        "text": "Ama şimdi öldü. Neden oruç tutayım? Onu tekrar geri getirebilir miyim? Ben ona gideceğim, ama o bana geri dönmeyecek.”"
+      },
+      {
+        "osis": "2Sam.12.24",
+        "chapter": 12,
+        "verse": 24,
+        "text": "David karısı Batşeva'yı teselli etti, yanına girdi ve onunla yattı. Kadın bir oğul doğurdu ve onun adını Solomon koydu. Yahve onu sevdi;"
+      },
+      {
+        "osis": "2Sam.12.25",
+        "chapter": 12,
+        "verse": 25,
+        "text": "ve Peygamber Natan'ın eliyle gönderdi ve Yahve'nin hatırına ona Yedidyah adını verdi."
+      },
+      {
+        "osis": "2Sam.12.26",
+        "chapter": 12,
+        "verse": 26,
+        "text": "Yoav Ammon'un çocuklarının Rabba'sına karşı savaştı ve kral kentini aldı."
+      },
+      {
+        "osis": "2Sam.12.27",
+        "chapter": 12,
+        "verse": 27,
+        "text": "Yoav David'e haberciler gönderip şöyle dedi, “Rabba'ya karşı savaştım. Evet, sular kentini aldım."
+      },
+      {
+        "osis": "2Sam.12.28",
+        "chapter": 12,
+        "verse": 28,
+        "text": "Şimdi halkın geri kalanını topla ve kente karşı ordugâh kur ve onu al; yoksa kenti ben alırım ve o benim adımla çağrılır.”"
+      },
+      {
+        "osis": "2Sam.12.29",
+        "chapter": 12,
+        "verse": 29,
+        "text": "David bütün halkı toplayıp Rabba'ya gitti, ona karşı savaştı ve onu aldı."
+      },
+      {
+        "osis": "2Sam.12.30",
+        "chapter": 12,
+        "verse": 30,
+        "text": "Krallarının tacını başından çıkardı; ağırlığı bir talant altındı ve onda değerli taşlar vardı; ve David'in başına konuldu. Kentten çok miktarda ganimet çıkardı."
+      },
+      {
+        "osis": "2Sam.12.31",
+        "chapter": 12,
+        "verse": 31,
+        "text": "İçinde bulunan halkı dışarı çıkardı ve onları testerelerin, demir kazmaların, demir baltaların altında çalıştırdı ve onları tuğla ocağına götürdü; ve Ammon'un çocuklarının bütün kentlerine böyle yaptı. Sonra David ve bütün halk Yeruşalem'e döndü."
+      }
+    ],
+    "13": [
+      {
+        "osis": "2Sam.13.1",
+        "chapter": 13,
+        "verse": 1,
+        "text": "Bundan sonra David oğlu Avşalom'un Tamar adında güzel bir kız kardeşi vardı; David oğlu Amnon da onu sevdi."
+      },
+      {
+        "osis": "2Sam.13.2",
+        "chapter": 13,
+        "verse": 2,
+        "text": "Amnon kız kardeşi Tamar yüzünden çok üzgündü ve hasta oldu; çünkü Tamar el değmemiş bir kızdı ve ona bir şey yapmak Amnon'a zor geliyordu."
+      },
+      {
+        "osis": "2Sam.13.3",
+        "chapter": 13,
+        "verse": 3,
+        "text": "Ama Amnon'un David'in kardeşi Şimeah'ın oğlu Yonadav adında bir arkadaşı vardı; Yonadav da çok akıllı bir adamdı."
+      },
+      {
+        "osis": "2Sam.13.4",
+        "chapter": 13,
+        "verse": 4,
+        "text": "Ona, “Ey kralın oğlu, günden güne neden bu kadar üzgünsün? Bana anlatmayacak mısın?” dedi. Amnon ona, “Kardeşim Avşalom'un kız kardeşi Tamar'ı seviyorum” dedi."
+      },
+      {
+        "osis": "2Sam.13.5",
+        "chapter": 13,
+        "verse": 5,
+        "text": "Yonadav ona, “Yatağına uzan ve hastaymış gibi görün” dedi. “Baban seni görmeye gelince, ona de ki, ‘Lütfen kız kardeşim Tamar gelip bana yiyecek ekmek versin ve yemeği gözümün önünde hazırlasın da, göreyim ve onun elinden yiyeyim.’”"
+      },
+      {
+        "osis": "2Sam.13.6",
+        "chapter": 13,
+        "verse": 6,
+        "text": "Bunun üzerine Amnon yatıp hastaymış gibi yaptı. Kral onu görmeye geldiğinde, Amnon krala, “Lütfen kız kardeşim Tamar gelip gözümün önünde bana iki pide yapsın da, elinden yiyeyim” dedi."
+      },
+      {
+        "osis": "2Sam.13.7",
+        "chapter": 13,
+        "verse": 7,
+        "text": "Bunun üzerine David evine, Tamar’a gönderip, “Şimdi kardeşin Amnon’un evine git, ona yemek hazırla” dedi."
+      },
+      {
+        "osis": "2Sam.13.8",
+        "chapter": 13,
+        "verse": 8,
+        "text": "Böylece Tamar, kardeşi Amnon’un evine gitti, o yatıyordu. Hamur alıp yoğurdu, önünde pideler yaptı ve pideleri pişirdi."
+      },
+      {
+        "osis": "2Sam.13.9",
+        "chapter": 13,
+        "verse": 9,
+        "text": "Tavayı alıp önüne döktü, ama o yemek istemedi. Amnon, “Herkesi yanımdan çıkarın” dedi. Sonra herkes yanından çıktı."
+      },
+      {
+        "osis": "2Sam.13.10",
+        "chapter": 13,
+        "verse": 10,
+        "text": "Amnon Tamar'a, “Yemeği odaya getir de elinden yiyeyim” dedi. Tamar yaptığı ekmekleri alıp odaya, kardeşi Amnon'a getirdi."
+      },
+      {
+        "osis": "2Sam.13.11",
+        "chapter": 13,
+        "verse": 11,
+        "text": "Kız onları yesin diye yanına getirince, onu tuttu ve ona, “Gel, benimle yat, kız kardeşim!” dedi."
+      },
+      {
+        "osis": "2Sam.13.12",
+        "chapter": 13,
+        "verse": 12,
+        "text": "Kız ona, “Hayır, kardeşim, beni zorlama! Çünkü İsrael'de böyle bir şey yapılmamalı. Bu deliliği yapma!” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.13.13",
+        "chapter": 13,
+        "verse": 13,
+        "text": "“Bana gelince utancımı nereye taşıyacağım? Sen de İsrael'deki akılsızlardan biri gibi olacaksın. Şimdi kralla konuş; çünkü beni senden esirgemeyecektir.”"
+      },
+      {
+        "osis": "2Sam.13.14",
+        "chapter": 13,
+        "verse": 14,
+        "text": "Ancak o kızın sözünü dinlemedi; ondan daha güçlü olduğu için kızı zorladı ve onunla yattı."
+      },
+      {
+        "osis": "2Sam.13.15",
+        "chapter": 13,
+        "verse": 15,
+        "text": "O zaman Amnon ondan çok büyük bir nefretle nefret etti; çünkü ona duyduğu nefret, ona duymuş olduğu sevgiden daha büyüktü. Amnon ona, “Kalk, defol!” dedi."
+      },
+      {
+        "osis": "2Sam.13.16",
+        "chapter": 13,
+        "verse": 16,
+        "text": "Kız ona, “Hayır, çünkü beni kovmakla yaptığın bu büyük kötülük, bana yaptığın öbür kötülükten daha kötü!” dedi. Ama Amnon onu dinlemedi."
+      },
+      {
+        "osis": "2Sam.13.17",
+        "chapter": 13,
+        "verse": 17,
+        "text": "Sonra kendisine hizmet eden hizmekârını çağırdı ve, “Şimdi bu kadını yanımdan çıkar arkasından da kapıyı sürgüle” dedi."
+      },
+      {
+        "osis": "2Sam.13.18",
+        "chapter": 13,
+        "verse": 18,
+        "text": "Kızın üzerinde çeşit çeşit renklerden bir entari vardı, el değmemiş kral kızları böyle giysiler giyerlerdi. Sonra hizmetkârı onu dışarı çıkardı ve arkasından kapıyı sürgüledi."
+      },
+      {
+        "osis": "2Sam.13.19",
+        "chapter": 13,
+        "verse": 19,
+        "text": "Tamar başına kül saçtı ve üzerindeki çeşit çeşit renkli entarisini yırttı. Elini başına koydu ve yüksek sesle ağlaya ağlaya gitti."
+      },
+      {
+        "osis": "2Sam.13.20",
+        "chapter": 13,
+        "verse": 20,
+        "text": "Kardeşi Avşalom ona, “Kardeşin Amnon seninle mi oldu? Ama şimdi sus, kız kardeşim. O senin kardeşindir.” dedi. Bu şeyi yüreğine sokma.” dedi. Böylece Tamar, kardeşi Avşalom’un evinde kimsesiz kaldı."
+      },
+      {
+        "osis": "2Sam.13.21",
+        "chapter": 13,
+        "verse": 21,
+        "text": "Ancak Kral David bütün bunları duyunca çok öfkelendi."
+      },
+      {
+        "osis": "2Sam.13.22",
+        "chapter": 13,
+        "verse": 22,
+        "text": "Avşalom Amnon’a ne iyi ne de kötü konuştu; çünkü Avşalom, kız kardeşi Tamar’ı zorladığı için Amnon’dan nefret ediyordu."
+      },
+      {
+        "osis": "2Sam.13.23",
+        "chapter": 13,
+        "verse": 23,
+        "text": "Tam iki yıl sonra Avşalom'un, Efraim’in yakınlarındaki Baal Hasor’da koyun kırkıcıları vardı ve Avşalom kralın bütün oğullarını çağırdı."
+      },
+      {
+        "osis": "2Sam.13.24",
+        "chapter": 13,
+        "verse": 24,
+        "text": "Avşalom krala gelip, “Bak, hizmetkârının koyun kırkıcıları var. Lütfen kral ve hizmetkârları hizmetkârınla birlikte gitsinler.” dedi."
+      },
+      {
+        "osis": "2Sam.13.25",
+        "chapter": 13,
+        "verse": 25,
+        "text": "Kral Avşalom’a, “Hayır oğlum, hepimiz gitmeyelim, yoksa sana yük oluruz” dedi. O sıkıştırdı, ancak gitmek istemedi, ama onu kutsadı."
+      },
+      {
+        "osis": "2Sam.13.26",
+        "chapter": 13,
+        "verse": 26,
+        "text": "Bunun üzerine Avşalom, “Olmazsa, lütfen kardeşim Amnon bizimle gitsin” dedi. Kral ona, “Neden o seninle gitsin?” dedi."
+      },
+      {
+        "osis": "2Sam.13.27",
+        "chapter": 13,
+        "verse": 27,
+        "text": "Ama Avşalom onu sıkıştırdı ve Amnon’un ve kralın bütün oğullarının onunla gitmesine izin verdi."
+      },
+      {
+        "osis": "2Sam.13.28",
+        "chapter": 13,
+        "verse": 28,
+        "text": "Avşalom hizmetkârlarına şöyle buyurdu: “Şimdi bakın, Amnon’un yüreği şarapla neşelendiğinde ve size, ‘Amnon’u vurun’ dediğimde o zaman onu öldürün. Korkmayın. Size buyuran ben değil miyim? Cesur ve yiğit olun!”"
+      },
+      {
+        "osis": "2Sam.13.29",
+        "chapter": 13,
+        "verse": 29,
+        "text": "Avşalom’un hizmetkârları Amnon’a Avşalom’un buyurduğu gibi yaptılar. Sonra kralın bütün oğulları kalktı ve her biri katırına binip kaçtı."
+      },
+      {
+        "osis": "2Sam.13.30",
+        "chapter": 13,
+        "verse": 30,
+        "text": "Onlar yoldayken David’e haber geldi ve dediler ki: “Avşalom kralın bütün oğullarını katletti ve onlardan hiçbiri kalmadı!”"
+      },
+      {
+        "osis": "2Sam.13.31",
+        "chapter": 13,
+        "verse": 31,
+        "text": "Bunun üzerine kral kalktı, giysilerini yırttı ve yere yattı; hizmetkârlarının tümü giysileri yırtılmış yanında duruyordu."
+      },
+      {
+        "osis": "2Sam.13.32",
+        "chapter": 13,
+        "verse": 32,
+        "text": "David'in kardeşi Şimeah'ın oğlu Yonadav, “Efendim, bütün gençleri, kralın oğullarının hepsini öldürdüklerini sanmasın, çünkü yalnız Amnon öldü; çünkü Avşalom'un tayiniyle, kız kardeşi Tamar'ı zorladığı günden beri bu kararlaştırılmıştı."
+      },
+      {
+        "osis": "2Sam.13.33",
+        "chapter": 13,
+        "verse": 33,
+        "text": "Şimdi efendim kral, kralın oğullarının hepsinin öldüğünü düşünerek yüreğine o şeyi koymasın; çünkü yalnız Amnon öldü.” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.13.34",
+        "chapter": 13,
+        "verse": 34,
+        "text": "Ama Avşalom kaçtı. Nöbetçi genç adam gözlerini kaldırıp baktı ve işte, arkasındaki yamaç yolundan gelen bir sürü insan vardı."
+      },
+      {
+        "osis": "2Sam.13.35",
+        "chapter": 13,
+        "verse": 35,
+        "text": "Yonadav krala, “İşte, kralın oğulları geliyor! Hizmetkârının söylediği gibi.” dedi."
+      },
+      {
+        "osis": "2Sam.13.36",
+        "chapter": 13,
+        "verse": 36,
+        "text": "Konuşmasını bitirir bitirmez, işte, kralın oğulları geldiler, seslerini yükselterek ağladılar. Kral ve bütün hizmetkârıları da acı acı ağladılar."
+      },
+      {
+        "osis": "2Sam.13.37",
+        "chapter": 13,
+        "verse": 37,
+        "text": "Ama Avşalom kaçıp Geşur Kralı Ammihur oğlu Talmay’ın yanına gitti. David her gün oğlu için yas tuttu."
+      },
+      {
+        "osis": "2Sam.13.38",
+        "chapter": 13,
+        "verse": 38,
+        "text": "Bunun üzerine Avşalom kaçtı ve Geşur’a gitti ve orada üç yıl kaldı."
+      },
+      {
+        "osis": "2Sam.13.39",
+        "chapter": 13,
+        "verse": 39,
+        "text": "Kral David, Avşalom’un yanına gitmek için can atıyordu, çünkü Amnon ölmüş olduğundan onun hakkında teselli bulmuştu."
+      }
+    ],
+    "14": [
+      {
+        "osis": "2Sam.14.1",
+        "chapter": 14,
+        "verse": 1,
+        "text": "Seruya oğlu Yoav, kralın yüreğinin Avşalom yönünde olduğunu anladı."
+      },
+      {
+        "osis": "2Sam.14.2",
+        "chapter": 14,
+        "verse": 2,
+        "text": "Yoav, Tekoa'ya gönderip oradan bilge bir kadın getirtti ve ona, “Lütfen yas tutan biri gibi davran, lütfen yas giysisi giyin, kendine yağ sürme, ama uzun zamandır ölü için yas tutan bir kadın gibi ol” dedi."
+      },
+      {
+        "osis": "2Sam.14.3",
+        "chapter": 14,
+        "verse": 3,
+        "text": "“Kralın yanına git ve ona böyle konuş.” Böylece Yoav sözleri kadının ağzına koydu."
+      },
+      {
+        "osis": "2Sam.14.4",
+        "chapter": 14,
+        "verse": 4,
+        "text": "Tekoa'lı kadın kralla konuşurken yüzüstü yere kapandı, saygı gösterdi ve, “Yardım et, ey kral!” dedi."
+      },
+      {
+        "osis": "2Sam.14.5",
+        "chapter": 14,
+        "verse": 5,
+        "text": "Kral ona, “Neyin var?” diye sordu. Kadın, “Gerçekten dul bir kadınım, kocam da öldü” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.14.6",
+        "chapter": 14,
+        "verse": 6,
+        "text": "“Hizmetkârının iki oğlu vardı; ikisi de kırda dövüştüler, onları ayıran olmadı, biri öbürünü vurup öldürdü."
+      },
+      {
+        "osis": "2Sam.14.7",
+        "chapter": 14,
+        "verse": 7,
+        "text": "İşte, bütün aile hizmetkârına karşı ayaklandı ve, ‘Kardeşini vuranı teslim et de öldürdüğü kardeşinin hayatına karşılık onu öldürelim, böylece mirasçıyı da yok edelim’ dediler. Bunun için geride kalan közümü söndürecekler ve kocama yeryüzünde ne ad ne de kalıntı bırakacaklar.”"
+      },
+      {
+        "osis": "2Sam.14.8",
+        "chapter": 14,
+        "verse": 8,
+        "text": "Kral kadına, “Evine git, seninle ilgili buyruk vereceğim” dedi."
+      },
+      {
+        "osis": "2Sam.14.9",
+        "chapter": 14,
+        "verse": 9,
+        "text": "Tekoalı kadın krala, “Efendim, ey kral, haksızlık benim üzerime ve babamın evinin üzerine olsun; kral ve onun tahtı suçsuz olsun” dedi."
+      },
+      {
+        "osis": "2Sam.14.10",
+        "chapter": 14,
+        "verse": 10,
+        "text": "Kral, “Kim sana bir şey söylerse onu bana getir, bir daha seni rahatsız etmeyecektir” dedi."
+      },
+      {
+        "osis": "2Sam.14.11",
+        "chapter": 14,
+        "verse": 11,
+        "text": "Sonra, “Lütfen kral, Tanrın Yahve'yi hatırlasın ki, kan öcünü alan bir daha yok etmesin, yoksa oğlumu yok ederler” dedi. Ve dedi, “Hay olan Yahve'nin hakkı için, oğlunun bir saç teli yere düşmeyecektir.”"
+      },
+      {
+        "osis": "2Sam.14.12",
+        "chapter": 14,
+        "verse": 12,
+        "text": "O zaman kadın, “Lütfen hizmetkârın efendim krala bir söz söylesin” dedi. “Söyle” dedi."
+      },
+      {
+        "osis": "2Sam.14.13",
+        "chapter": 14,
+        "verse": 13,
+        "text": "Kadın, “Öyleyse neden Tanrı halkına karşı böyle bir şey tasarladın? Çünkü bu sözü söylemekle kral suçlu biri gibi oluyor, çünkü kral sürgününü eve geri getirmiyor."
+      },
+      {
+        "osis": "2Sam.14.14",
+        "chapter": 14,
+        "verse": 14,
+        "text": "Çünkü ölmemiz gerek, yere dökülen ve yeniden toplanamayan su gibiyiz; Tanrı da hayatı alıp götürmez, ama sürgüne gönderilen kendisinden uzak kalmasın diye çareler tasarlar."
+      },
+      {
+        "osis": "2Sam.14.15",
+        "chapter": 14,
+        "verse": 15,
+        "text": "Şimdi bu yüzden efendim krala bu sözü söylemeye geldim, çünkü halk beni korkuttu. Hizmetkârın dedi ki, ‘Şimdi kralla konuşacağım; kral belki de hizmetkârının dileğini yerine getirir.'"
+      },
+      {
+        "osis": "2Sam.14.16",
+        "chapter": 14,
+        "verse": 16,
+        "text": "Çünkü Tanrı'nın mirasından beni ve oğlumu birlikte yok etmek isteyen adamın elinden hizmetkârını kurtarmak için kral dinleyecektir."
+      },
+      {
+        "osis": "2Sam.14.17",
+        "chapter": 14,
+        "verse": 17,
+        "text": "O zaman hizmetkârın dedi ki, 'Lütfen efendim kralın sözü rahatlık getirsin; çünkü iyiyi ve kötüyü ayırt etmede Tanrı'nın meleği ne ise efendim kral da öyledir. Tanrın Yahve seninle birlikte olsun.'”"
+      },
+      {
+        "osis": "2Sam.14.18",
+        "chapter": 14,
+        "verse": 18,
+        "text": "O zaman kral kadına yanıt verdi, “Lütfen senden soracağım hiçbir şeyi benden gizleme.” Kadın, “Efendim kral şimdi konuşsun” dedi."
+      },
+      {
+        "osis": "2Sam.14.19",
+        "chapter": 14,
+        "verse": 19,
+        "text": "Kral, “Bütün bunda Yoav'ın eli seninle mi?” dedi. Kadın, “Efendim kral, canının hakkı için, efendim kralın söylediği hiçbir şeyden sağa sola kimse dönemez; çünkü hizmetkârın Yoav beni zorladı ve bütün bu sözleri hizmetkârının ağzına koydu” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.14.20",
+        "chapter": 14,
+        "verse": 20,
+        "text": "“Hizmetkârın Yoav, meselenin yüzünü değiştirmek için bunu yaptı. Efendim, Tanrı'nın meleğinin bilgeliğine göre, yeryüzünde olan her şeyi bilmek için bilgedir.”"
+      },
+      {
+        "osis": "2Sam.14.21",
+        "chapter": 14,
+        "verse": 21,
+        "text": "Kral Yoav'a, “İşte, bu şeyi kabul ettim. Bunun için git ve genç Avşalom'u geri getir.” dedi."
+      },
+      {
+        "osis": "2Sam.14.22",
+        "chapter": 14,
+        "verse": 22,
+        "text": "Yoav yüzüstü yere kapandı, saygı gösterdi ve kralı kutsadı. Yoav, “Efendim ey kral, bugün kralın hizmetkârının dileğini yerine getirmesiyle senin gözünde lütuf bulduğumu hizmetkârın biliyor” dedi."
+      },
+      {
+        "osis": "2Sam.14.23",
+        "chapter": 14,
+        "verse": 23,
+        "text": "Bunun üzerine Yoav kalkıp Geşur'a gitti ve Avşalom'u Yeruşalem'e getirdi."
+      },
+      {
+        "osis": "2Sam.14.24",
+        "chapter": 14,
+        "verse": 24,
+        "text": "Kral, “Kendi evine dönsün, ama yüzümü görmesin” dedi. Böylece Avşalom kendi evine döndü ve kralın yüzünü görmedi."
+      },
+      {
+        "osis": "2Sam.14.25",
+        "chapter": 14,
+        "verse": 25,
+        "text": "Bütün İsrael'de Avşalom kadar güzelliğiyle övülen kimse yoktu. Ayağının tabanından tepesine kadar kendisinde kusur yoktu."
+      },
+      {
+        "osis": "2Sam.14.26",
+        "chapter": 14,
+        "verse": 26,
+        "text": "Başındaki saçı kestiği zaman (her yıl sonunda keserdi; çünkü ona ağır gelirdi, bu yüzden keserdi), başındaki saçı kral ağırlığına göre iki yüz şekel tartardı."
+      },
+      {
+        "osis": "2Sam.14.27",
+        "chapter": 14,
+        "verse": 27,
+        "text": "Avşalom'a üç oğul ve bir kız doğdu; kızın adı Tamar'dı. Güzel yüzlü bir kadındı."
+      },
+      {
+        "osis": "2Sam.14.28",
+        "chapter": 14,
+        "verse": 28,
+        "text": "Avşalom Yeruşalem'de tam iki yıl yaşadı ve kralın yüzünü görmedi."
+      },
+      {
+        "osis": "2Sam.14.29",
+        "chapter": 14,
+        "verse": 29,
+        "text": "Sonra Avşalom Yoav'ı çağırıp onu krala göndermek istedi, ama o yanına gelmedi. Sonra ikinci kez yine gönderdi, ama o gelmedi."
+      },
+      {
+        "osis": "2Sam.14.30",
+        "chapter": 14,
+        "verse": 30,
+        "text": "Bu yüzden hizmetkârlarına, “İşte, Yoav'ın tarlası benimkine yakın, orada arpası var. Gidip onu ateşe verin.” dedi. Böylece Avşalom'un hizmetkârları tarlayı ateşe verdiler."
+      },
+      {
+        "osis": "2Sam.14.31",
+        "chapter": 14,
+        "verse": 31,
+        "text": "Sonra Yoav kalkıp Avşalom'a, evine geldi ve ona, “Hizmetkârların neden tarlamı ateşe verdi?” diye sordu."
+      },
+      {
+        "osis": "2Sam.14.32",
+        "chapter": 14,
+        "verse": 32,
+        "text": "Avşalom Yoav'a yanıt verdi: “İşte, sana gönderip dedim, 'Buraya gel de seni krala göndereyim ve “Geşur'dan neden geldim? Orada kalmam benim için daha iyi olurdu. Şimdi bu yüzden kralın yüzünü göreyim; eğer içimde bir kötülük varsa, beni öldürsün' diyeyim' dedim.”"
+      },
+      {
+        "osis": "2Sam.14.33",
+        "chapter": 14,
+        "verse": 33,
+        "text": "Bunun üzerine Yoav krala geldi ve ona anlattı; ve Avşalom'u çağırınca kralın yanına geldi ve kralın önünde yüzüstü yere eğildi; kral da Avşalom'u öptü."
+      }
+    ],
+    "15": [
+      {
+        "osis": "2Sam.15.1",
+        "chapter": 15,
+        "verse": 1,
+        "text": "Bundan sonra Avşalom kendisi için bir araba ve atlar, önünde koşacak elli adam hazırladı."
+      },
+      {
+        "osis": "2Sam.15.2",
+        "chapter": 15,
+        "verse": 2,
+        "text": "Avşalom erkenden kalkardı ve kapı yolunun kenarında dururdu. Kral'a hüküm için götürmesi gereken davası olan biri olduğunda Avşalom onu çağırır, “Hangi kenttensin?” diye sorardı. O da, “Hizmetkârın İsrael oymaklarından birindendir” derdi."
+      },
+      {
+        "osis": "2Sam.15.3",
+        "chapter": 15,
+        "verse": 3,
+        "text": "Avşalom ona, “İşte, meselelerin iyi ve doğrudur; ama kralın seni dinlemek üzere görevlendirdiği kimse yok” derdi."
+      },
+      {
+        "osis": "2Sam.15.4",
+        "chapter": 15,
+        "verse": 4,
+        "text": "Avşalom, “Keşke ülkede hâkim olsaydım da, davası ya da sorunu olan herkes yanıma gelse ve ben de ona adalet sağlasam!” derdi."
+      },
+      {
+        "osis": "2Sam.15.5",
+        "chapter": 15,
+        "verse": 5,
+        "text": "Öyle olurdu ki, ona önünde eğilmek için yaklaşan biri olduğunda elini uzatır, onu tutar ve öperdi."
+      },
+      {
+        "osis": "2Sam.15.6",
+        "chapter": 15,
+        "verse": 6,
+        "text": "Avşalom, hüküm için krala gelen bütün İsraelliler'e böyle yapardı. Böylece Avşalom İsraelliler'in yüreğini çaldı."
+      },
+      {
+        "osis": "2Sam.15.7",
+        "chapter": 15,
+        "verse": 7,
+        "text": "Kırk yılın sonunda Avşalom krala, “Lütfen gidip Hevron’da Yahve'ye adadığım adağı yerine getireyim” dedi."
+      },
+      {
+        "osis": "2Sam.15.8",
+        "chapter": 15,
+        "verse": 8,
+        "text": "“Çünkü ben Suriye’deki Geşur’da kalırken senin hizmetkârın adak adadı ve şöyle dedi: ‘Eğer gerçekten Yahve beni Yeruşalem’e geri getirirse, o zaman Yahve'ye hizmet edeceğim.'”"
+      },
+      {
+        "osis": "2Sam.15.9",
+        "chapter": 15,
+        "verse": 9,
+        "text": "Kral ona, “Esenlikle git” dedi. Bunun üzerine Avşalom kalkıp Hevron’a gitti."
+      },
+      {
+        "osis": "2Sam.15.10",
+        "chapter": 15,
+        "verse": 10,
+        "text": "Ama Avşalom İsrael’in bütün oymaklarına casuslar gönderip, “Boru sesini duyar duymaz, o zaman ‘Avşalom Hevron’da kraldır!’ diyeceksiniz” dedi."
+      },
+      {
+        "osis": "2Sam.15.11",
+        "chapter": 15,
+        "verse": 11,
+        "text": "Avşalom’la birlikte Yeruşalem’den davet edilen iki yüz kişi gitti, temiz yürekle gitmişlerdi ve onlar hiçbir şey bilmiyorlardı."
+      },
+      {
+        "osis": "2Sam.15.12",
+        "chapter": 15,
+        "verse": 12,
+        "text": "Avşalom, kurbanları sunarken, Gilo’dan, David’in danışmanı olan Gilonlu Ahitofel’i kentinden çağırttı. Gizli düzen güçlüydü, çünkü Avşalom’la birlikte olan halk gittikçe artıyordu."
+      },
+      {
+        "osis": "2Sam.15.13",
+        "chapter": 15,
+        "verse": 13,
+        "text": "Bir haberci David’e gelip, “İsraelliler'in yürekleri Avşalom’un peşinde” dedi."
+      },
+      {
+        "osis": "2Sam.15.14",
+        "chapter": 15,
+        "verse": 14,
+        "text": "David, Yeruşalem’de kendisiyle birlikte olan bütün hizmetkârlarına, “Kalkın! Kaçalım, yoksa hiçbirimiz Avşalom’dan kaçamayız. Hemen gidin, yoksa bize çarçabuk yetişir, başımıza bela getirir ve kenti kılıçtan geçirir.” dedi."
+      },
+      {
+        "osis": "2Sam.15.15",
+        "chapter": 15,
+        "verse": 15,
+        "text": "Kralın hizmetkârları krala, “İşte, hizmetkârların efendim kralın istediği her şeyi yapmaya hazır” dediler."
+      },
+      {
+        "osis": "2Sam.15.16",
+        "chapter": 15,
+        "verse": 16,
+        "text": "Kral çıktı ve bütün ev halkı da peşinden gitti. Kral, eve bakmaları için cariyelerinden on kadın bıraktı."
+      },
+      {
+        "osis": "2Sam.15.17",
+        "chapter": 15,
+        "verse": 17,
+        "text": "Kral çıktı ve bütün halk da peşinden gitti; ve Beyt Merhak'ta kaldılar."
+      },
+      {
+        "osis": "2Sam.15.18",
+        "chapter": 15,
+        "verse": 18,
+        "text": "Bütün hizmetkârları onun yanından geçtiler; ve bütün Keretililer, bütün Peletliler ve bütün Gittililer, Gat'tan gelen altı yüz adam kralın önünden geçtiler."
+      },
+      {
+        "osis": "2Sam.15.19",
+        "chapter": 15,
+        "verse": 19,
+        "text": "Sonra kral Gatlı İttay'a dedi: “Sen de neden bizimle geliyorsun? Dön ve kralla kal; çünkü sen hem yabancısın hem de sürgünsün. Kendi yerine dön."
+      },
+      {
+        "osis": "2Sam.15.20",
+        "chapter": 15,
+        "verse": 20,
+        "text": "Daha dün gelmiştin, bugün seni bizimle yukarı aşağı mı dolaştırayım, çünkü ben istediğim yere gidebilirim? Dön, kardeşlerini de geri döndür. Merhamet ve gerçek seninle olsun.”"
+      },
+      {
+        "osis": "2Sam.15.21",
+        "chapter": 15,
+        "verse": 21,
+        "text": "İttay krala yanıt verip dedi: “Hay olan Yahve'nin ve efendim kralın hayatı hakkı için, efendim kral nerede ise, kesinlikle senin hizmetkârın da, ister ölüm için olsun ister hayat için, orada olacaktır.”"
+      },
+      {
+        "osis": "2Sam.15.22",
+        "chapter": 15,
+        "verse": 22,
+        "text": "David İttay'a dedi: “Koyul ve geç.” Gittili İttay ve bütün adamları ve onunla birlikte olan bütün çocuklar geçtiler."
+      },
+      {
+        "osis": "2Sam.15.23",
+        "chapter": 15,
+        "verse": 23,
+        "text": "Bütün ülke yüksek sesle ağladı ve bütün halk geçti. Kral da Kidron Vadisi'ni geçti ve bütün halk çöl yoluna doğru geçtiler."
+      },
+      {
+        "osis": "2Sam.15.24",
+        "chapter": 15,
+        "verse": 24,
+        "text": "İşte, Sadok da ve onunla birlikte bütün Levililer geldiler, Tanrı'nın Antlaşma Sandığı'nı taşıyorlardı; Tanrı'nın Sandığı'nı yere koydular; ve Aviyatar bütün halk kentten çıkıncaya kadar yukarı çıktı."
+      },
+      {
+        "osis": "2Sam.15.25",
+        "chapter": 15,
+        "verse": 25,
+        "text": "Kral Sadok'a, “Tanrı'nın Sandığı'nı kente geri götür” dedi. “Eğer Yahve'nin gözünde lütuf bulursam, beni geri getirecek ve hem sandığı hem de oturduğu yeri bana gösterecektir;"
+      },
+      {
+        "osis": "2Sam.15.26",
+        "chapter": 15,
+        "verse": 26,
+        "text": "ama, 'Senden hoşnut değilim' derse, işte, ben buradayım. Kendisine iyi gelen şeyi bana yapsın.”"
+      },
+      {
+        "osis": "2Sam.15.27",
+        "chapter": 15,
+        "verse": 27,
+        "text": "Kral ayrıca kâhin Sadok'a şöyle dedi, “Sen bir Gören değil misin? Sen ve oğlun Ahimaas, Aviyatar'ın oğlu Yonatan, sizinle birlikte iki oğlunuz kente esenlikle dönün."
+      },
+      {
+        "osis": "2Sam.15.28",
+        "chapter": 15,
+        "verse": 28,
+        "text": "İşte, senden bana haber veren bir söz gelinceye dek çölün geçitlerinde kalacağım.”"
+      },
+      {
+        "osis": "2Sam.15.29",
+        "chapter": 15,
+        "verse": 29,
+        "text": "Bunun üzerine Sadok ve Aviyatar Tanrı’nın Sandığı’nı yine Yeruşalem’e götürdüler ve orada kaldılar."
+      },
+      {
+        "osis": "2Sam.15.30",
+        "chapter": 15,
+        "verse": 30,
+        "text": "David Zeytin Dağı’nın yamacına çıkıyor ve ağlayarak gidiyordu; başı örtülüydü ve yalınayak yürüyordu. Onunla birlikte olan bütün halk da başını örtmüş ağlayarak çıkıyordu."
+      },
+      {
+        "osis": "2Sam.15.31",
+        "chapter": 15,
+        "verse": 31,
+        "text": "Birisi David’e, “Ahitofel, Avşalom’la birlikte gizli düzencilerin arasındadır” diye bildirdi. David, “Ey Yahve, lütfen Ahitofel’in öğüdünü akılsızlığa döndür” dedi."
+      },
+      {
+        "osis": "2Sam.15.32",
+        "chapter": 15,
+        "verse": 32,
+        "text": "David Tanrı’ya tapınılan zirveye vardığında, işte Arklı Huşay gömleği yırtılmış ve başı toprak içinde onu karşılamaya geldi."
+      },
+      {
+        "osis": "2Sam.15.33",
+        "chapter": 15,
+        "verse": 33,
+        "text": "David ona, “Eğer benimle birlikte devam edersen, bana yük olursun” dedi;"
+      },
+      {
+        "osis": "2Sam.15.34",
+        "chapter": 15,
+        "verse": 34,
+        "text": "“Ama kente geri dönersen ve Avşalom'a, 'Ey kral, ben senin hizmetkârın olacağım. Geçmişte babanın hizmetkârı olduğum gibi, şimdi de senin hizmetkârın olacağım dersen, o zaman Ahitofel'in öğüdünü benim için boşa çıkaracaksın.'"
+      },
+      {
+        "osis": "2Sam.15.35",
+        "chapter": 15,
+        "verse": 35,
+        "text": "Orada seninle birlikte kâhinler Sadok ve Aviyatar yok mu? Öyleyse kralın evinden ne duyarsan, kâhinler Sadok ve Aviyatar'a bildir."
+      },
+      {
+        "osis": "2Sam.15.36",
+        "chapter": 15,
+        "verse": 36,
+        "text": "İşte, onların yanında iki oğulları var: Sadok'un oğlu Ahimaas ve Aviyatar'ın oğlu Yonatan. Onlardan duyacağın her şeyi bana ilet.”"
+      },
+      {
+        "osis": "2Sam.15.37",
+        "chapter": 15,
+        "verse": 37,
+        "text": "Böylece David'in dostu Huşay kente girdi, Avşalom da Yeruşalem'e girdi."
+      }
+    ],
+    "16": [
+      {
+        "osis": "2Sam.16.1",
+        "chapter": 16,
+        "verse": 1,
+        "text": "David tepenin az ötesine geçince, Mefiboşet'in hizmetkârı Siva, iki yüz somun ekmek, yüz salkım kuru üzüm, yüz yaz meyvesi ve bir tulum şarapla yüklü eğerlenmiş iki eşekle onu karşıladı."
+      },
+      {
+        "osis": "2Sam.16.2",
+        "chapter": 16,
+        "verse": 2,
+        "text": "Kral Siva'ya, “Bunlarla ne demek istiyorsun?” dedi. Siva, “Eşekler kralın ev halkının binmesi için, ekmek ve yaz meyveleri genç adamların yemesi için, şarap da çölde bitkin düşenlerin içmesi için” dedi."
+      },
+      {
+        "osis": "2Sam.16.3",
+        "chapter": 16,
+        "verse": 3,
+        "text": "Kral, “Efendinin oğlu nerede?” dedi. Siva, krala dedi, “İşte Yeruşalem'de kalıyor; çünkü o, 'İsrael halkı bugün babamın krallığını bana geri verecek' dedi.”"
+      },
+      {
+        "osis": "2Sam.16.4",
+        "chapter": 16,
+        "verse": 4,
+        "text": "Sonra kral Siva'ya, “İşte, Mefiboşet'in bütün malları senindir” dedi. Siva, “Eğiliyorum” dedi. “Ey efendim, ey kral, senin gözünde lütuf bulayım.”"
+      },
+      {
+        "osis": "2Sam.16.5",
+        "chapter": 16,
+        "verse": 5,
+        "text": "Kral David Bahurim’e geldiğinde, işte, Saul evi ailesinden Gera oğlu Şimei adında bir adam çıktı. Çıkarken lanet ediyordu."
+      },
+      {
+        "osis": "2Sam.16.6",
+        "chapter": 16,
+        "verse": 6,
+        "text": "David’e ve Kral David’in bütün hizmetkârlarına taş attı, bütün halk ve bütün güçlü adamlar da David'in sağında ve solundaydı."
+      },
+      {
+        "osis": "2Sam.16.7",
+        "chapter": 16,
+        "verse": 7,
+        "text": "Şimei lanet ederken, “Defol git, defol git, ey kanlı adam ve kötü adam!” diyordu."
+      },
+      {
+        "osis": "2Sam.16.8",
+        "chapter": 16,
+        "verse": 8,
+        "text": "“Yahve, Saul evinin bütün kanını, yerine hüküm sürdüğün yere geri döndürdü! Yahve, krallığı oğlun Avşalom’un eline teslim etti! İşte, kendi kötülüğünle yakalandın, çünkü sen kanlı bir adamsın!”"
+      },
+      {
+        "osis": "2Sam.16.9",
+        "chapter": 16,
+        "verse": 9,
+        "text": "Bunun üzerine Seruya oğlu Avişay krala, “Bu ölü köpek neden efendim krala lanet etsin? Lütfen geçip başını keseyim.” dedi."
+      },
+      {
+        "osis": "2Sam.16.10",
+        "chapter": 16,
+        "verse": 10,
+        "text": "Kral, “Ey Seruya oğulları, benden size ne? Çünkü Yahve ona, ‘David’e lanet et’ dediği için o lanet ediyorsa, o zaman kim, ‘Neden böyle yaptın?’ diyecek?”"
+      },
+      {
+        "osis": "2Sam.16.11",
+        "chapter": 16,
+        "verse": 11,
+        "text": "David, Avişay’a ve bütün hizmetkârlarına, “İşte, içimden çıkan oğlum canımı arıyor. Şimdi bu Benyaminli ne kadar daha fazlasını? Onu bırakın da lanet etsin; çünkü Yahve onu çağırdı."
+      },
+      {
+        "osis": "2Sam.16.12",
+        "chapter": 16,
+        "verse": 12,
+        "text": "Belki Yahve bana yapılan haksızlığa bakar da bugün bana edilen lanetin karşılığını Yahve bana iyilikle öder.” dedi."
+      },
+      {
+        "osis": "2Sam.16.13",
+        "chapter": 16,
+        "verse": 13,
+        "text": "Böylece David ve adamları yoldan geçtiler; Şimei ise onun karşısındaki yamaçta gidiyor, giderken lanet ediyor, ona taş atıyor ve toz atıyordu."
+      },
+      {
+        "osis": "2Sam.16.14",
+        "chapter": 16,
+        "verse": 14,
+        "text": "Kral ve yanındaki bütün halk yorgun bir halde geldiler; o orada dinlendi."
+      },
+      {
+        "osis": "2Sam.16.15",
+        "chapter": 16,
+        "verse": 15,
+        "text": "Avşalom ve bütün halk, İsraelliler, Ahitofel de onunla birlikte Yeruşalem'e geldiler."
+      },
+      {
+        "osis": "2Sam.16.16",
+        "chapter": 16,
+        "verse": 16,
+        "text": "David'in dostu Arklı Huşay Avşalom'a gelince, Huşay Avşalom'a, “Yaşasın kral! Yaşasın kral!” dedi."
+      },
+      {
+        "osis": "2Sam.16.17",
+        "chapter": 16,
+        "verse": 17,
+        "text": "Avşalom Huşay'a, “Dostuna gösterdiğin iyilik bu mu? Neden dostunla gitmedin?” dedi."
+      },
+      {
+        "osis": "2Sam.16.18",
+        "chapter": 16,
+        "verse": 18,
+        "text": "Huşay Avşalom'a, “Hayır; yalnız Yahve, bu halk ve bütün İsraelliler kimi seçerse, ben onun olacağım ve onunla kalacağım” dedi."
+      },
+      {
+        "osis": "2Sam.16.19",
+        "chapter": 16,
+        "verse": 19,
+        "text": "“Yine kime hizmet edeyim? Oğlunun önünde hizmet etmem gerekmez mi? Babanın önünde hizmet ettiğim gibi, senin önünde de hizmet edeceğim.”"
+      },
+      {
+        "osis": "2Sam.16.20",
+        "chapter": 16,
+        "verse": 20,
+        "text": "Sonra Avşalom Ahitofel'e, “Öğüdünüzü verin, ne yapacağız” dedi."
+      },
+      {
+        "osis": "2Sam.16.21",
+        "chapter": 16,
+        "verse": 21,
+        "text": "Ahitofel Avşalom'a, “Babanın evi bakması için bıraktığı cariyelerinin yanına gir. O zaman bütün İsrael baban tarafından senin nefret edildiğini duyacak. Ondan sonra seninle birlikte olanların hepsinin elleri güçlenecektir.” dedi."
+      },
+      {
+        "osis": "2Sam.16.22",
+        "chapter": 16,
+        "verse": 22,
+        "text": "Böylece Avşalom için evin damına bir çadır kurdular ve Avşalom bütün İsrael'in gözü önünde babasının cariyelerinin yanına girdi."
+      },
+      {
+        "osis": "2Sam.16.23",
+        "chapter": 16,
+        "verse": 23,
+        "text": "O günlerde Ahitofel'in verdiği öğüt, Tanrı tapınağının iç bölmesinde bir adamın sorması gibiydi. Ahitofel'in bütün öğütleri hem David'e hem de Avşalom'a böyleydi."
+      }
+    ],
+    "17": [
+      {
+        "osis": "2Sam.17.1",
+        "chapter": 17,
+        "verse": 1,
+        "text": "Dahası Ahitofel Avşalom'a, “Şimdi on iki bin adam seçeyim, kalkayım ve bu gece David'in peşine düşeyim” dedi."
+      },
+      {
+        "osis": "2Sam.17.2",
+        "chapter": 17,
+        "verse": 2,
+        "text": "“Yorgun ve bitkin bir haldeyken üzerine gelip onu korkutacağım. Yanındaki bütün halk kaçacak. Yalnız kralı vuracağım."
+      },
+      {
+        "osis": "2Sam.17.3",
+        "chapter": 17,
+        "verse": 3,
+        "text": "Bütün halkı sana geri getireceğim. Aradığın adam hepsinin geri dönmesi demektir. Bütün halk esenlikte olacak.”"
+      },
+      {
+        "osis": "2Sam.17.4",
+        "chapter": 17,
+        "verse": 4,
+        "text": "Bu söz Avşalom'un ve İsrael'in bütün ihtiyarlarının hoşuna gitti."
+      },
+      {
+        "osis": "2Sam.17.5",
+        "chapter": 17,
+        "verse": 5,
+        "text": "O zaman Avşalom, “Şimdi Arklı Huşay'ı da çağır, o ne diyor, aynı şekilde dinleyelim” dedi."
+      },
+      {
+        "osis": "2Sam.17.6",
+        "chapter": 17,
+        "verse": 6,
+        "text": "Huşay Avşalom'un yanına gelince, Avşalom ona, “Ahitofel böyle konuştu. Onun dediğini yapalım mı? Değilse, konuş.” dedi."
+      },
+      {
+        "osis": "2Sam.17.7",
+        "chapter": 17,
+        "verse": 7,
+        "text": "Huşay Avşalom'a, “Ahitofel'in bu kez verdiği öğüt iyi değil” dedi."
+      },
+      {
+        "osis": "2Sam.17.8",
+        "chapter": 17,
+        "verse": 8,
+        "text": "Dahası Huşay şöyle dedi: “Babanı ve adamlarını biliyorsun, onlar güçlü adamlardır ve kırda yavrularından edilen ayı gibi düşüncelerinde kızgındırlar. Baban bir savaş adamıdır ve halkla birlikte gecelemez."
+      },
+      {
+        "osis": "2Sam.17.9",
+        "chapter": 17,
+        "verse": 9,
+        "text": "İşte, şimdi bir çukurda ya da başka bir yerde saklanıyordur. İlk önce onlardan bazıları düşünce, bunu duyan herkes, ‘Avşalom’u izleyen halk arasında kıyım var!’ diyecek."
+      },
+      {
+        "osis": "2Sam.17.10",
+        "chapter": 17,
+        "verse": 10,
+        "text": "Yüreği aslan yüreği gibi olan yiğit bile tamamen eriyecek; çünkü bütün İsrael, babanın güçlü bir adam olduğunu ve onunla birlikte olanların yiğit adamlar olduğunu biliyor."
+      },
+      {
+        "osis": "2Sam.17.11",
+        "chapter": 17,
+        "verse": 11,
+        "text": "Ama ben, bütün İsrael’in, Dan’dan Beerşeva’ya kadar, kalabalıkta deniz kıyısındaki kum gibi, senin yanında toplanmasını ve kendin olarak savaşa gitmeni öğütlüyorum."
+      },
+      {
+        "osis": "2Sam.17.12",
+        "chapter": 17,
+        "verse": 12,
+        "text": "Bu yüzden onu bulunacağı bir yerde üzerine gideceğiz ve yere çiy düşer gibi onun üzerine düşeceğiz; o zaman onu ve kendisiyle birlikte olan adamların hepsinden tek bir kişi bile bırakmayacağız."
+      },
+      {
+        "osis": "2Sam.17.13",
+        "chapter": 17,
+        "verse": 13,
+        "text": "Dahası bir kente girmişse, o zaman bütün İsraelliler o kente ipler getirecek, orada tek bir küçük taş bile bulunmayıncaya dek onu nehre çekeriz.”"
+      },
+      {
+        "osis": "2Sam.17.14",
+        "chapter": 17,
+        "verse": 14,
+        "text": "Avşalom ve bütün İsraelliler, “Arklı Huşay’ın öğüdü Ahitofel’in öğüdünden daha iyidir” dediler. Çünkü Yahve Avşalom’un üzerine kötülük getirsin diye Ahitofel’in iyi öğüdünü boşa çıkarmayı Yahve kararlaştırmıştı."
+      },
+      {
+        "osis": "2Sam.17.15",
+        "chapter": 17,
+        "verse": 15,
+        "text": "Sonra Huşay, Sadok ve Aviyatar kâhinlere, “Ahitofel, Avşalom’a ve İsrael ihtiyarlarına bu şekilde öğüt verdi; ben de bu şekilde öğüt verdim” dedi."
+      },
+      {
+        "osis": "2Sam.17.16",
+        "chapter": 17,
+        "verse": 16,
+        "text": "“Şimdi hemen gönderin, David'e söyleyin, 'Bu gece çölün geçitlerinde gecelemeyin, ama kesinlikle geçin, yoksa kral ve onunla birlikte olan bütün halk yutulur.'”"
+      },
+      {
+        "osis": "2Sam.17.17",
+        "chapter": 17,
+        "verse": 17,
+        "text": "Yonatan ve Ahimaas En Rogel'de kalıyorlardı; ve bir hizmetçi kız gidip onlara haber veriyordu; onlar da gidip Kral David'e haber veriyorlardı; çünkü kente girerken görülme riskine giremezlerdi."
+      },
+      {
+        "osis": "2Sam.17.18",
+        "chapter": 17,
+        "verse": 18,
+        "text": "Ama bir çocuk onları gördü ve Avşalom'a bildirdi. Sonra ikisi de hemen gittiler ve Bahurim'de avlusunda bir kuyu olan bir adamın evine geldiler; ve onun içine indiler."
+      },
+      {
+        "osis": "2Sam.17.19",
+        "chapter": 17,
+        "verse": 19,
+        "text": "Kadın alıp kuyunun ağzını örttü ve üzerine bulgur serdi; ve hiçbir şey bilinmedi."
+      },
+      {
+        "osis": "2Sam.17.20",
+        "chapter": 17,
+        "verse": 20,
+        "text": "Avşalom'un hizmetkârları kadının evine geldiler; “Ahimaas ve Yonatan nerede?” dediler. Kadın onlara, “Irmağın üzerinden geçtiler” dedi. Arayıp onları bulamayınca Yeruşalem'e döndüler."
+      },
+      {
+        "osis": "2Sam.17.21",
+        "chapter": 17,
+        "verse": 21,
+        "text": "Onlar ayrıldıktan sonra kuyudan çıktılar ve gidip Kral David'e bildirdiler. David'e, “Kalkın, hemen suyun üzerinden geçin; çünkü Ahitofel sana karşı böyle öğüt verdi” dediler."
+      },
+      {
+        "osis": "2Sam.17.22",
+        "chapter": 17,
+        "verse": 22,
+        "text": "David ve onunla birlikte olan bütün halk kalkıp Yarden'i geçtiler. Sabah ışığına kadar onlardan Yarden'i geçmemiş olan bir kişi bile kalmadı."
+      },
+      {
+        "osis": "2Sam.17.23",
+        "chapter": 17,
+        "verse": 23,
+        "text": "Ahitofel, öğüdünün tutulmadığını görünce eşeğine eyer vurdu, kalktı, kentine gitti, evini düzene koydu, kendini astı ve öldü, babasının mezarına gömüldü."
+      },
+      {
+        "osis": "2Sam.17.24",
+        "chapter": 17,
+        "verse": 24,
+        "text": "David Mahanaim'e geldi. Avşalom, kendisi ve yanındaki bütün İsrael adamları Yarden'i geçti."
+      },
+      {
+        "osis": "2Sam.17.25",
+        "chapter": 17,
+        "verse": 25,
+        "text": "Avşalom, Yoav'ın yerine ordunun başına Amasa'yı koydu. Amasa, İsraelli İtra adında bir adamın oğluydu ve o Yoav'ın annesi Seruya'nın kız kardeşi olan Nahaş'ın kızı Abigail'in yanına girdi."
+      },
+      {
+        "osis": "2Sam.17.26",
+        "chapter": 17,
+        "verse": 26,
+        "text": "İsraelliler ve Avşalom Gilad ülkesinde ordugâh kurdular."
+      },
+      {
+        "osis": "2Sam.17.27",
+        "chapter": 17,
+        "verse": 27,
+        "text": "David Mahanayim'e gelince, Ammon'un çocuklarının Rabbalı Nahaş'ın oğlu Şovi, Lodevarlı Ammiel'in oğlu Makir ve Rogelim'den Giladlı Barzillay,"
+      },
+      {
+        "osis": "2Sam.17.28",
+        "chapter": 17,
+        "verse": 28,
+        "text": "yataklar, leğenler, toprak kaplar ve David ve yanındaki halk yesin diye buğday, arpa, un, kavrulmuş tahıl, bakla, mercimek, kavrulmuş nohut,"
+      },
+      {
+        "osis": "2Sam.17.29",
+        "chapter": 17,
+        "verse": 29,
+        "text": "bal, tereyağı, koyunlar ve inek peyniri getirdiler. Çünkü halk çölde aç, yorgun ve susuz dediler."
+      }
+    ],
+    "18": [
+      {
+        "osis": "2Sam.18.1",
+        "chapter": 18,
+        "verse": 1,
+        "text": "David, yanında olan halkı saydı ve üzerlerine binbaşılar ve yüzbaşılar koydu."
+      },
+      {
+        "osis": "2Sam.18.2",
+        "chapter": 18,
+        "verse": 2,
+        "text": "David, halkı, üçte biri Yoav'ın eli altında, üçte biri Yoav'ın kardeşi Seruya oğlu Avişay'ın eli altında, üçte biri de Gatlı İttay'ın eli altında olarak gönderdi. Kral halka, “Ben de mutlaka sizinle birlikte çıkacağım” dedi."
+      },
+      {
+        "osis": "2Sam.18.3",
+        "chapter": 18,
+        "verse": 3,
+        "text": "“Ama halk, “Çıkmayacaksın, çünkü biz kaçarsak bize aldırmazlar, yarımız ölse bile bize aldırmazlar” dedi. Ama sen on binimizin değerindesin. Bu nedenle şimdi kentten bize yardım etmeye hazır olman daha iyi olur.”"
+      },
+      {
+        "osis": "2Sam.18.4",
+        "chapter": 18,
+        "verse": 4,
+        "text": "Kral onlara, “Size en iyi geleni yapacağım” dedi. Kral kapının yanında durdu ve bütün halk yüzlerle ve binlerle çıktı."
+      },
+      {
+        "osis": "2Sam.18.5",
+        "chapter": 18,
+        "verse": 5,
+        "text": "Kral, Yoav, Avişay ve İttay'a, “Genç Avşalom'a karşı benim hatırım için yumuşak davranın” diye buyurdu. Kral Avşalom hakkında komutanların hepsine buyruk verirken bütün halk duydu."
+      },
+      {
+        "osis": "2Sam.18.6",
+        "chapter": 18,
+        "verse": 6,
+        "text": "Böylece halk İsrael'e karşı kıra çıktı; ve savaş Efraim ormanındaydı."
+      },
+      {
+        "osis": "2Sam.18.7",
+        "chapter": 18,
+        "verse": 7,
+        "text": "İsrael halkı orada David'in hizmetkârlarının önünde vuruldu ve o gün orada yirmi bin kişilik büyük bir kıyım oldu."
+      },
+      {
+        "osis": "2Sam.18.8",
+        "chapter": 18,
+        "verse": 8,
+        "text": "Çünkü savaş bütün ülkenin üzerine yayıldı ve orman o gün kılıcın yiyip bitirdiğinden daha fazla insanı yiyip bitirdi."
+      },
+      {
+        "osis": "2Sam.18.9",
+        "chapter": 18,
+        "verse": 9,
+        "text": "Avşalom David'in hizmetkârlarına rastgeldi. Avşalom katırına binmişti ve katır büyük bir meşe ağacının sık dallarının altından gitti; Avşalom'un başı meşe ağacına takıldı ve gök ile yer arasında asılı kaldı; ve altındaki katır yoluna devam etti."
+      },
+      {
+        "osis": "2Sam.18.10",
+        "chapter": 18,
+        "verse": 10,
+        "text": "Bunu bir adam gördü ve Yoav'a bildirdi ve, “Bak, Avşalom'u bir meşe ağacına asılı gördüm” dedi."
+      },
+      {
+        "osis": "2Sam.18.11",
+        "chapter": 18,
+        "verse": 11,
+        "text": "Yoav, kendisine bildiren adama, “İşte, gördün de, neden onu orada yere sermedin? Sana on gümüş ve bir kemer verirdim.” dedi."
+      },
+      {
+        "osis": "2Sam.18.12",
+        "chapter": 18,
+        "verse": 12,
+        "text": "Adam Yoav'a, “Elime bin gümüş bile geçse, kralın oğluna karşı elimi uzatmam” dedi. “Çünkü kral, bizim duyduğumuz gibi, sana, Avişay'a ve İttay'a, 'Genç Avşalom'a kimse dokunmasın” diye buyurdu."
+      },
+      {
+        "osis": "2Sam.18.13",
+        "chapter": 18,
+        "verse": 13,
+        "text": "Yoksa, eğer onun canına karşı hileyle davranmış olsaydım (kraldan hiçbir şey gizli kalmaz), o zaman sen kendin bana karşı dururdun.”"
+      },
+      {
+        "osis": "2Sam.18.14",
+        "chapter": 18,
+        "verse": 14,
+        "text": "Yoav, “Seninle böyle bekleyemem” dedi. Eline üç ok aldı ve henüz meşe ağacının ortasında sağken Avşalom'un yüreğine sapladı."
+      },
+      {
+        "osis": "2Sam.18.15",
+        "chapter": 18,
+        "verse": 15,
+        "text": "Yoav'ın zırhını taşıyan on genç adam Avşalom'u kuşatıp vurdular ve onu öldürdüler."
+      },
+      {
+        "osis": "2Sam.18.16",
+        "chapter": 18,
+        "verse": 16,
+        "text": "Yoav boruyu çaldı ve halk İsrael'i kovalamaktan döndü; çünkü Yoav halkı geri tuttu."
+      },
+      {
+        "osis": "2Sam.18.17",
+        "chapter": 18,
+        "verse": 17,
+        "text": "Avşalom'u alıp ormandaki büyük bir çukura attılar ve üzerine çok büyük bir taş yığını yaptılar. Sonra bütün İsraelliler, her biri kendi çadırına kaçtı."
+      },
+      {
+        "osis": "2Sam.18.18",
+        "chapter": 18,
+        "verse": 18,
+        "text": "Avşalom daha sağken, kral vadisindeki sütunu almış ve kendisi için dikmişti; çünkü, “Adımı hatırlatacak bir oğlum yok” demişti. Sütuna kendi adını verdi. Bugüne dek Avşalom'un anıtı denilir."
+      },
+      {
+        "osis": "2Sam.18.19",
+        "chapter": 18,
+        "verse": 19,
+        "text": "O zaman Sadok oğlu Ahimaas, “Yahve'nin düşmanlarından onun öcünü nasıl aldığını koşup krala haber götüreyim” dedi."
+      },
+      {
+        "osis": "2Sam.18.20",
+        "chapter": 18,
+        "verse": 20,
+        "text": "Yoav ona, “Bugün haber götürmemelisin, ama başka bir gün haber götürmelisin” dedi. “Ama bugün haber götürmemelisin, çünkü kralın oğlu öldü.”"
+      },
+      {
+        "osis": "2Sam.18.21",
+        "chapter": 18,
+        "verse": 21,
+        "text": "Yoav Kuşlu’ya, “Git, krala gördüklerini anlat!” dedi. Kuşlu, Yoav’ın önünde eğildi ve koştu."
+      },
+      {
+        "osis": "2Sam.18.22",
+        "chapter": 18,
+        "verse": 22,
+        "text": "O zaman Sadok oğlu Ahimaas yine Yoav’a, “Ama ne olursa olsun, lütfen ben de Kuşlu’nun peşinden koşayım” dedi. Yoav, “Mademki, haberin karşılığında ödül almayacaksın, neden koşmak istiyorsun, oğlum?” dedi."
+      },
+      {
+        "osis": "2Sam.18.23",
+        "chapter": 18,
+        "verse": 23,
+        "text": "O, “Ama ne olursa olsun, koşacağım” dedi. O da ona, “Koş!” dedi. Sonra Ahimaas ova yolundan koştu ve Kuşlu'yu geçti."
+      },
+      {
+        "osis": "2Sam.18.24",
+        "chapter": 18,
+        "verse": 24,
+        "text": "David iki kapı arasında oturuyordu. Nöbetçi kapının damına, duvara çıktı, gözlerini kaldırıp baktı ve işte tek başına koşan bir adam gördü."
+      },
+      {
+        "osis": "2Sam.18.25",
+        "chapter": 18,
+        "verse": 25,
+        "text": "Nöbetçi bağırıp krala bildirdi. Kral, “Tek başınaysa ağzında haber var” dedi. Gittikçe yaklaştı."
+      },
+      {
+        "osis": "2Sam.18.26",
+        "chapter": 18,
+        "verse": 26,
+        "text": "Nöbetçi koşan başka bir adam gördü. Nöbetçi kapıcıya seslendi ve “İşte tek başına koşan bir adam!” dedi. Kral, “O da haber getiriyor” dedi."
+      },
+      {
+        "osis": "2Sam.18.27",
+        "chapter": 18,
+        "verse": 27,
+        "text": "Nöbetçi, “Sanırım birincisinin koşusu Sadok oğlu Ahimaas'ın koşusuna benziyor” dedi. Kral, “İyi bir adamdır ve iyi haberlerle gelir” dedi."
+      },
+      {
+        "osis": "2Sam.18.28",
+        "chapter": 18,
+        "verse": 28,
+        "text": "Ahimaas seslenip krala, “Her şey yolunda” dedi. Kralın önünde eğilip yüzüstü yere kapandı ve şöyle dedi: “Efendim krala karşı el kaldıran adamları teslim eden Tanrın Yahve yücelsin!”"
+      },
+      {
+        "osis": "2Sam.18.29",
+        "chapter": 18,
+        "verse": 29,
+        "text": "Kral, “Genç Avşalom iyi mi?” dedi. Ahimaas, “Yoav kralın hizmetkârını, beni gönderdiğinde büyük bir kargaşalık gördüm, ama ne olduğunu bilmiyorum” diye yanıtladı."
+      },
+      {
+        "osis": "2Sam.18.30",
+        "chapter": 18,
+        "verse": 30,
+        "text": "Kral, “Gel ve burada dur” dedi. Geldi ve durdu."
+      },
+      {
+        "osis": "2Sam.18.31",
+        "chapter": 18,
+        "verse": 31,
+        "text": "İşte Kuşlu geldi. Kuşlu, “Efendim kral için iyi haber, çünkü Yahve bugün sana karşı ayaklananların hepsinden öcünü aldı” dedi."
+      },
+      {
+        "osis": "2Sam.18.32",
+        "chapter": 18,
+        "verse": 32,
+        "text": "Kral Kuşlu’ya, “Genç Avşalom iyi mi?” dedi. Kuşlu, “Efendim kralın düşmanları ve sana kötülük yapmak için ayaklananların hepsi o genç adam gibi olsun” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.18.33",
+        "chapter": 18,
+        "verse": 33,
+        "text": "Kral çok sarsıldı ve kapının üstündeki odaya çıkıp ağladı. Giderken, “Oğlum Avşalom! Oğlum, oğlum Avşalom! Keşke senin yerine ben ölseydim, oğlum, oğlum ey Avşalom!” dedi."
+      }
+    ],
+    "19": [
+      {
+        "osis": "2Sam.19.1",
+        "chapter": 19,
+        "verse": 1,
+        "text": "Yoav'a, “İşte, kral Avşalom için ağlıyor ve yas tutuyor” diye bildirildi."
+      },
+      {
+        "osis": "2Sam.19.2",
+        "chapter": 19,
+        "verse": 2,
+        "text": "O günkü zafer, bütün halk arasında yasa döndü; çünkü halk o gün, “Kral oğlu için yas tutuyor” dendiğini duydu."
+      },
+      {
+        "osis": "2Sam.19.3",
+        "chapter": 19,
+        "verse": 3,
+        "text": "Savaştan kaçtığında utanan halk nasıl sessizce giderse, o gün halk da kente sessizce girdi."
+      },
+      {
+        "osis": "2Sam.19.4",
+        "chapter": 19,
+        "verse": 4,
+        "text": "Kral yüzünü örttü ve kral yüksek sesle, “Oğlum Avşalom, Avşalom, oğlum, oğlum!” diye bağırdı."
+      },
+      {
+        "osis": "2Sam.19.5",
+        "chapter": 19,
+        "verse": 5,
+        "text": "Yoav eve, kralın yanına geldi ve, “Bugün, hayatını, oğullarının ve kızlarının hayatlarını, karılarının hayatlarını ve cariyelerinin hayatlarını kurtaran bütün hizmetkârlarının yüzünü utandırdın;"
+      },
+      {
+        "osis": "2Sam.19.6",
+        "chapter": 19,
+        "verse": 6,
+        "text": "bununla senden nefret edenleri seviyor, seni sevenlerden nefret ediyorsun. Çünkü bugün, beylerin ve hizmetkârların senin için hiç olduklarını ilan etmiş oldun. Çünkü bugün anlıyorum ki, Avşalom yaşasaydı ve hepimiz bugün ölmüş olsaydık, o zaman bu seni daha memnun edecekti."
+      },
+      {
+        "osis": "2Sam.19.7",
+        "chapter": 19,
+        "verse": 7,
+        "text": "Şimdi kalk, dışarı çık ve hizmetkârlarını teselli etmek için konuş; çünkü Yahve aracılığıyla ant içerim ki, eğer dışarı çıkmazsan, bu gece seninle kimse kalmayacak. Bu, çocukluğundan bu yana başına gelen bütün kötülüklerden daha kötü olurdu.”"
+      },
+      {
+        "osis": "2Sam.19.8",
+        "chapter": 19,
+        "verse": 8,
+        "text": "Sonra kral kalkıp kapıda oturdu. Halka, “İşte, kral kapıda oturuyor” diye bildirildi. Bütün halk kralın önüne geldi. İsraelliler ise her biri çadırına kaçmıştı."
+      },
+      {
+        "osis": "2Sam.19.9",
+        "chapter": 19,
+        "verse": 9,
+        "text": "İsrael'in bütün oymaklarında bütün halk çekişip şöyle diyorlardı: “Kral bizi düşmanlarımızın elinden kurtardı, o bizi Filistliler'in elinden kurtardı; şimdi de Avşalom'un yüzünden ülkeden kaçtı."
+      },
+      {
+        "osis": "2Sam.19.10",
+        "chapter": 19,
+        "verse": 10,
+        "text": "Üzerimize meshettiğimiz Avşalom savaşta öldü. Öyleyse şimdi neden kralı geri getirmek için bir söz söylemiyorsunuz?”"
+      },
+      {
+        "osis": "2Sam.19.11",
+        "chapter": 19,
+        "verse": 11,
+        "text": "Kral David, kâhinler Sadok'a ve Aviyatar'a haber gönderip şöyle dedi: “Yahuda ihtiyarlarına söyleyin, 'Kendisini evine geri getirmek için bütün İsrael'in sözü krala ulaştığına göre, siz neden kralı evine geri getirmekte en sonuncusunuz?"
+      },
+      {
+        "osis": "2Sam.19.12",
+        "chapter": 19,
+        "verse": 12,
+        "text": "Siz kardeşlerimsiniz. Siz benim kemiğim ve etimsiniz. Öyleyse kralı geri getirmekte neden en sonuncu siz oldunuz?'"
+      },
+      {
+        "osis": "2Sam.19.13",
+        "chapter": 19,
+        "verse": 13,
+        "text": "Amasa'ya de ki, 'Sen benim kemiğim ve etim değil misin? Eğer sen benim önümde Yoav'ın yerine sürekli olarak ordunun komutanı olmazsan, Tanrı bana aynısını, daha da fazlasını yapsın.'”"
+      },
+      {
+        "osis": "2Sam.19.14",
+        "chapter": 19,
+        "verse": 14,
+        "text": "Yahuda'nın bütün adamlarının yüreğini tek bir adam gibi eğdi, öyle ki krala haber gönderip, “Sen ve bütün hizmetkârların geri dönün' dediler."
+      },
+      {
+        "osis": "2Sam.19.15",
+        "chapter": 19,
+        "verse": 15,
+        "text": "Böylece kral geri döndü ve Yarden'e geldi. Yahuda, kralı karşılamak, kralı Yarden'den geçirmek için Gilgal'a geldi."
+      },
+      {
+        "osis": "2Sam.19.16",
+        "chapter": 19,
+        "verse": 16,
+        "text": "Bahurim'den Benyaminli Gera oğlu Şimei aceleyle Yahudalılar'la birlikte Kral David'i karşılamaya indi."
+      },
+      {
+        "osis": "2Sam.19.17",
+        "chapter": 19,
+        "verse": 17,
+        "text": "Onunla birlikte Benyaminli bin kişi, Saul'un evinin hizmetkârı Siva, onun on beş oğlu ve onun yirmi hizmetkârı vardı. Kralın önünde Yarden'den geçtiler."
+      },
+      {
+        "osis": "2Sam.19.18",
+        "chapter": 19,
+        "verse": 18,
+        "text": "Kralın ev halkını geçirmek ve onun iyi gördüğü şeyi yapmak için bir kayık gitti. Gera oğlu Şimei, kral Yarden'i geçince onun önünde yere kapandı."
+      },
+      {
+        "osis": "2Sam.19.19",
+        "chapter": 19,
+        "verse": 19,
+        "text": "Krala, “Efendim bana suç yüklemesin, ya da efendim kralın Yeruşalem'den çıktığı gün hizmetkârının yaptığı sapıklığı hatırlamasın, kral bunu yüreğine koymasın” dedi."
+      },
+      {
+        "osis": "2Sam.19.20",
+        "chapter": 19,
+        "verse": 20,
+        "text": "“Çünkü günah işledim, hizmetkârın biliyor. Bu yüzden işte, bugün Yosef'in bütün evinden ilk olarak efendim kralı karşılamaya ben geldim."
+      },
+      {
+        "osis": "2Sam.19.21",
+        "chapter": 19,
+        "verse": 21,
+        "text": "Ama Seruya oğlu Avişay, “Yahve'nin meshedilmişine lanet etmiş olan Şimei bunun için öldürülmesi gerekmez mi?” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.19.22",
+        "chapter": 19,
+        "verse": 22,
+        "text": "David, “Siz Seruya oğulları, benim sizinle ne işim var ki, bugün bana düşman olasınız? Bugün İsrael'de biri öldürülür mü? Çünkü bugün İsrael'in üzerine kral olduğumu ben bilmiyor muyum?” dedi."
+      },
+      {
+        "osis": "2Sam.19.23",
+        "chapter": 19,
+        "verse": 23,
+        "text": "Kral, Şimei'ye, “Ölmeyeceksin” dedi. Kral ona ant içti."
+      },
+      {
+        "osis": "2Sam.19.24",
+        "chapter": 19,
+        "verse": 24,
+        "text": "Saul oğlu Mefiboşet, kralı karşılamaya indi. Kral gittiği günden esenlik içinde eve döndüğü güne dek ne ayaklarına bakmış, ne sakalını düzeltmiş, ne de giysilerini yıkamıştı."
+      },
+      {
+        "osis": "2Sam.19.25",
+        "chapter": 19,
+        "verse": 25,
+        "text": "Kralı karşılamak için Yeruşalem'e geldiğinde, kral ona, “Mefiboşet, neden benimle gelmedin?” dedi."
+      },
+      {
+        "osis": "2Sam.19.26",
+        "chapter": 19,
+        "verse": 26,
+        "text": "O da şöyle yanıt verdi: “Efendim, ey kral, hizmetkârım beni aldattı. Çünkü hizmetkârın, ‘Kendim için bir eşeğe eyer vuracağım, ona bineceğim ve kralla gideceğim’ demiştim. Çünkü hizmetkârın topaldır."
+      },
+      {
+        "osis": "2Sam.19.27",
+        "chapter": 19,
+        "verse": 27,
+        "text": "Efendim krala hizmetkârın hakkında iftira etti, oysa efendim kral Tanrı’nın bir meleği gibidir. Bu nedenle gözünde iyi olanı yap."
+      },
+      {
+        "osis": "2Sam.19.28",
+        "chapter": 19,
+        "verse": 28,
+        "text": "Çünkü babamın bütün evi efendim kralın önünde ölü adamlardı. Yine de hizmetkârını kendi sofranda yemek yiyenlerin arasına koydun. Öyleyse krala daha fazla başvurmaya ne hakkım var?”"
+      },
+      {
+        "osis": "2Sam.19.29",
+        "chapter": 19,
+        "verse": 29,
+        "text": "Kral ona, “Neden artık meselelerinden bahsediyorsun? Diyorum ki, sen ve Siva ülkeyi paylaşacaksınız.” dedi."
+      },
+      {
+        "osis": "2Sam.19.30",
+        "chapter": 19,
+        "verse": 30,
+        "text": "Mefiboşet krala, “Evet, hepsini alsın, çünkü efendim kral kendi evine esenlik içinde geldi” dedi."
+      },
+      {
+        "osis": "2Sam.19.31",
+        "chapter": 19,
+        "verse": 31,
+        "text": "Giladlı Barzillay Rogelim'den indi ve kralla birlikte Yarden'den geçerek onu Yarden'den geçirdi."
+      },
+      {
+        "osis": "2Sam.19.32",
+        "chapter": 19,
+        "verse": 32,
+        "text": "Barzillay çok yaşlı bir adamdı, seksen yaşındaydı. Mahanaim'de kaldığında krala yiyecek sağlamıştı, çünkü çok büyük bir adamdı."
+      },
+      {
+        "osis": "2Sam.19.33",
+        "chapter": 19,
+        "verse": 33,
+        "text": "Kral Barzillay'a, “Benimle gel, ben de Yeruşalem'de seni yanımda beslerim” dedi."
+      },
+      {
+        "osis": "2Sam.19.34",
+        "chapter": 19,
+        "verse": 34,
+        "text": "Barzillay krala, “Hayatımın yıllarının kaç günü var ki, kralla birlikte Yeruşalem'e çıkayım?” dedi."
+      },
+      {
+        "osis": "2Sam.19.35",
+        "chapter": 19,
+        "verse": 35,
+        "text": "“Bugün seksen yaşındayım. İyiyle kötüyü ayırt edebilir miyim? Hizmetkârın yediğinin ya da içtiğinin tadını alabilir mi? Ezgi söyleyen erkeklerin ve kadınların sesini artık duyabilir miyim? Öyleyse hizmetkârın efendim kral için neden yük olsun?"
+      },
+      {
+        "osis": "2Sam.19.36",
+        "chapter": 19,
+        "verse": 36,
+        "text": "Hizmetkârın kralla birlikte Yarden'i geçecek. Kral bana neden böyle bir ödülle karşılık versin?"
+      },
+      {
+        "osis": "2Sam.19.37",
+        "chapter": 19,
+        "verse": 37,
+        "text": "Lütfen hizmetkârın geri dönsün de, kendi kentimde, babamın ve annemin mezarı yanında öleyim. Ama işte, hizmetkârın Kimham; efendim kralla o geçsin; ve sana iyi gelecek olanı ona yap.”"
+      },
+      {
+        "osis": "2Sam.19.38",
+        "chapter": 19,
+        "verse": 38,
+        "text": "Kral, “Kimham benimle birlikte geçecek, sana iyi gelen şeyi ona yapacağım. Benden ne dilersen senin için onu yapacağım.” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.19.39",
+        "chapter": 19,
+        "verse": 39,
+        "text": "Bütün halk Yarden'i geçti, kral da geçti. Sonra kral Barzillay’ı öptü ve onu kutsadı; sonra kendi yerine döndü."
+      },
+      {
+        "osis": "2Sam.19.40",
+        "chapter": 19,
+        "verse": 40,
+        "text": "Böylece kral Gilgal’e geçti, Kimham da onunla birlikte geçti. Yahuda halkının tümü ve İsrael halkının da yarısı kralı geçirdiler."
+      },
+      {
+        "osis": "2Sam.19.41",
+        "chapter": 19,
+        "verse": 41,
+        "text": "İşte, İsrael halkının tümü krala gelip, “Kardeşlerimiz Yahuda halkı seni neden kaçırdı ve kralı, ev halkını ve onunla birlikte bütün David'in adamlarını Yarden'den geçirdiler?” dediler."
+      },
+      {
+        "osis": "2Sam.19.42",
+        "chapter": 19,
+        "verse": 42,
+        "text": "Yahuda halkının tümü İsrael halkına, “Çünkü kral bize yakın akrabamızdır. Öyleyse neden bu konuda öfkeleniyorsunuz? Biz kralın hesabından hiç yemek yedik mi? Ya da bize bir armağan mı verdi?” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.19.43",
+        "chapter": 19,
+        "verse": 43,
+        "text": "İsraelliler Yahudalılar'a yanıt verip dediler: “Kralda on payımız var ve David’de sizden daha fazla hakkımız var. Öyleyse neden bizi hor gördünüz ki, kralımızı geri getirmek için önce bizim öğütlerimiz alınmadı?” Yahudalılar'ın sözleri İsraelliler'in sözlerinden daha sertti."
+      }
+    ],
+    "20": [
+      {
+        "osis": "2Sam.20.1",
+        "chapter": 20,
+        "verse": 1,
+        "text": "Orada Benyaminli Bikri oğlu Şeva adında kötü bir adam vardı. Boru çaldı ve şöyle dedi, “David’te payımız yoktur, Yişay oğlunda da mirasımız yoktur. Herkes çadırlarına, ey İsrael!”"
+      },
+      {
+        "osis": "2Sam.20.2",
+        "chapter": 20,
+        "verse": 2,
+        "text": "Böylece İsraelliler'in hepsi David’in peşinden ayrılıp Bikri oğlu Şeva’nın ardından gittiler; ama Yahudalılar Yarden’den Yeruşalem’e kadar krallarına katıldılar."
+      },
+      {
+        "osis": "2Sam.20.3",
+        "chapter": 20,
+        "verse": 3,
+        "text": "David Yeruşalem’deki evine geldi; ve kral cariyeleri olan ve evi bakmak için bıraktığı on kadını aldı, onları gözaltında tuttu ve onlara yiyecek sağladı, ama onların yanına girmedi. Böylece dul yaşayarak ölüm günlerine kadar kapalı kaldılar."
+      },
+      {
+        "osis": "2Sam.20.4",
+        "chapter": 20,
+        "verse": 4,
+        "text": "Sonra kral Amasa’ya, “Üç gün içinde Yahudalıları bana çağır ve burada hazır ol” dedi."
+      },
+      {
+        "osis": "2Sam.20.5",
+        "chapter": 20,
+        "verse": 5,
+        "text": "Bunun üzerine Amasa Yahudalılar'ı çağırmaya gitti, ama kendisine tayin edilmiş olan zamandan daha uzun kaldı."
+      },
+      {
+        "osis": "2Sam.20.6",
+        "chapter": 20,
+        "verse": 6,
+        "text": "David Avişay'a, “Şimdi Bikri oğlu Şeva bize Avşalom'dan daha çok kötülük yapacak. Efendinin hizmetkârlarını al ve onu kovala, yoksa surlu kentler bulur ve gözümüzün önünden kaçar.” dedi."
+      },
+      {
+        "osis": "2Sam.20.7",
+        "chapter": 20,
+        "verse": 7,
+        "text": "Yoav'ın adamları Keretililer, Peletliler ve bütün yiğitlerle birlikte onun peşinden gittiler; ve Bikri oğlu Şeva'yı kovalamak için Yeruşalem'den çıktılar."
+      },
+      {
+        "osis": "2Sam.20.8",
+        "chapter": 20,
+        "verse": 8,
+        "text": "Givon'daki büyük taşın yanındayken Amasa onları karşılamaya geldi. Yoav savaş giysilerini giymişti ve onun üzerinde, belinde kınında bir kılıç bulunan bir kemer vardı; ve yürürken kılıç düştü."
+      },
+      {
+        "osis": "2Sam.20.9",
+        "chapter": 20,
+        "verse": 9,
+        "text": "Yoav Amasa'ya, “İyi misin, kardeşim?” diye sordu. Yoav, Amasa'yı öpmek için sağ eliyle sakalından tuttu."
+      },
+      {
+        "osis": "2Sam.20.10",
+        "chapter": 20,
+        "verse": 10,
+        "text": "Amasa, Yoav'ın elindeki kılıca aldırmadı. Böylece Yoav onu bedeninden vurdu ve bağırsaklarını yere döktü, bir daha vurmadı ve öldü. Yoav ve kardeşi Avişay, Bikri oğlu Şeva'yı kovaladılar."
+      },
+      {
+        "osis": "2Sam.20.11",
+        "chapter": 20,
+        "verse": 11,
+        "text": "Yoav'ın gençlerinden biri onun yanında durdu ve, “Kim Yoav'ı kayırıyorsa ve David'ten yanaysa, Yoav'ı izlesin!” dedi."
+      },
+      {
+        "osis": "2Sam.20.12",
+        "chapter": 20,
+        "verse": 12,
+        "text": "Amasa, kanı içinde yuvarlanmış ana yolun ortasında yatıyordu. Adam, bütün halkın durduğunu görünce, Amasa'yı ana yoldan kıra taşıdı ve yanından geçen herkesin durduğunu görünce, üzerine bir giysi attı."
+      },
+      {
+        "osis": "2Sam.20.13",
+        "chapter": 20,
+        "verse": 13,
+        "text": "Amasa yoldan kaldırılınca, bütün halk Bikri oğlu Şeva'yı kovalamak için Yoav'ın peşinden gitti."
+      },
+      {
+        "osis": "2Sam.20.14",
+        "chapter": 20,
+        "verse": 14,
+        "text": "İsrael'in bütün oymaklarından geçerek Abel'e, Beyt Maaka'ya ve bütün Berililer'e gitti. Toplanıp onlar da onun peşinden gittiler."
+      },
+      {
+        "osis": "2Sam.20.15",
+        "chapter": 20,
+        "verse": 15,
+        "text": "Gelip Beyt Maaka'daki Abel'de onu kuşattılar ve kente karşı yığın yaptılar ve sura dayandı; ve Yoav'la birlikte olan bütün halk onu yıkmak için duvarı dövdüler."
+      },
+      {
+        "osis": "2Sam.20.16",
+        "chapter": 20,
+        "verse": 16,
+        "text": "Sonra kentten bilge bir kadın bağırdı: “Dinleyin, dinleyin! Lütfen Yoav'a söyleyin, 'Yaklaşın da, onunla konuşayım.'”"
+      },
+      {
+        "osis": "2Sam.20.17",
+        "chapter": 20,
+        "verse": 17,
+        "text": "Kadına yaklaştı; ve kadın, “Sen Yoav mısın?” dedi. O, “Benim” diye yanıtladı. Sonra kadın ona, “Hizmetkârının sözlerini dinle” dedi. O, “Dinliyorum” diye yanıtladı."
+      },
+      {
+        "osis": "2Sam.20.18",
+        "chapter": 20,
+        "verse": 18,
+        "text": "Sonra konuşup dedi: “Eskiden, 'Avel'de mutlaka danışacaklar' derlerdi ve böylece bir meseleyi karara bağlarlardı."
+      },
+      {
+        "osis": "2Sam.20.19",
+        "chapter": 20,
+        "verse": 19,
+        "text": "Ben İsrael'de barışsever ve sadık olanlardanım. İsrael'de bir kenti ve bir anayı yıkmak istiyorsunuz. Neden Yahve'nin mirasını yutacaksınız?”"
+      },
+      {
+        "osis": "2Sam.20.20",
+        "chapter": 20,
+        "verse": 20,
+        "text": "Yoav, “Uzak olsun, benden uzak olsun, yutmam ya da yok etmem” diye yanıt verdi."
+      },
+      {
+        "osis": "2Sam.20.21",
+        "chapter": 20,
+        "verse": 21,
+        "text": "“Mesele öyle değil. Ama Efraim dağlık bölgesinden Bikri oğlu Şeva adında bir adam, krala, David'e karşı elini kaldırdı. Onu teslim edin, ben de kentten ayrılacağım.” Kadın, Yoav'a, “İşte, başı duvarın üzerinden sana atılacaktır” dedi."
+      },
+      {
+        "osis": "2Sam.20.22",
+        "chapter": 20,
+        "verse": 22,
+        "text": "Kadın bilgeliğiyle bütün halka gitti. Bikri oğlu Şeva'nın başını kesip Yoav'a attılar. Yoav boru çaldı ve kentten dağıldılar, herkes çadırına gitti. Sonra Yoav Yeruşalem'e, kralın yanına döndü."
+      },
+      {
+        "osis": "2Sam.20.23",
+        "chapter": 20,
+        "verse": 23,
+        "text": "Yoav bütün İsrael ordusunun başındaydı; Yehoyada oğlu Benaya Keretliler'in ve Peletliler'in başındaydı,"
+      },
+      {
+        "osis": "2Sam.20.24",
+        "chapter": 20,
+        "verse": 24,
+        "text": "Adoram angaryacıların başındaydı; Ahilud oğlu Yehoşafat kâtipti;"
+      },
+      {
+        "osis": "2Sam.20.25",
+        "chapter": 20,
+        "verse": 25,
+        "text": "Şeva yazıcıydı; Sadok ve Aviyatar kâhinlerdi;"
+      },
+      {
+        "osis": "2Sam.20.26",
+        "chapter": 20,
+        "verse": 26,
+        "text": "Yairli İra David'in baş hizmetkârıydı."
+      }
+    ],
+    "21": [
+      {
+        "osis": "2Sam.21.1",
+        "chapter": 21,
+        "verse": 1,
+        "text": "David'in günlerinde ardı ardına üç yıl kıtlık oldu. David Yahve'nin yüzünü aradı. Yahve, “Saul ve kanlı evi yüzünden, çünkü Givonlular'ı öldürdü” dedi."
+      },
+      {
+        "osis": "2Sam.21.2",
+        "chapter": 21,
+        "verse": 2,
+        "text": "Kral Givonlular'ı çağırdı ve onlara şöyle dedi: (Givonlular İsrael'in çocuklarından değil, Amorlular'ın kalıntısıydı ve İsrael'in çocukları onlara ant içmişti; Saul, İsrael ve Yahuda çocukları için duyduğu gayretten dolayı onları öldürmeye çalıştı);"
+      },
+      {
+        "osis": "2Sam.21.3",
+        "chapter": 21,
+        "verse": 3,
+        "text": "David Givonlular'a, “Sizin için ne yapayım? Ve Yahve'nin mirasını kutsamanız için neyle kefaret edeyim?” dedi."
+      },
+      {
+        "osis": "2Sam.21.4",
+        "chapter": 21,
+        "verse": 4,
+        "text": "Givonlular ona, “Bizimle Saul ve evi arasında gümüş ya da altın meselesi yok; İsrael'de hiç kimseyi öldürmek de bize düşmez” dediler. David, “Siz ne derseniz onu yapacağım” dedi."
+      },
+      {
+        "osis": "2Sam.21.5",
+        "chapter": 21,
+        "verse": 5,
+        "text": "Krala, “Bizi tüketen, İsrael'in sınırlarının hiçbirinde kalmayalım diye bize düzen kuran adamın,"
+      },
+      {
+        "osis": "2Sam.21.6",
+        "chapter": 21,
+        "verse": 6,
+        "text": "oğullarından yedisi bize teslim edilsin, onları Yahve'nin seçtiği Saul'un Givası'nda Yahve'ye asalım” dediler. Kral, “Onları vereceğim” dedi."
+      },
+      {
+        "osis": "2Sam.21.7",
+        "chapter": 21,
+        "verse": 7,
+        "text": "Ancak kral, David'le Saul'un oğlu Yonatan arasındaki, kendileri arasındaki Yahve'nin andı yüzünden, Saul'un oğlu Yonatan'ın oğlu Mefiboşet'i esirgedi."
+      },
+      {
+        "osis": "2Sam.21.8",
+        "chapter": 21,
+        "verse": 8,
+        "text": "Ama kral, Saul'a doğurduğu Aya'nın kızı Rispa'nın iki oğlunu, Armoni ve Mefiboşet'i ve Saul'un kızı Merav'ın, Meholalı Barzillay'ın oğlu Adriel'e doğurduğu beş oğlunu aldı."
+      },
+      {
+        "osis": "2Sam.21.9",
+        "chapter": 21,
+        "verse": 9,
+        "text": "Onları Givonlular'ın eline teslim etti; onlar da onları Yahve'nin önünde dağda astılar, yedisi de birlikte düştüler. Hasat günlerinde, ilk günlerde, arpa hasadının başlangıcında öldürüldüler."
+      },
+      {
+        "osis": "2Sam.21.10",
+        "chapter": 21,
+        "verse": 10,
+        "text": "Aya'nın kızı Rispa, hasadın başlangıcından gökten üzerlerine su dökülünceye kadar kendisi için bir çul alıp kayanın üzerine serdi. Gündüzleri gökteki kuşların, geceleri de kırdaki hayvanların üzerlerinde durmasına izin vermedi."
+      },
+      {
+        "osis": "2Sam.21.11",
+        "chapter": 21,
+        "verse": 11,
+        "text": "Saul'un cariyesi Aya'nın kızı Rispa'nın yaptıkları David'e bildirildi."
+      },
+      {
+        "osis": "2Sam.21.12",
+        "chapter": 21,
+        "verse": 12,
+        "text": "Bunun üzerine David gidip Saul'un kemiklerini ve oğlu Yonatan'ın kemiklerini, Filistliler'in Saul'u Gilboa'da öldürdükleri gün Filistliler'in onları asmış oldukları Beyt Şan sokağından çalmış olan Yaveş Giladlılar'dan aldı;"
+      },
+      {
+        "osis": "2Sam.21.13",
+        "chapter": 21,
+        "verse": 13,
+        "text": "ve David oradan Saul'un kemiklerini ve oğlu Yonatan'ın kemiklerini çıkardı. Asılmış olanların kemiklerini de topladılar."
+      },
+      {
+        "osis": "2Sam.21.14",
+        "chapter": 21,
+        "verse": 14,
+        "text": "Saul ve oğlu Yonatan'ın kemiklerini Benyamin ülkesindeki Sela'da, babası Kiş'in mezarına gömdüler; ve kralın buyurduğu her şeyi yaptılar. Bundan sonra Tanrı, ülke için olan duayı yanıtladı."
+      },
+      {
+        "osis": "2Sam.21.15",
+        "chapter": 21,
+        "verse": 15,
+        "text": "Filistliler'in yine İsrael'le savaşı oldu; ve David, hizmetkârlarıyla birlikte aşağı inip Filistliler'e karşı savaştı. David bitkin düştü;"
+      },
+      {
+        "osis": "2Sam.21.16",
+        "chapter": 21,
+        "verse": 16,
+        "text": "ve dev oğullarından olan ve mızrağının ağırlığı üç yüz şekel tunç olan İşbibenov, yeni bir kılıç kuşanmış olarak David'i öldüreyim diye düşündü."
+      },
+      {
+        "osis": "2Sam.21.17",
+        "chapter": 21,
+        "verse": 17,
+        "text": "Ama Seruya'nın oğlu Avişay ona yardım etti ve Filistli'yi vurup öldürdü. Sonra David'in adamları ona ant içerek, “Bir daha bizimle savaşa çıkma ki, İsrael'in kandilini söndürmeyesin” dediler."
+      },
+      {
+        "osis": "2Sam.21.18",
+        "chapter": 21,
+        "verse": 18,
+        "text": "Bundan sonra Filistliler'le Gov'da yine savaş çıktı. Sonra Huşalı Sibbekay, dev oğullarından Saf'ı öldürdü."
+      },
+      {
+        "osis": "2Sam.21.19",
+        "chapter": 21,
+        "verse": 19,
+        "text": "Gov'da Filistliler ile yine savaş çıktı. Beytlehemli Yaare Oregim oğlu Elhanan, Gatlı Golyat'ın kardeşini öldürdü. Golyat'ın mızrağının değneği dokumacı kirişi gibiydi."
+      },
+      {
+        "osis": "2Sam.21.20",
+        "chapter": 21,
+        "verse": 20,
+        "text": "Gat'ta yine savaş çıktı, orada iri yapılı bir adam vardı, her elinde altı parmağı, her ayağında altı parmağı vardı; sayıda yirmi dört parmağı vardı, o da deve doğmuştu."
+      },
+      {
+        "osis": "2Sam.21.21",
+        "chapter": 21,
+        "verse": 21,
+        "text": "İsrael'e meydan okuyunca, David'in kardeşi Şimei'nin oğlu Yonatan onu öldürdü."
+      },
+      {
+        "osis": "2Sam.21.22",
+        "chapter": 21,
+        "verse": 22,
+        "text": "Bu dördü Gat'ta deve doğmuştu; David'in ve hizmetkârlarının eliyle düştüler."
+      }
+    ],
+    "22": [
+      {
+        "osis": "2Sam.22.1",
+        "chapter": 22,
+        "verse": 1,
+        "text": "David, Yahve'nin onu bütün düşmanlarının elinden ve Saul'un elinden kurtardığı gün, Yahve'ye bu ezginin sözlerini söyledi."
+      },
+      {
+        "osis": "2Sam.22.2",
+        "chapter": 22,
+        "verse": 2,
+        "text": "Ve şöyle dedi: “Yahve benim kayam, kalem, evet, kurtarıcımdır."
+      },
+      {
+        "osis": "2Sam.22.3",
+        "chapter": 22,
+        "verse": 3,
+        "text": "Tanrı kayamdır, O'na sığınırım; kalkanım, kurtuluşumun boynuzu, yüksek kulem ve sığınağımdır. Kurtarıcım, beni zorbalıktan sen kurtarırsın."
+      },
+      {
+        "osis": "2Sam.22.4",
+        "chapter": 22,
+        "verse": 4,
+        "text": "Övgüye layık olan Yahve'yi çağırıyorum; böylece düşmanlarımdan kurtulacağım."
+      },
+      {
+        "osis": "2Sam.22.5",
+        "chapter": 22,
+        "verse": 5,
+        "text": "Çünkü ölüm dalgaları beni kuşattı. Tanrısızlığın selleri beni korkuttu."
+      },
+      {
+        "osis": "2Sam.22.6",
+        "chapter": 22,
+        "verse": 6,
+        "text": "Şeol'ün ipleri çevremi sardı. Ölüm tuzakları beni yakaladı."
+      },
+      {
+        "osis": "2Sam.22.7",
+        "chapter": 22,
+        "verse": 7,
+        "text": "Sıkıntıda Yahve'yi çağırdım. Evet, Tanrım'ı çağırdım. Tapınağından sesimi duydu. Feryadım O'nun kulaklarına ulaştı."
+      },
+      {
+        "osis": "2Sam.22.8",
+        "chapter": 22,
+        "verse": 8,
+        "text": "Sonra yeryüzü sarsıldı ve titredi. Göğün temelleri oynadı ve sarsıldı, çünkü O öfkelenmişti."
+      },
+      {
+        "osis": "2Sam.22.9",
+        "chapter": 22,
+        "verse": 9,
+        "text": "Burnundan duman yükseldi. Ağzından yiyip bitiren ateş çıktı. Bundan közler tutuştu."
+      },
+      {
+        "osis": "2Sam.22.10",
+        "chapter": 22,
+        "verse": 10,
+        "text": "Gökleri de eğip aşağıya indi. Ayaklarının altı koyu karanlıktı."
+      },
+      {
+        "osis": "2Sam.22.11",
+        "chapter": 22,
+        "verse": 11,
+        "text": "Bir Keruv'a binip uçtu. Evet, rüzgârın kanatları üzerinde göründü."
+      },
+      {
+        "osis": "2Sam.22.12",
+        "chapter": 22,
+        "verse": 12,
+        "text": "Karanlığı, göklerin koyu bulutlarını, suların toplanmasını, kendi çevresinde sığınak yaptı."
+      },
+      {
+        "osis": "2Sam.22.13",
+        "chapter": 22,
+        "verse": 13,
+        "text": "Önündeki parlaklıkta, ateş közleri tutuştular."
+      },
+      {
+        "osis": "2Sam.22.14",
+        "chapter": 22,
+        "verse": 14,
+        "text": "Yahve göklerden gürledi. En Yüce Olan sesini duyurdu."
+      },
+      {
+        "osis": "2Sam.22.15",
+        "chapter": 22,
+        "verse": 15,
+        "text": "Oklar gönderip onları dağıttı, şimşek çaktırıp onları şaşkına çevirdi."
+      },
+      {
+        "osis": "2Sam.22.16",
+        "chapter": 22,
+        "verse": 16,
+        "text": "Sonra denizin kanalları göründü. Dünyanın temelleri, Yahve'nin azarlamasıyla, burun soluğunun şiddetinde açığa çıktı."
+      },
+      {
+        "osis": "2Sam.22.17",
+        "chapter": 22,
+        "verse": 17,
+        "text": "Yukarıdan gönderip beni aldı, beni çok sulardan çıkardı."
+      },
+      {
+        "osis": "2Sam.22.18",
+        "chapter": 22,
+        "verse": 18,
+        "text": "Beni güçlü düşmanımdan, benden nefret edenlerden kurtardı, çünkü onlar benden çok güçlüydüler."
+      },
+      {
+        "osis": "2Sam.22.19",
+        "chapter": 22,
+        "verse": 19,
+        "text": "Felaket günümde üzerime geldiler, ama Yahve bana destek oldu."
+      },
+      {
+        "osis": "2Sam.22.20",
+        "chapter": 22,
+        "verse": 20,
+        "text": "Beni geniş bir yere çıkardı. Beni kurtardı, çünkü benden hoşnut oldu."
+      },
+      {
+        "osis": "2Sam.22.21",
+        "chapter": 22,
+        "verse": 21,
+        "text": "Yahve doğruluğuma göre beni ödüllendirdi, ellerimin temizliğine göre bana karşılık verdi."
+      },
+      {
+        "osis": "2Sam.22.22",
+        "chapter": 22,
+        "verse": 22,
+        "text": "Çünkü Yahve'nin yollarını tuttum, kötülükle de Tanrım'dan ayrılmadım."
+      },
+      {
+        "osis": "2Sam.22.23",
+        "chapter": 22,
+        "verse": 23,
+        "text": "Çünkü bütün kuralları önümdeydi, ilkelerine gelince, onlardan ayrılmadım."
+      },
+      {
+        "osis": "2Sam.22.24",
+        "chapter": 22,
+        "verse": 24,
+        "text": "Ben de ona karşı kusursuzdum. Kötülüğümden kendimi alıkoydum."
+      },
+      {
+        "osis": "2Sam.22.25",
+        "chapter": 22,
+        "verse": 25,
+        "text": "Bu yüzden Yahve doğruluğuma göre, gözündeki temizliğime göre beni ödüllendirdi."
+      },
+      {
+        "osis": "2Sam.22.26",
+        "chapter": 22,
+        "verse": 26,
+        "text": "Merhametli olana kendini merhametli göstereceksin. Kusursuz insana kendini kusursuz göstereceksin."
+      },
+      {
+        "osis": "2Sam.22.27",
+        "chapter": 22,
+        "verse": 27,
+        "text": "Pak olana kendini pak olarak göstereceksin. Eğri olana kendini sert olarak göstereceksin."
+      },
+      {
+        "osis": "2Sam.22.28",
+        "chapter": 22,
+        "verse": 28,
+        "text": "Ezilenleri kurtaracaksın, ama gözlerin onları alçaltmak için kibirlilerin üzerindedir."
+      },
+      {
+        "osis": "2Sam.22.29",
+        "chapter": 22,
+        "verse": 29,
+        "text": "Çünkü sen benim kandilimsin, ey Yahve. Benim karanlığımı Yahve aydınlatacaktır."
+      },
+      {
+        "osis": "2Sam.22.30",
+        "chapter": 22,
+        "verse": 30,
+        "text": "Çünkü seninle askerlere karşı koşarım. Tanrım'la suru aşarım."
+      },
+      {
+        "osis": "2Sam.22.31",
+        "chapter": 22,
+        "verse": 31,
+        "text": "Tanrı'ya gelince, O'nun yolu kusursuzdur. Yahve'nin sözü sınanmıştır. O kendisine sığınanların hepsine kalkandır."
+      },
+      {
+        "osis": "2Sam.22.32",
+        "chapter": 22,
+        "verse": 32,
+        "text": "Çünkü Yahve dışında Tanrı kimdir? Tanrımız'ın dışında kaya kimdir?"
+      },
+      {
+        "osis": "2Sam.22.33",
+        "chapter": 22,
+        "verse": 33,
+        "text": "Tanrı benim güçlü kalemdir. Yolumu kusursuz kılar."
+      },
+      {
+        "osis": "2Sam.22.34",
+        "chapter": 22,
+        "verse": 34,
+        "text": "Onun ayaklarını geyik ayakları gibi yapar, beni yüksek yerlerime yerleştirir."
+      },
+      {
+        "osis": "2Sam.22.35",
+        "chapter": 22,
+        "verse": 35,
+        "text": "Ellerime savaşmayı öğretir, kollarımla tunç bir yayı gereyim diye."
+      },
+      {
+        "osis": "2Sam.22.36",
+        "chapter": 22,
+        "verse": 36,
+        "text": "Kurtarışının kalkanını da bana verdin. Yumuşaklığın beni büyük yaptı."
+      },
+      {
+        "osis": "2Sam.22.37",
+        "chapter": 22,
+        "verse": 37,
+        "text": "Adımlarımı altımda genişlettin. Ayaklarım kaymadı."
+      },
+      {
+        "osis": "2Sam.22.38",
+        "chapter": 22,
+        "verse": 38,
+        "text": "Düşmanlarımı kovaladım ve onları yok ettim. Onlar tükenmeden geri dönmedim."
+      },
+      {
+        "osis": "2Sam.22.39",
+        "chapter": 22,
+        "verse": 39,
+        "text": "Onları tükettim ve vurdum, artık kalkamazlar. Evet, ayaklarımın altına düştüler."
+      },
+      {
+        "osis": "2Sam.22.40",
+        "chapter": 22,
+        "verse": 40,
+        "text": "Çünkü savaş için beni güçle donattın. Bana karşı kalkanları altımda boyun eğdirdin."
+      },
+      {
+        "osis": "2Sam.22.41",
+        "chapter": 22,
+        "verse": 41,
+        "text": "Düşmanlarımın sırtını da bana çevirttin, benden nefret edenleri yok edeyim diye."
+      },
+      {
+        "osis": "2Sam.22.42",
+        "chapter": 22,
+        "verse": 42,
+        "text": "Onlar baktılar, ama kurtaracak kimse yoktu; Yahve'ye baktılar, ama onlara yanıt vermedi."
+      },
+      {
+        "osis": "2Sam.22.43",
+        "chapter": 22,
+        "verse": 43,
+        "text": "O zaman onları yerin tozu gibi dövdüm, onları sokakların çamuru gibi ezdim ve dağıttım."
+      },
+      {
+        "osis": "2Sam.22.44",
+        "chapter": 22,
+        "verse": 44,
+        "text": "Halkımın çekişmelerinden beni kurtardın. ulusların başı olmam için beni korudun. Bilmediğim bir halk bana hizmet edecek."
+      },
+      {
+        "osis": "2Sam.22.45",
+        "chapter": 22,
+        "verse": 45,
+        "text": "Yabancılar bana boyun eğecekler. Benim hakkımda duyar duymaz bana itaat edecekler."
+      },
+      {
+        "osis": "2Sam.22.46",
+        "chapter": 22,
+        "verse": 46,
+        "text": "Yabancılar zayıflayacaklar, titreyerek kapalı yerlerinden çıkacaklar."
+      },
+      {
+        "osis": "2Sam.22.47",
+        "chapter": 22,
+        "verse": 47,
+        "text": "Yahve yaşıyor! Kayam yücelsin! Kurtuluşumun kayası, Tanrı yücelsin,"
+      },
+      {
+        "osis": "2Sam.22.48",
+        "chapter": 22,
+        "verse": 48,
+        "text": "O'dur öcümü alan, halkları bana tabi kılan,"
+      },
+      {
+        "osis": "2Sam.22.49",
+        "chapter": 22,
+        "verse": 49,
+        "text": "beni düşmanlarımdan uzaklaştıran Tanrı. Evet, bana karşı ayaklananların üzerine beni sen yükseltirsin. Beni zorba adamdan kurtarırsın."
+      },
+      {
+        "osis": "2Sam.22.50",
+        "chapter": 22,
+        "verse": 50,
+        "text": "Bu yüzden, ey Yahve, uluslar arasında sana şükredeceğim, adını ilahilerle öveceğim."
+      },
+      {
+        "osis": "2Sam.22.51",
+        "chapter": 22,
+        "verse": 51,
+        "text": "O, kralına büyük kurtuluş verir, meshedilmişine, David'e ve onun soyuna Sonsuza dek sevgi dolu iyiliğini gösterir.”"
+      }
+    ],
+    "23": [
+      {
+        "osis": "2Sam.23.1",
+        "chapter": 23,
+        "verse": 1,
+        "text": "Şimdi bunlar David'in son sözleridir. Yişay oğlu David, yükseğe çıkarılan adam, Yakov'un Tanrısı'nın meshedilmişi, İsrael'in tatlı mezmur yazarı şöyle diyor:"
+      },
+      {
+        "osis": "2Sam.23.2",
+        "chapter": 23,
+        "verse": 2,
+        "text": "“Yahve'nin Ruhu benim aracılığımla konuştu. O'nun sözü dilimdeydi."
+      },
+      {
+        "osis": "2Sam.23.3",
+        "chapter": 23,
+        "verse": 3,
+        "text": "İsrael'in Tanrısı dedi, İsrael'in Kayası bana konuştu, ‘İnsanların üzerinde adaletle hüküm süren, Tanrı korkusuyla hüküm süren,"
+      },
+      {
+        "osis": "2Sam.23.4",
+        "chapter": 23,
+        "verse": 4,
+        "text": "Bulutsuz bir sabah gibi, güneşin doğduğu zamanki sabah ışığı gibi olacak, berrak parıltısı yağmurdan sonra yeryüzünden taze otlar bitirir.'"
+      },
+      {
+        "osis": "2Sam.23.5",
+        "chapter": 23,
+        "verse": 5,
+        "text": "Benim evim de Tanrı ile öyle değil mi? Yine de her şeyde düzenli ve emin benimle sonsuz bir antlaşma yaptı, çünkü bütün kurtuluşum ve bütün dileğim odur. O bunu büyütmeyecek mi?"
+      },
+      {
+        "osis": "2Sam.23.6",
+        "chapter": 23,
+        "verse": 6,
+        "text": "Ama bütün tanrısızlar, elle tutulamayacakları için, atılması gereken dikenler gibi olacaklar."
+      },
+      {
+        "osis": "2Sam.23.7",
+        "chapter": 23,
+        "verse": 7,
+        "text": "Onlara dokunan adam demir ve mızrak sapıyla silahlanmalıdır. Yerlerinde ateşle tamamen yakılacaklardır.”"
+      },
+      {
+        "osis": "2Sam.23.8",
+        "chapter": 23,
+        "verse": 8,
+        "text": "David'in yiğitlerinin adları şunlardır: Tahkemonlu Yoşeb Başşevet, komutanların başı; Esnili Adino diye çağrılırdı, bir defada sekiz yüz kişiyi öldürdü."
+      },
+      {
+        "osis": "2Sam.23.9",
+        "chapter": 23,
+        "verse": 9,
+        "text": "Ondan sonra, David'in yanında savaşa toplanmış Filistliler'e meydan okuyan üç yiğitten biri olan Ahohlu'nun oğlu Doday oğlu Eleazar vardı, İsraelliler de gitmişti."
+      },
+      {
+        "osis": "2Sam.23.10",
+        "chapter": 23,
+        "verse": 10,
+        "text": "O kalktı, eli yorulana ve eli kılıca yapışana dek Filistliler'i vurdu; ve Yahve o gün büyük bir zafer sağladı; ve halk sadece yağma almak için onun ardından geri döndü."
+      },
+      {
+        "osis": "2Sam.23.11",
+        "chapter": 23,
+        "verse": 11,
+        "text": "Ondan sonra Hararlı Age oğlu Şamma geldi. Filistliler mercimek dolu bir tarlanın olduğu yerde birlik halinde toplanmışlardı, halk da Filistliler'den kaçtı."
+      },
+      {
+        "osis": "2Sam.23.12",
+        "chapter": 23,
+        "verse": 12,
+        "text": "Ama o tarlanın ortasında durup onu savundu ve Filistliler'i öldürdü; ve Yahve büyük bir zafer sağladı."
+      },
+      {
+        "osis": "2Sam.23.13",
+        "chapter": 23,
+        "verse": 13,
+        "text": "Otuzlar'ın başlarından üçü aşağı inip hasat zamanında David'in yanına, Adullam mağarasına geldiler; ve Filistliler'in birliği Refaim Vadisi'nde ordugâh kurmuştu."
+      },
+      {
+        "osis": "2Sam.23.14",
+        "chapter": 23,
+        "verse": 14,
+        "text": "O sırada David kaledeydi; ve Filistliler'in garnizonu o sırada Beytlehem'deydi."
+      },
+      {
+        "osis": "2Sam.23.15",
+        "chapter": 23,
+        "verse": 15,
+        "text": "David özlemle, “Keşke biri bana Beytlehem'in kapısındaki kuyudan içecek su verseydi!” dedi."
+      },
+      {
+        "osis": "2Sam.23.16",
+        "chapter": 23,
+        "verse": 16,
+        "text": "Üç yiğit Filist ordusunu yarıp, Beytlehem'in kapısındaki kuyudan su çekip aldılar ve David'e getirdiler; ama David onu içmek istemedi, ama onu Yahve'ye döktü."
+      },
+      {
+        "osis": "2Sam.23.17",
+        "chapter": 23,
+        "verse": 17,
+        "text": "Şöyle dedi, “Ey Yahve, bunu yapmak benden uzak olsun! Bu, hayatlarını tehlikeye atarak gidenlerin kanı değil mi?” Bu yüzden içmek istemedi. Bu üç yiğit bu şeyleri yaptı."
+      },
+      {
+        "osis": "2Sam.23.18",
+        "chapter": 23,
+        "verse": 18,
+        "text": "Seruya oğlu Yoav'ın kardeşi Avişay, Üçler'in başıydı. Mızrağını üç yüze karşı kaldırdı ve onları öldürdü ve Üçler'in arasında adı vardı."
+      },
+      {
+        "osis": "2Sam.23.19",
+        "chapter": 23,
+        "verse": 19,
+        "text": "O, Üçler'in en saygını değil miydi? Bu yüzden onların komutanı oldu. Ancak Üçler'den biri olarak sayılmadı."
+      },
+      {
+        "osis": "2Sam.23.20",
+        "chapter": 23,
+        "verse": 20,
+        "text": "Yehoyada oğlu Benaya, Kavseel'den cesur bir adamın oğluydu. O, kudretli işler yapmıştı. Moavlı Ariel'in iki oğlunu öldürdü. Karlı bir zamanda çukurun ortasında bir aslanı da öldürdü."
+      },
+      {
+        "osis": "2Sam.23.21",
+        "chapter": 23,
+        "verse": 21,
+        "text": "Büyük bir Mısırlı'yı öldürdü. Mısırlı'nın elinde bir mızrak vardı. Ama bir değnek ile ona doğru indi ve mızrağı Mısırlı'nın elinden çekip aldı ve onu kendi mızrağıyla öldürdü."
+      },
+      {
+        "osis": "2Sam.23.22",
+        "chapter": 23,
+        "verse": 22,
+        "text": "Yehoyada oğlu Benaya bu şeyleri yaptı ve üç yiğit arasında ünü vardı."
+      },
+      {
+        "osis": "2Sam.23.23",
+        "chapter": 23,
+        "verse": 23,
+        "text": "Otuzlar'dan daha saygındı, ama Üçler'e ulaşamadı. David onu muhafızlarının başına koydu."
+      },
+      {
+        "osis": "2Sam.23.24",
+        "chapter": 23,
+        "verse": 24,
+        "text": "Yoav'ın kardeşi Asahel Otuzlar'dan biriydi: Beytlehemli Dodo oğlu Elhanan,"
+      },
+      {
+        "osis": "2Sam.23.25",
+        "chapter": 23,
+        "verse": 25,
+        "text": "Harotlu Şamma, Harotlu Elika,"
+      },
+      {
+        "osis": "2Sam.23.26",
+        "chapter": 23,
+        "verse": 26,
+        "text": "Paletli Heles, Tekoalı İkkeş oğlu İra,"
+      },
+      {
+        "osis": "2Sam.23.27",
+        "chapter": 23,
+        "verse": 27,
+        "text": "Anatotlu Aviezer, Huşatlı Mevunnay,"
+      },
+      {
+        "osis": "2Sam.23.28",
+        "chapter": 23,
+        "verse": 28,
+        "text": "Ahohlu Salmon, Netofalı Maharay,"
+      },
+      {
+        "osis": "2Sam.23.29",
+        "chapter": 23,
+        "verse": 29,
+        "text": "Netofalı Baana oğlu Helev, Benyamin'in çocuklarından Givalı Rivay oğlu İttay,"
+      },
+      {
+        "osis": "2Sam.23.30",
+        "chapter": 23,
+        "verse": 30,
+        "text": "Piratonlu Benaya, Gaaş derelerinden Hidday."
+      },
+      {
+        "osis": "2Sam.23.31",
+        "chapter": 23,
+        "verse": 31,
+        "text": "Arvalı Avialvon, Barhumlu Azmavet,"
+      },
+      {
+        "osis": "2Sam.23.32",
+        "chapter": 23,
+        "verse": 32,
+        "text": "Şaalbonlu Elyahba, Yaşenoğulları, Yonatan,"
+      },
+      {
+        "osis": "2Sam.23.33",
+        "chapter": 23,
+        "verse": 33,
+        "text": "Hararlı Şamma, Hararlı Şarar oğlu Ahiam,"
+      },
+      {
+        "osis": "2Sam.23.34",
+        "chapter": 23,
+        "verse": 34,
+        "text": "Maakalı oğlu Ahasbay oğlu Elifelet, Gilolu Ahitofel oğlu Eliam,"
+      },
+      {
+        "osis": "2Sam.23.35",
+        "chapter": 23,
+        "verse": 35,
+        "text": "Karmelli Hesro, Aravlı Paaray,"
+      },
+      {
+        "osis": "2Sam.23.36",
+        "chapter": 23,
+        "verse": 36,
+        "text": "Sovalı Natan oğlu İgal, Gadlı Bani,"
+      },
+      {
+        "osis": "2Sam.23.37",
+        "chapter": 23,
+        "verse": 37,
+        "text": "Ammonlu Selek, Seruya oğlu Yoav'ın silah taşıyıcıları Beerotlu Nahray,"
+      },
+      {
+        "osis": "2Sam.23.38",
+        "chapter": 23,
+        "verse": 38,
+        "text": "İtrili İra, İtrili Garev"
+      },
+      {
+        "osis": "2Sam.23.39",
+        "chapter": 23,
+        "verse": 39,
+        "text": "ve Hititli Uriya: Toplam otuz yedi kişi."
+      }
+    ],
+    "24": [
+      {
+        "osis": "2Sam.24.1",
+        "chapter": 24,
+        "verse": 1,
+        "text": "Yahve'nin öfkesi yine İsrael'e karşı alevlendi ve David'i onlara karşı kışkırtarak, “Git, İsrael ve Yahuda'yı say” dedi."
+      },
+      {
+        "osis": "2Sam.24.2",
+        "chapter": 24,
+        "verse": 2,
+        "text": "Kral, yanında bulunan ordu komutanı Yoav'a, “Şimdi, Dan'dan Beer Şeva'ya kadar İsrael'in bütün oymaklarını dolaş, halkı sayın, halkın toplamını bileyim” dedi."
+      },
+      {
+        "osis": "2Sam.24.3",
+        "chapter": 24,
+        "verse": 3,
+        "text": "Yoav, krala, “Şimdi Tanrın Yahve, ne kadar çok olursa olsun, halka yüz kat daha fazlasını katsın; efendim kralın gözleri de bunu görsün. Ama neden efendim kral bu şeyden hoşnut oluyor?” dedi."
+      },
+      {
+        "osis": "2Sam.24.4",
+        "chapter": 24,
+        "verse": 4,
+        "text": "Bununla birlikte, kralın sözü Yoav'a ve ordu komutanlarına karşı üstün geldi. Yoav ve ordu komutanları, İsrael halkını saymak için kralın önünden çıktılar."
+      },
+      {
+        "osis": "2Sam.24.5",
+        "chapter": 24,
+        "verse": 5,
+        "text": "Yarden'i geçip Gad Vadisi'nin ortasındaki kentin sağ tarafında Aroer'de konakladılar ve Yazer'e,"
+      },
+      {
+        "osis": "2Sam.24.6",
+        "chapter": 24,
+        "verse": 6,
+        "text": "sonra Gilad'a ve Tahtim Hodşi diyarına geldiler; Dan Yaan'a ve Sayda'nın çevresine geldiler,"
+      },
+      {
+        "osis": "2Sam.24.7",
+        "chapter": 24,
+        "verse": 7,
+        "text": "Sur Kalesi'ne ve Hivliler'in ile Kenanlılar'ın bütün kentlerine geldiler; ve Yahuda'nın güneyinde, Beer Şeva'ya çıktılar."
+      },
+      {
+        "osis": "2Sam.24.8",
+        "chapter": 24,
+        "verse": 8,
+        "text": "Böylece bütün ülkeyi dolaşınca, dokuz ay yirmi gün sonunda Yeruşalem'e vardılar."
+      },
+      {
+        "osis": "2Sam.24.9",
+        "chapter": 24,
+        "verse": 9,
+        "text": "Yoav halkın sayımını krala teslim etti; ve İsrael'de kılıç çeken sekiz yüz bin yiğit vardı ve Yahuda adamları beş yüz bin kişiydi."
+      },
+      {
+        "osis": "2Sam.24.10",
+        "chapter": 24,
+        "verse": 10,
+        "text": "David halkı saydıktan sonra yüreği onu vurdu. David Yahve'ye, “Yaptığım işte büyük günah işledim” dedi. “Ama şimdi, ey Yahve, yalvarırım, hizmetkârının suçunu sil; çünkü çok akılsızlık ettim.”"
+      },
+      {
+        "osis": "2Sam.24.11",
+        "chapter": 24,
+        "verse": 11,
+        "text": "Sabahleyin David kalkınca, Yahve'nin sözü David'in Gören'i Peygamber Gad'a geldi ve şöyle dedi:"
+      },
+      {
+        "osis": "2Sam.24.12",
+        "chapter": 24,
+        "verse": 12,
+        "text": "“Git, David'e söyle, Yahve diyor ki, ‘Sana üç şey sunuyorum. Bunlardan birini seç de sana yapayım.’”"
+      },
+      {
+        "osis": "2Sam.24.13",
+        "chapter": 24,
+        "verse": 13,
+        "text": "Bunun üzerine Gad David'e geldi ve ona şöyle dedi: “Ülkende yedi yıl kıtlık mı olsun? Ya da düşmanların seni kovalarken onların önünden üç ay mı kaçarsın? Ya da ülkende üç gün veba mı olsun? Şimdi yanıt ver de beni gönderene ne yanıt vereceğimi düşün.”"
+      },
+      {
+        "osis": "2Sam.24.14",
+        "chapter": 24,
+        "verse": 14,
+        "text": "David Gad'a dedi: “Sıkıntıdayım. Şimdi Yahve'nin eline düşelim, çünkü merhametleri büyüktür. İnsan eline düşmeyeyim.”"
+      },
+      {
+        "osis": "2Sam.24.15",
+        "chapter": 24,
+        "verse": 15,
+        "text": "Böylece Yahve sabahleyin belirlenen zamana dek İsrael'in üzerine veba gönderdi; ve Dan'dan Beer Şeva'ya kadar halktan yetmiş bin kişi öldü."
+      },
+      {
+        "osis": "2Sam.24.16",
+        "chapter": 24,
+        "verse": 16,
+        "text": "Melek elini Yeruşalem'i yok etmek için uzattığında, Yahve felaketten vazgeçti ve halkı yok eden meleğe, “Yeter artık. Şimdi elini çek.” dedi. Yahve'nin meleği Yevuslu Aravna'nın harman yerinin yanındaydı."
+      },
+      {
+        "osis": "2Sam.24.17",
+        "chapter": 24,
+        "verse": 17,
+        "text": "David, halkı vuran meleği görünce Yahve'ye söyleyip dedi, “İşte, ben günah işledim ve sapıklık ettim; ama bu koyunlar ne yaptılar? Lütfen elin bana ve babamın evine karşı olsun.”"
+      },
+      {
+        "osis": "2Sam.24.18",
+        "chapter": 24,
+        "verse": 18,
+        "text": "O gün Gad David'in yanına geldi ve ona, “Çık, Yevuslu Aravna'nın harman yeri üzerinde Yahve'ye bir sunak yap” dedi."
+      },
+      {
+        "osis": "2Sam.24.19",
+        "chapter": 24,
+        "verse": 19,
+        "text": "Gad'ın sözüne göre David Yahve'nin buyurduğu gibi çıktı."
+      },
+      {
+        "osis": "2Sam.24.20",
+        "chapter": 24,
+        "verse": 20,
+        "text": "Aravna dışarı baktı ve kralla hizmetkârlarının kendisine doğru geldiğini gördü. Sonra Aravna dışarı çıktı ve yüzüstü yere kapanarak kralın önünde eğildi."
+      },
+      {
+        "osis": "2Sam.24.21",
+        "chapter": 24,
+        "verse": 21,
+        "text": "Aravna, “Efendim kral neden hizmetkârına geldi?” dedi. David, “Harman yerini satın almak, Yahve'ye bir sunak yapmak için, böylece veba halkın üzerinden kaldırılsın” dedi."
+      },
+      {
+        "osis": "2Sam.24.22",
+        "chapter": 24,
+        "verse": 22,
+        "text": "Aravna, David'e, “Efendim kral alsın ve kendisine iyi gelene göre sunsun. İşte, yakmalık sunu için sığırlar, odun için de harman dövenleri ve öküz boyundurukları."
+      },
+      {
+        "osis": "2Sam.24.23",
+        "chapter": 24,
+        "verse": 23,
+        "text": "Ey kral, Aravna bunların hepsini krala veriyor.” dedi. Aravna, krala, “Tanrın Yahve seni kabul etsin” dedi."
+      },
+      {
+        "osis": "2Sam.24.24",
+        "chapter": 24,
+        "verse": 24,
+        "text": "Kral Aravna'ya, “Hayır, ama kesinlikle senden bir bedel karşılığında satın alacağım. Tanrım Yahve'ye bana hiçe malolmuş yakmalık sunular sunmayacağım.” dedi. Böylece David harman yerini ve öküzleri elli şekel gümüşe satın aldı."
+      },
+      {
+        "osis": "2Sam.24.25",
+        "chapter": 24,
+        "verse": 25,
+        "text": "David orada Yahve'ye bir sunak yaptı ve yakmalık sunular ve esenlik sunuları sundu. Böylece Yahve ülke için yalvarışı kabul etti ve veba İsrael'den kaldırıldı."
+      }
+    ]
+  }
+}
